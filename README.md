@@ -1,2 +1,1 @@
-# 3097
-repository of course materials for moral psychology - 3097
+repository of course materials for moral psychology - PHIL3097
