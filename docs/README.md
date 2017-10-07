@@ -1,80 +1,60 @@
-# Welcome
-
-> what is it? why it matters? how is it known?
-
-Some topics that that might be taken-up: promising & forgiveness, love & hate, authority & obedience, shame & pride, respect & humiliation, pleasure & pain, self-control, competitiveness & equality, hope & despair, fear & grief.
+Welcome to the course page for moral psychology (PHIL 3097, 2017). This module is meant to be exploratory within the limits of the reason and good manners. We'll do our best. Some topics that might be taken-up: love & hate, authority & obedience, shame & pride, respect & humiliation, pleasure & pain, self-control, competitiveness & equality, hope & despair, fear & grief, anger, forgiveness & apology. 
 
 ## Announcements
 
-Royal Institute of Philosophy London Lecture Series for 2017-8 is on Passion and Emotion. Fridays at 1700 at the RIP. It's a great schedule of speakers and a great fit with themes from our seminar. [Details here](http://royalinstitutephilosophy.org/events/london-lecture-series/)
+Royal Institute of Philosophy London Lecture Series for 2017-8 is on Passion and Emotion. Fridays at 1700 at the RIP. It's a great schedule of speakers and a great fit with themes from our seminar. [(link)](http://royalinstitutephilosophy.org/events/london-lecture-series/)
+
+NB There is a discussion session meeting this Monday, *October 9th*! You are strongly encouraged to attend. We'll look at G.E.M. Anscombe's paper 'Modern Moral Philosophy', and we'll talk about what a moral psychology might be and how there might be a place for feelings or passions in it. Further details about the discussion sections are below.
 
 
-# Instructors
+## Instructors
 
 * Douglas Lavin [(d.lavin@ucl.ac.uk)](d.lavin@ucl.ac.uk)
-  - [email policy](#noemail)
 
   - Office: Room 3.4a, 33-35 Torrington Place [(map)](http://www.ucl.ac.uk/maps/33-35-torrington-place)
 
-  - Office hours: Wednesday 1600-1700,
-  [book an appointment](http://www.supersaas.com/schedule/DouglasLavin/Office_Hours_-_UCL)
+  - Office hours: Wednesday 1600-1700, [schedule](http://www.supersaas.co.uk/schedule/DouglasLavin/OfficeHoursUCL)
+  - [email policy](#noemail)
 
 * Alec Hinshelwood [(a.hinshelwood.12@ucl.ac.uk)](a.hinshelwood.12@ucl.ac.uk)
-  - [email policy[tbd]
+  - Office hours tbd
 
 
-# Meetings
+## Meetings
 
-Seminar: Thursday 1600-1800, Gordon Square (19) 102 [(map)](http:...???)
+*Seminar*: Thursday 1600-1800, Gordon Square (19) 102 [(map)](http://www.ucl.ac.uk/maps/19-gordon-square)
 
-Discussion group: Monday 1500-1600, Gordon Square (19) 102\ 
-during weeks 7, 9, 12, 14, 16
+*Discussion sessions*: Mondays 1500-1600 (weeks 7,9,12,14,16), Gordon Square (19) 102
 
-[Course website](https://DigitalPhi.github.io/MoralPsychology): this course is work in progress. There may be minor changes going forward.
+There is a discussion session this Monday, *October 9th*. They're fortnightly from then on. These classes are not mandatory, so you do not have to come. However, you are strongly encouraged to do so! Last year the students found them very beneficial. We had some really excellent in depth discussions about the material. On the whole, we cover the same terrain as the texts set for class reading. The sessions are an opportunity for you to ask questions you didn't get to ask in class, or take further lines of inquiry which you weren't able to in the full group. 
 
-[Moodle at UCL](https://moodle.ucl.ac.uk/course/view.php?id=39769): for the time being, we will use the Moodle to send announcements.
-
+This week, we'll look at at G.E.M. Anscombe's paper 'Modern Moral Philosophy', and we'll talk a bit about what moral psychology might be and how feelings figure in it.
 
 
-# Brief schedule of topics
+## Course materials
+
+All the substantive course content will be available here on this [course website](https://DigitalPhi.github.io/MoralPsychology). This course is work in progress. There may be a few, minor changes going forward.
+
+A folder with assigned and supplemental readings [here](https://www.dropbox.com/sh/6co6o1lykiw13uf/AAAOD2ZQkDpU9psqM2IndYbia?dl=0). You will find links to individual readings in the detailed schedule of topics [below](#schedule).
+
+We will use the UCL [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=39769) only to send announcements and as the portal for submitting and receiving summative essays.
 
 
-| Date  | Topic    | Reading |
-|:------|:---------|:--------|
-| 05.10 | The good |         |
-| 12.10 | The mind |         |
-| 19.10 |          |         |
-| 26.10 |          |         |
-| 02.11 |          |         |
-| 09.11 |          |         |
-| 16.11 |          |         |
-| 23.11 |          |         |
-| 30.11 |          |         |
-| 07.12 |          |         |
-| 14.12 |          |         |
+## Brief, provisional schedule of topics
 
+| Date  | Topic                               | Main reading          |
+|:------|:------------------------------------|:----------------------|
+| 05.10 | Morality & other practical concepts | Anscombe              |
+| 12.10 | Mind in action and passion          | Moran & Korsgaard     |
+| 19.10 | Love & freedom                      | Nozick & Sartre       |
+| 26.10 | Love, reason & desire               | Frankfurt             |
+| 02.11 | Love & morality                     | Velleman & Wolf       |
+| 09.11 | READING WEEK                        | --                    |
+| 16.11 | Grief, harm & time                  | Freud & Marušić       |
+| 23.11 | Anger & injustice                   | Nussbaum & Srinivasan |
+| 30.11 | Forgiveness & memory                | Margalit & Arendt     |
+| 07.12 | Guilt & Shame                       | Velleman & Taylor     |
+| 14.12 | Shame & Pride                       | Williams & OBrien     |
 
-
-<!-- # Background readings -->
-
-<!-- Philippa Foot, *Virtues and Vices* (selections) -->
-
-<!-- Anthony Kenny, *Action, Emotion and Will* -->
-
-<!-- Christine Korsgaard, [*The Constitution of Agency*]() esp. "Acting for a Reason" and "From Duty and for the Sake of the Noble: Kant and Aristotle on Morally Good Action"
-
-Jonathan Lear, "Integrating the Non-Rational Soul". Proc Aristot Soc 2014; 114: 75-101. doi: 10.1111/j.1467-9264.2014.00365.x
-
-John McDowell, ["Virtue and Reason"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/McDowell%2C%20Virtue%20and%20Reason.pdf?raw=true)
-
-Amelie Rorty, ed., [*Explaining Emotions*]()
-
-P.F. Strawson, ["Freedom and Resentment"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Strawson%20-%20Freedom%20and%20Resentment.pdf?raw=true)
-
-Bernard Williams, ["Morality and the Emotions"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Williams%20-%20Morality%20and%20the%20Emotions.pdf?raw=true) -->
-
-<!-- Gabrielle Taylor, *Pride, Shame and Guilt: Emotions of Self-Assessment* -->
-
-<!-- A.O. Lovejoy, *Reflections on Human Nature* -->
 
 

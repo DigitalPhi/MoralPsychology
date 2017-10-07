@@ -1,41 +1,69 @@
+## Morality and other practical concepts 
+05 October
 
-### October 6 - The idea of a moral psychology
-
-<!-- #### Topics -->
-
-#### Reading
-
-G.E.M. Anscombe, ["Modern Moral Philosophy"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Anscombe%20-%20Modern_Moral_Philosophy.pdf?raw=true)
-
-Jonathan Lear. [Psychoanalysis and the Idea of a Moral Psychology: Memorial to Bernard Williams] Philosophy’. Inquiry 47, no. 5 (1 October 2004): 515–22. doi:10.1080/00201740410004232)
-
-Bernard Williams, ["Replies", esp. sections "Naturalism and Morality" and "Style"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Williams%20-%20Replies%20in%20World_Mind_Ethics.pdf?raw=true)
+*Topics*
 
 
+*Reading*
 
-<!-- ##### Reading on naturalistic moral psychology -->
-
-
-##### Reading on understanding and sensibility in the emotions
-
-Sebastian Gardner, ["The Nature and Source of Emotion"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Gardner%20-%20The_nature_and_source_of_emotion.pdf?raw=true)
-
-Martha Nussbaum, [*Upheavals of Thought*](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Nussbaum%20Upheav%20Thought%20ch1.pdf?raw=true), "Emotions as Judgments of Value", ch. 1
-
-AW Price, ["Are Emotions Judgments of Value?"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Price%20-%20Are%20Emotions%20Judgments%20of%20Value.pdf?raw=true)
-
-<!-- Amelie Rorty, *Explaining Emotions* -->
-
-Solomon, ["Emotions and Choice"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Solomon%20-%20Emotions%20and%20Choice.pdf?raw=true)
+G.E.M. Anscombe, ["Modern moral philosophy"](https://www.dropbox.com/s/i3iqx4cy2o9cm8k/Anscombe%20-%20Modern_Moral_Philosophy.pdf?dl=0)
 
 
-<!-- remove dates here so i dont have to change this bit year to year -->
+*Further reading*
 
-### October 13 - Love
+Philippa Foot, "Moral beliefs"[link](https://www.dropbox.com/s/syecfcdyd7teiql/Foot_Moral_Beliefs.pdf?dl=0)
+
+Edward Harcourt, "Nietzsche and eudaimonism"[link](https://www.dropbox.com/s/5kq5mnfdbsoitm9/Nietzsche_and_Eudaemonism.pdf?dl=0)
+
+Iris Murdoch, *Sovereignty of Good*, esp.
+the discussion of the characters M. and D. in "The Idea of Perfection" pp.16-, and the discussion of attention in "On ‘God’ and ‘Good’"[link](https://www.dropbox.com/s/dsxabeu2pms50qo/murdoch-good.pdf?dl=0)
+
+Michael Tanner, ‘Sentimentality’. [link](https://www.dropbox.com/s/35kmaybpua1s3va/4544903.pdf?dl=0)
+
+<!-- Jonathan Lear, 'Psychoanalysis and the Idea of a Moral Psychology: Memorial to Bernard Williams Philosophy'. -->
+
+Bernard Williams, "Replies", esp. sections "Naturalism and Morality" and "Style"[link](https://www.dropbox.com/s/eskthks2rhdvfnf/Williams%20-%20Replies%20in%20World_Mind_Ethics.pdf?dl=0)
+
+Bernard Williams, "Morality and the emotions"[link](https://www.dropbox.com/s/b3mu2xhxo6i4xeu/Williams%20-%20Morality%20and%20the%20Emotions.pdf?dl=0)
+
+Richard Wollheim, ‘The good self and the bad self’in *The mind and its depths* [link]()
+
+
+## Mind in action and passion 
+12 October
+
+*Topics*
+
+
+*Reading*
+
+Richard Moran, "Frankfurt on identification: ambiguities of activity in mental life." pp. 189-217. [link](https://www.dropbox.com/s/y0x961osh0owbut/Moran-Frankfurt-Ambiguities.pdf?dl=0)
+
+Christine M. Korsgaard, "The normative question" in *The Sources of Normativity*, pp. 7-21 [link](https://www.dropbox.com/s/h5ic8klzkq7xudl/Christine%20M.%20Korsgaard%20The%20Sources%20of%20Normativity%20%201996.pdf?dl=0)
+
+
+*Further reading*
+
+Stuart Hampshire, ‘Freedom of mind’[link](https://www.dropbox.com/s/88ckc9of3ax9o5z/Freedom%20of%20Mind--Stuart%20Hampshire-1965.pdf?dl=0)
+
+William James, "What is an emotion?"[link](https://www.dropbox.com/s/f3i2rtaj7g7gh86/2_James_1884_WhatisanEmotion%20copy.pdf?dl=0)
+
+Alexandra Newton, "Kant on animal and human pleasure"[link](https://www.dropbox.com/s/d30yj9y1z41xjfk/Newton_Kant_on_Animal_and_Human_Pleasure.pdf?dl=0)
+
+Joseph Raz, ‘When we are ourselves: the active and the passive' [link](https://www.dropbox.com/s/qvji0j41zczoe1a/raz-active-passive.pdf?dl=0)
+
+Bernard Williams, ‘Pleasure and belief’[link](https://www.dropbox.com/s/ycy35sg9x3hi5gg/williams-pleasure-belief.pdf?dl=0)
+
+
+...more to come shortly...
+
+<!-- ## Love
 
 Topics
 
-Why does the lover want to be loved? Are there reasons for love? Is there a conflict between the demands of love and the demands of impartial morality? What role does the declaration of love (“I love you”) play in the constitution of the relationship itself? What are the desires characteristic of different types of love? What is the relation of sex and love? What distinguishes 'normal' love from neurotic and perverse love?
+Why does the lover want to be loved? Are there reasons for love? Is there a conflict between the demands of love and the demands of impartial morality? What role does the declaration of love (“I love you”) play in the constitution of the relationship itself? What are the desires characteristic of different types of love? What is the relation of sex and love? What distinguishes 'normal' love from neurotic and perverse love? -->
+
+<!-- 
 
 #### Reading
 Robert Nozick, ["Love's Bond"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Nozick%20-%20Loves%20Bond.pdf?raw=true)
@@ -52,6 +80,8 @@ Thomas Nagel, ["Sexual Perversion"](https://github.com/UCL-PHIL/3097/blob/gh-pag
 
 Brunning, Luke [The Distinctiveness of Polyamory](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Brunning%20-%20Polyamory.pdf?raw=true)
 
+
+
 ### October 20 - Love
 
 #### Reading
@@ -66,23 +96,24 @@ Jonathan Lear, ["Love's Authority"](https://github.com/UCL-PHIL/3097/blob/gh-pag
 
 Harry Frankfurt, “Reply to Jonathan Lear” (follows Lear's essay above)
 
+
 ### October 27 - Love
 
 #### Reading
 
 David Velleman, ["Love as a Moral Emotion"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Velleman%20-%20Love%20as%20a%20Moral%20Emotion.pdf?raw=true) Ethics 109 (1999), pp. 338-374
 
+Susan Wolf, ["Morality and Partiality"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Wolf%20-%20Partiality%20Morality.pdf?raw=true) Philosophical Perspectives, 6 (1992), pp. 243- 259
+
 <!-- [Handout on Velleman](https://github.com/UCL-PHIL/3097/blob/gh-pages/handouts/Velleman%20-%20Love%20Moral%20Emotion_HO.pdf?raw=true) -->
+
+<!-- 
 
 ##### Further reading
 
 Oded Naaman, ["Distinction in Love"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Naaman%20-%20Distinction%20in%20Love.pdf?raw=true)
 
-Susan Wolf, ["Morality and Partiality"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Wolf%20-%20Partiality%20Morality.pdf?raw=true) Philosophical Perspectives, 6 (1992), pp. 243- 259
-
 David Velleman, ["Beyond Price"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Velleman%20-%20Beyond%20Price.pdf?raw=true)
-
-
 
 
 
@@ -102,7 +133,7 @@ Stephen Wilkinson, [“Is ‘Normal Grief’ a Mental Disorder?"](https://github
 
 Freud, ["Mourning and Melancholia"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Freud%20-%20Mourning%20Melancholia.pdf?raw=true) (l9l7), Standard Edition, XIV, pp. 239-258.
 
-Gustafson, ["Grief"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Gustafson%20-%20Grief.pdf?raw=true)
+Gustafson, Donald ["Grief"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Gustafson%20-%20Grief.pdf?raw=true)
 
 Lear, "Mourning and moral psychology", Psychoanalytic Psychology 2014, Vol. 31, No. 4, 470–481 http://dx.doi.org/10.1037/a0038064
 
@@ -158,9 +189,11 @@ Nussbaum in light of the US presidential election: ["Anger, Disgust, Fear: Power
 
 Avishai Margalit, ["Forgiving and Forgetting"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Margalit-The%20Ethics%20of%20Memory.pdf?raw=true), in *The Ethics of Memory* pp. 183-210
 
-##### Further reading
-
 Hannah Arendt, *The Human Condition* selections
+
+
+
+##### Further reading
 
 Lucy Allais, ["Wiping the Slate Clean: The Heart of Forgiveness"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Alias%20-%20Wiping%20Slate%20Clean.pdf?raw=true) Philosophy & Public Affairs, Vol. 36, No. 1 (Winter, 2008), 33-68
 
@@ -171,7 +204,7 @@ Pamela Hieronymi, “Articulating an Uncompromising Forgiveness,” Philosophy a
 Jeffrie Murphy, “Forgiveness and Resentment” from Forgiveness and Mercy, Cambridge: Cambridge University Press (1998)
 
 
-### December 8 - What we think of each other: shame and pride
+### December 8 - What we think of ourselves and each other: guilt, innocence, shame and pride
 
 #### Topics
 
@@ -189,7 +222,7 @@ Gabrielle Taylor, ["Shame"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readi
 
 ### December 15 - Shame
 
-<!-- #### Topics -->
+<!-- 
 
 #### Readings
 
@@ -199,4 +232,4 @@ Bernard Williams, [*Shame and Necessity*](https://github.com/UCL-PHIL/3097/blob/
 
 Ilham Dilman, ["Shame, Guilt and Remorse"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Dilman-1999-Philosophical_Investigations.pdf?raw=true)
 
-Richard Wollheim, [*On the Emotions*](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Wollheim%20-%20On_the_Emotions%203.pdf?raw=true) ch.3
+Richard Wollheim, [*On the Emotions*](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Wollheim%20-%20On_the_Emotions%203.pdf?raw=true) ch.3  -->
