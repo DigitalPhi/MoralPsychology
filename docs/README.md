@@ -20,7 +20,6 @@ Some topics that might be taken-up: love & hate, authority & obedience, shame & 
     <!-- - [email policy](#noemail) -->
  <!-- [schedule](http://www.supersaas.co.uk/schedule/DouglasLavin/OfficeHoursUCL) -->
 
-
 - Alec Hinshelwood [(a.hinshelwood.12@ucl.ac.uk)](a.hinshelwood.12@ucl.ac.uk)
   + Office hours tbd
 
