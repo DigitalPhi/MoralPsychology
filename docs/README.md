@@ -4,49 +4,48 @@
 
 Some topics that might be taken-up: love & hate, authority & obedience, shame & pride, respect & humiliation, pleasure & pain, self-control, competitiveness & equality, hope & despair, fear & grief, anger, forgiveness & apology. This module is meant to be exploratory within the limits of reason and good manners. Let's all do our best.
 
-## Announcements
+### Announcements
 
-Royal Institute of Philosophy London Lecture Series for 2017-8 is on Passion and Emotion. Fridays at 1700 at the RIP. It's a great schedule of speakers and a great fit with themes from our seminar. [(link)](http://royalinstitutephilosophy.org/events/london-lecture-series/)
+- Royal Institute of Philosophy London Lecture Series for 2017-8 is on Passion and Emotion. Fridays at 1700 at the RIP. It's a great schedule of speakers and a great fit with themes from our seminar. [(link)](http://royalinstitutephilosophy.org/events/london-lecture-series/)
 
-NB There is a discussion session meeting this Monday, *October 9th*! You are strongly encouraged to attend. We'll look at G.E.M. Anscombe's paper 'Modern Moral Philosophy', and we'll talk about what a moral psychology might be and how there might be a place for feelings or passions in it. Further details about the discussion sections are below.
+- NB There is a discussion session meeting this Monday, *October 9th*! You are strongly encouraged to attend. We'll look at G.E.M. Anscombe's paper 'Modern Moral Philosophy', and we'll talk about what a moral psychology might be and how there might be a place for feelings or passions in it. Further details about the discussion sections are below.
 
 
-## Instructors
+### Instructors
 
-* Douglas Lavin [(d.lavin@ucl.ac.uk)](d.lavin@ucl.ac.uk)
+- Douglas Lavin [(d.lavin@ucl.ac.uk)](d.lavin@ucl.ac.uk)
 
-  - Office: Room 3.4a, 33-35 Torrington Place [(map)](http://www.ucl.ac.uk/maps/33-35-torrington-place)
-
-  - Office hours: Wednesday 1600-1700,
-    - [email policy](#noemail)
+  + Office: Room 3.4a, 33-35 Torrington Place [(map)](http://www.ucl.ac.uk/maps/33-35-torrington-place)
+  + Office hours: Wednesday 1600-1700
+    <!-- - [email policy](#noemail) -->
  <!-- [schedule](http://www.supersaas.co.uk/schedule/DouglasLavin/OfficeHoursUCL) -->
 
 
-* Alec Hinshelwood [(a.hinshelwood.12@ucl.ac.uk)](a.hinshelwood.12@ucl.ac.uk)
-  - Office hours tbd
+- Alec Hinshelwood [(a.hinshelwood.12@ucl.ac.uk)](a.hinshelwood.12@ucl.ac.uk)
+  + Office hours tbd
 
 
-## Meetings
+### Meetings
 
-*Seminar*: Thursday 1600-1800, Gordon Square (19) 102 [(map)](http://www.ucl.ac.uk/maps/19-gordon-square)
+- Seminar: Thursday 1600-1800, Gordon Square (19) 102 [(map)](http://www.ucl.ac.uk/maps/19-gordon-square)
 
-*Discussion sessions*: Mondays 1500-1600 (weeks 7,9,12,14,16), Gordon Square (19) 102
+- Discussion sessions: Mondays 1500-1600 (weeks 7,9,12,14,16), Gordon Square (19) 102
 
-There is a discussion session this Monday, *October 9th*. They're fortnightly from then on. These classes are not mandatory, so you do not have to come. However, you are strongly encouraged to do so! Last year the students found them very beneficial. We had some really excellent in depth discussions about the material. On the whole, we cover the same terrain as the texts set for class reading. The sessions are an opportunity for you to ask questions you didn't get to ask in class, or take further lines of inquiry which you weren't able to in the full group. 
+There is a discussion session this Monday, *October 9th*. They're fortnightly from then on. These classes are not mandatory, so you do not have to come. However, you are strongly encouraged to do so! Last year the students found them very beneficial. We had some really excellent in depth discussions about the material. On the whole, we cover the same terrain as the texts set for class reading. The sessions are an opportunity for you to ask questions you didn't get to ask in class, or take further lines of inquiry which you weren't able to in the full group.
 
-This week, we'll look at at G.E.M. Anscombe's paper 'Modern Moral Philosophy', and we'll talk a bit about what moral psychology might be and how feelings figure in it.
+This week, we'll look at G.E.M. Anscombe's paper 'Modern Moral Philosophy'. We'll talk a bit about what moral psychology might be and how there might be a place in it for feeling and passion in addition to choice and action.
 
 
-## Course materials
+### Course materials
 
-All the substantive course content will be available here on this [course website](https://DigitalPhi.github.io/MoralPsychology). This course is work in progress. There may be a few, minor changes going forward.
+All the substantive course content will be available here on this course website. This module is work in progress. There may be a few, minor changes going forward.
 
-A folder with assigned and supplemental readings [here](https://www.dropbox.com/sh/6co6o1lykiw13uf/AAAOD2ZQkDpU9psqM2IndYbia?dl=0). You will find links to individual readings in the detailed schedule of topics [below](#schedule).
+A folder with all the assigned and supplemental readings will be posted soon [here](https://www.dropbox.com/sh/6co6o1lykiw13uf/AAAOD2ZQkDpU9psqM2IndYbia?dl=0). At present, you will find links to individual readings in the detailed schedule of topics [below](#schedule).
 
 We will use the UCL [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=39769) only to send announcements and as the portal for submitting and receiving summative essays.
 
 
-## Brief, provisional schedule of topics
+<span style="font-variant:small-caps;"> brief schedule of topics</span>
 
 | Date  | Topic                               | Main reading          |
 |:------|:------------------------------------|:----------------------|
@@ -61,6 +60,4 @@ We will use the UCL [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=39769) 
 | 30.11 | Forgiveness & memory                | Margalit & Arendt     |
 | 07.12 | Guilt & Shame                       | Velleman & Taylor     |
 | 14.12 | Shame & Pride                       | Williams & OBrien     |
-
-
 
