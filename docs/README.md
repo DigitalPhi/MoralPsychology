@@ -1,6 +1,8 @@
-# Welcome
+## Moral psychology
 
-Welcome to the course page for moral psychology (PHIL 3097, 2017). This module is meant to be exploratory within the limits of the reason and good manners. We'll do our best. Some topics that might be taken-up: love & hate, authority & obedience, shame & pride, respect & humiliation, pleasure & pain, self-control, competitiveness & equality, hope & despair, fear & grief, anger, forgiveness & apology. 
+> Welcome! This is the course page for moral psychology (PHIL 3097, 2017). 
+
+Some topics that might be taken-up: love & hate, authority & obedience, shame & pride, respect & humiliation, pleasure & pain, self-control, competitiveness & equality, hope & despair, fear & grief, anger, forgiveness & apology. This module is meant to be exploratory within the limits of reason and good manners. Let's all do our best.
 
 ## Announcements
 

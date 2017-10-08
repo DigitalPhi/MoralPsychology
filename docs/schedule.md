@@ -1,18 +1,19 @@
-# Schedule of topics and readings
+# Schedule
 
-## Morality and other practical concepts
+## What is moral psychology
+
+### Morality and other practical concepts
 
 05 October
 
 *Topics*
-
 
 *Reading*
 
 G.E.M. Anscombe, ["Modern moral philosophy"](https://www.dropbox.com/s/i3iqx4cy2o9cm8k/Anscombe%20-%20Modern_Moral_Philosophy.pdf?dl=0)
 
 
-*Further reading*
+;*Further reading*
 
 Philippa Foot, "Moral beliefs"[link](https://www.dropbox.com/s/syecfcdyd7teiql/Foot_Moral_Beliefs.pdf?dl=0)
 
@@ -29,10 +30,10 @@ Bernard Williams, "Replies", esp. sections "Naturalism and Morality" and "Style"
 
 Bernard Williams, "Morality and the emotions"[link](https://www.dropbox.com/s/b3mu2xhxo6i4xeu/Williams%20-%20Morality%20and%20the%20Emotions.pdf?dl=0)
 
-Richard Wollheim, ‘The good self and the bad self’in *The mind and its depths* [link]()
+Richard Wollheim, ‘The good self and the bad self' in *The mind and its depths* [link]()
 
 
-## Mind in action and passion
+### Mind in action and passion
 
 12 October
 
@@ -59,11 +60,17 @@ Joseph Raz, ‘When we are ourselves: the active and the passive' [link](https:/
 Bernard Williams, ‘Pleasure and belief’[link](https://www.dropbox.com/s/ycy35sg9x3hi5gg/williams-pleasure-belief.pdf?dl=0)
 
 
-<!-- ## Love
+## Love
 
-Topics
+### Love and freedom
 
-Why does the lover want to be loved? Are there reasons for love? Is there a conflict between the demands of love and the demands of impartial morality? What role does the declaration of love (“I love you”) play in the constitution of the relationship itself? What are the desires characteristic of different types of love? What is the relation of sex and love? What distinguishes 'normal' love from neurotic and perverse love? -->
+### Love, reason and desire
+
+### Love and justice
+
+<!-- Topics
+
+Why does the lover want to be loved? Are there reasons for love? Is there a conflict between the demands of love and the demands of impartial morality? What role does the declaration of love (“I love you”) play in the constitution of the relationship itself? What are the desires characteristic of different types of love? What is the relation of sex and love? What distinguishes 'normal' love from neurotic and perverse love?  -->
 
 <!-- 
 
