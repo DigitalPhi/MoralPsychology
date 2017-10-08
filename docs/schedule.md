@@ -1,10 +1,9 @@
-# Schedule
 
-## What is moral psychology
+## What is moral psychology?
 
 ### Morality and other practical concepts
 
-05 October
+**05 October**
 
 *Topics*
 
@@ -13,7 +12,7 @@
 G.E.M. Anscombe, ["Modern moral philosophy"](https://www.dropbox.com/s/i3iqx4cy2o9cm8k/Anscombe%20-%20Modern_Moral_Philosophy.pdf?dl=0)
 
 
-;*Further reading*
+*Further reading*
 
 Philippa Foot, "Moral beliefs"[link](https://www.dropbox.com/s/syecfcdyd7teiql/Foot_Moral_Beliefs.pdf?dl=0)
 
@@ -30,12 +29,12 @@ Bernard Williams, "Replies", esp. sections "Naturalism and Morality" and "Style"
 
 Bernard Williams, "Morality and the emotions"[link](https://www.dropbox.com/s/b3mu2xhxo6i4xeu/Williams%20-%20Morality%20and%20the%20Emotions.pdf?dl=0)
 
-Richard Wollheim, ‘The good self and the bad self' in *The mind and its depths* [link]()
+<!-- Richard Wollheim, ‘The good self and the bad self' in *The mind and its depths* [link]() -->
 
 
 ### Mind in action and passion
 
-12 October
+**12 October**
 
 *Topics*
 
