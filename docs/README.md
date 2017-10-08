@@ -1,13 +1,15 @@
+# Welcome
+
 Welcome to the course page for moral psychology (PHIL 3097, 2017). This module is meant to be exploratory within the limits of the reason and good manners. We'll do our best. Some topics that might be taken-up: love & hate, authority & obedience, shame & pride, respect & humiliation, pleasure & pain, self-control, competitiveness & equality, hope & despair, fear & grief, anger, forgiveness & apology. 
 
-## Announcements {-}
+## Announcements
 
 Royal Institute of Philosophy London Lecture Series for 2017-8 is on Passion and Emotion. Fridays at 1700 at the RIP. It's a great schedule of speakers and a great fit with themes from our seminar. [(link)](http://royalinstitutephilosophy.org/events/london-lecture-series/)
 
 NB There is a discussion session meeting this Monday, *October 9th*! You are strongly encouraged to attend. We'll look at G.E.M. Anscombe's paper 'Modern Moral Philosophy', and we'll talk about what a moral psychology might be and how there might be a place for feelings or passions in it. Further details about the discussion sections are below.
 
 
-## Instructors {-}
+## Instructors
 
 * Douglas Lavin [(d.lavin@ucl.ac.uk)](d.lavin@ucl.ac.uk)
 
@@ -22,7 +24,7 @@ NB There is a discussion session meeting this Monday, *October 9th*! You are str
   - Office hours tbd
 
 
-## Meetings {-}
+## Meetings
 
 *Seminar*: Thursday 1600-1800, Gordon Square (19) 102 [(map)](http://www.ucl.ac.uk/maps/19-gordon-square)
 
@@ -33,7 +35,7 @@ There is a discussion session this Monday, *October 9th*. They're fortnightly fr
 This week, we'll look at at G.E.M. Anscombe's paper 'Modern Moral Philosophy', and we'll talk a bit about what moral psychology might be and how feelings figure in it.
 
 
-## Course materials {-}
+## Course materials
 
 All the substantive course content will be available here on this [course website](https://DigitalPhi.github.io/MoralPsychology). This course is work in progress. There may be a few, minor changes going forward.
 
@@ -42,7 +44,7 @@ A folder with assigned and supplemental readings [here](https://www.dropbox.com/
 We will use the UCL [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=39769) only to send announcements and as the portal for submitting and receiving summative essays.
 
 
-## Brief, provisional schedule of topics {-}
+## Brief, provisional schedule of topics
 
 | Date  | Topic                               | Main reading          |
 |:------|:------------------------------------|:----------------------|

@@ -7,12 +7,12 @@
   - [Brief schedule of topics](README.md)
 
 - Schedule
-  - [Morality and other practical concepts](schedule.md/{#eudaimonia})
-  - [Mind in action and passion](schedule.md/{#praxis})
-  - ...more to come...
+  - [Morality and other practical concepts](schedule.md)
+  - [Mind in action and passion](schedule.md)
 
 - Assessment
   - [Summative essay](assessment.md)
+  - [Formative essay](assessment.md)
   - [Discussion questions](assessment.md)
 
 

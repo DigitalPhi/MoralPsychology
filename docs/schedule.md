@@ -1,4 +1,7 @@
-## Morality and other practical concepts {#eudaimonia}
+# Schedule of topics and readings
+
+## Morality and other practical concepts
+
 05 October
 
 *Topics*
@@ -29,7 +32,8 @@ Bernard Williams, "Morality and the emotions"[link](https://www.dropbox.com/s/b3
 Richard Wollheim, ‘The good self and the bad self’in *The mind and its depths* [link]()
 
 
-## Mind in action and passion {#praxis}
+## Mind in action and passion
+
 12 October
 
 *Topics*
@@ -54,8 +58,6 @@ Joseph Raz, ‘When we are ourselves: the active and the passive' [link](https:/
 
 Bernard Williams, ‘Pleasure and belief’[link](https://www.dropbox.com/s/ycy35sg9x3hi5gg/williams-pleasure-belief.pdf?dl=0)
 
-
-...more to come shortly...
 
 <!-- ## Love
 

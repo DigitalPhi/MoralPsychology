@@ -1,4 +1,4 @@
-...details to come...
+
 
 <!-- 
 ## Selective general background readings

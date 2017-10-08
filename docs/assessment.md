@@ -1,3 +1,5 @@
+# Assessment
+
 ## Summative essay
 
 * for BA candidates an essay of 3500 words (PHIL3097). (This may consist of either a single 3500 word essay or two papers one 1500 words and the other 2000 words.)
@@ -7,7 +9,7 @@
 Questions will be distributed in advance. You are very welcome to propose your own, but topics must be approved by the instructors before with a week after reading week.
 
 
-*Formative essay*
+### Formative essay
 
 You are strongly encouraged to write a formative essay during the reading week.
 
