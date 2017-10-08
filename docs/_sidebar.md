@@ -1,15 +1,15 @@
 
 - Welcome
-  - [Announcements]
+  - [Announcements](README.md)
   - [Instructors](README.md)
-  - [Meetings]
-  - [Course materials]
-  - [Brief schedule of topics]
+  - [Meetings](README.md)
+  - [Course materials](README.md)
+  - [Brief schedule of topics](README.md)
 
 - Schedule
-  - Morality and other practical concepts
-  - Mind in action and passion
-  - 
+  - [Morality and other practical concepts](schedule.md/{#eudaimonia})
+  - [Mind in action and passion](schedule.md/{#praxis})
+  - ...more to come...
 
 - Assessment
   - [Summative essay](assessment.md)

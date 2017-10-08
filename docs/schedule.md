@@ -1,4 +1,4 @@
-## Morality and other practical concepts 
+## Morality and other practical concepts {#eudaimonia}
 05 October
 
 *Topics*
@@ -29,7 +29,7 @@ Bernard Williams, "Morality and the emotions"[link](https://www.dropbox.com/s/b3
 Richard Wollheim, ‘The good self and the bad self’in *The mind and its depths* [link]()
 
 
-## Mind in action and passion 
+## Mind in action and passion {#praxis}
 12 October
 
 *Topics*
