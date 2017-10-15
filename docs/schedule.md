@@ -7,6 +7,7 @@
 
 *Topics*
 
+
 *Reading*
 
 G.E.M. Anscombe, ["Modern moral philosophy"](https://www.dropbox.com/s/i3iqx4cy2o9cm8k/Anscombe%20-%20Modern_Moral_Philosophy.pdf?dl=0)
@@ -25,6 +26,8 @@ Michael Tanner, ‘Sentimentality’. [link](https://www.dropbox.com/s/35kmaybpu
 
 <!-- Jonathan Lear, 'Psychoanalysis and the Idea of a Moral Psychology: Memorial to Bernard Williams Philosophy'. -->
 
+RJ Wallace, ['Moral Psychology](https://www.dropbox.com/s/h4hsgmkx5megpy5/wallace-moralpsychology-handbook.pdf?dl=0)
+
 Bernard Williams, "Replies", esp. sections "Naturalism and Morality" and "Style"[link](https://www.dropbox.com/s/eskthks2rhdvfnf/Williams%20-%20Replies%20in%20World_Mind_Ethics.pdf?dl=0)
 
 Bernard Williams, "Morality and the emotions"[link](https://www.dropbox.com/s/b3mu2xhxo6i4xeu/Williams%20-%20Morality%20and%20the%20Emotions.pdf?dl=0)
@@ -36,95 +39,129 @@ Bernard Williams, "Morality and the emotions"[link](https://www.dropbox.com/s/b3
 
 **12 October**
 
-*Topics*
+*Topics*\
+
+Alienated and non-alienated relations to elements of one's own psychic life. What is it for a belief, desire, enjoyment or other motivation to be truly 'one's own'? What what is the importance of this difference? Can we grasp the ordinary notion of identification through its connection to activity? What would the relevant notion of activity have to be? What distinguishes persons from other creatures capable of action, and what is it that we want when we want our wills to be 'free'? 
+
+The nature of desire and its relation to reasons. Active and passive relations to one's desires. Freedom, authority, and their relation to self-knowledge. Is self-knowledge essentially different from the knowledge you may have of another person, as Moran and Korsgaard suggest? How does a person 'know his own mind' as to what he intends to do, and how is this different from coming to have predictive knowledge of what someone will do? How in particular does Moran see this as a matter of being guided by norms or reasons?
 
 
-*Reading*
+*Reading*\
 
 Richard Moran, "Frankfurt on identification: ambiguities of activity in mental life." pp. 189-217. [link](https://www.dropbox.com/s/y0x961osh0owbut/Moran-Frankfurt-Ambiguities.pdf?dl=0)
 
 Christine M. Korsgaard, "The normative question" in *The Sources of Normativity*, pp. 7-21 [link](https://www.dropbox.com/s/h5ic8klzkq7xudl/Christine%20M.%20Korsgaard%20The%20Sources%20of%20Normativity%20%201996.pdf?dl=0)
 
 
-*Further reading*
+*Further reading*\
+
+Harry Frankfurt, [‘Identification and Externality’](https://www.dropbox.com/s/fxwmflv6n25u9zs/Identification_and_externality%20copy.pdf?dl=0)
 
 Stuart Hampshire, ‘Freedom of mind’[link](https://www.dropbox.com/s/88ckc9of3ax9o5z/Freedom%20of%20Mind--Stuart%20Hampshire-1965.pdf?dl=0)
 
-William James, "What is an emotion?"[link](https://www.dropbox.com/s/f3i2rtaj7g7gh86/2_James_1884_WhatisanEmotion%20copy.pdf?dl=0)
-
-Alexandra Newton, "Kant on animal and human pleasure"[link](https://www.dropbox.com/s/d30yj9y1z41xjfk/Newton_Kant_on_Animal_and_Human_Pleasure.pdf?dl=0)
+Alec Hinshelwood, [‘The relations between agency, identification, and alienation'](https://www.dropbox.com/s/7gtlbymaejfham7/hinshelwood-agency-identification-alienation.pdf?dl=0)
 
 Joseph Raz, ‘When we are ourselves: the active and the passive' [link](https://www.dropbox.com/s/qvji0j41zczoe1a/raz-active-passive.pdf?dl=0)
 
-Bernard Williams, ‘Pleasure and belief’[link](https://www.dropbox.com/s/ycy35sg9x3hi5gg/williams-pleasure-belief.pdf?dl=0)
+Bernard Williams, [‘Pleasure and belief’](https://www.dropbox.com/s/ycy35sg9x3hi5gg/williams-pleasure-belief.pdf?dl=0)
+
+Harry Frankfurt, [‘Freedom of the Will and the Concept of a Person’](https://www.dropbox.com/s/vxka9anoqc2jamh/frankfurt-person.pdf?dl=0)
+
+Gary Watson, [‘Free Agency’](https://www.dropbox.com/s/t7xi0l24zgnyug3/watson%20free%20agency%202024703.pdf?dl=0)
+
+<!-- William James, "What is an emotion?"[link](https://www.dropbox.com/s/f3i2rtaj7g7gh86/2_James_1884_WhatisanEmotion%20copy.pdf?dl=0)
+
+Alexandra Newton, "Kant on animal and human pleasure"[link](https://www.dropbox.com/s/d30yj9y1z41xjfk/Newton_Kant_on_Animal_and_Human_Pleasure.pdf?dl=0) -->
+
 
 
 ## Love
 
-### Love and freedom
+*Topics*\
 
-### Love, reason and desire
+Why does the lover want to be loved? Are there reasons for love? Is there a conflict between the demands of love and the demands of impartial morality? What role does the declaration of love (“I love you”) play in the constitution of the relationship itself? What are the desires characteristic of different types of love? What is the relation of sex and love? What distinguishes 'normal' love from neurotic and perverse love?
 
-### Love and justice
+### The object of love
 
-<!-- Topics
+**19 October**
 
-Why does the lover want to be loved? Are there reasons for love? Is there a conflict between the demands of love and the demands of impartial morality? What role does the declaration of love (“I love you”) play in the constitution of the relationship itself? What are the desires characteristic of different types of love? What is the relation of sex and love? What distinguishes 'normal' love from neurotic and perverse love?  -->
+*Reading*
 
-<!-- 
+Robert Nozick, ["Love's Bond"](https://www.dropbox.com/s/h1bjlc5ipt66iu6/Nozick%20-%20Loves%20Bond.pdf?dl=0)
 
-#### Reading
-Robert Nozick, ["Love's Bond"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Nozick%20-%20Loves%20Bond.pdf?raw=true)
+
+*Further reading*
+
+JP Sartre, *Being and Nothingness*, III.3: Concrete Relations with Others, parts I and II (pages 471-484 and 504-527). (In contrast with Nozick who thinks that love is a form of unity of persons, Sartre thinks *love is a conflict*.)
+
+  <!-- - The paradoxes of love as the desire for possession, on the one hand, and love as the desire to be recognized and loved by a being essentially free, hence beyond one's possession. How are certain forms of love and desire inherently self-defeating, and what forms of desire may avoid this? Sadism and the failure of desire.* -->
+
+Simone de Beauvoir, ["The Woman in Love"](https://www.dropbox.com/s/7melpw8of8gb28a/Beauvoir%20The%20Worman%20in%20Love.pdf?dl=0), from *The Second Sex*
+
+Thomas Nagel, ["Sexual Perversion"](https://www.dropbox.com/s/hc7jilyjo8km0l6/Nagel%20-%20Sexual%20Perversion.pdf?dl=0)
+
+Luke Brunning [The Distinctiveness of Polyamory](https://www.dropbox.com/s/6ayv41ex55lha09/Brunning%20-%20Polyamory.pdf?dl=0)
+
+<!-- Roland Barthes, Lovers Discourse
+
+Derrida, on the who and the what
+
+Plato, Symposium -->
+
+
+
+### The basis of love - reason, desire
+
+**26 October**
+
+*Topics*
+
+<!-- If Moran is right that we are to understand the relevant notion of identification and autonomy though the connection to reasons and justification, specifically in self-conscious deliberation, then what are we to make of the sort of connection or dependence or relation to another called love? To be mine or to identify with such desire must I understand it at the very least to be open to rational assessment? -->
+
+
+*Reading*
+
+Harry Frankfurt, [“Autonomy, Necessity and Love”](https://www.dropbox.com/s/aax64n7yqa3x7pj/Frankfurt%20-%20Autonomy_Necessity_Love.pdf?dl=0) & ["On Caring"](https://www.dropbox.com/s/s7bz5qand39dnpd/Frankfurt%20-%20On%20Caring.pdf?dl=0) in *Necessity, Volition and Love*
+
+Bernard Williams, ["Persons, Character and Morality"](https://www.dropbox.com/s/83ucsxo9kyu6mbk/Williams%20-%20Persons%20Character%20Morality.pdf?dl=0) selections
+
+
+*Further reading*
 
 Niko Kolodny, ["Love as Valuing a Relationship"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Kolodny%20-%20Love%20Relationship.pdf?raw=true)
 
-##### Further reading
-
-Sartre, *Being and Nothingness*, III.3: Concrete Relations with Others, parts I and II (pages 471-493 and 504-527). (In contrast with Nozick who thinks that love is a form of unity of persons, Sartre thinks that *love is a conflict*.)
-
-Simone de Beauvoir, ["The Woman in Love"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Beauvoir%20The%20Worman%20in%20Love.pdf?raw=true), from *The Second Sex*
-
-Thomas Nagel, ["Sexual Perversion"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Nagel%20-%20Sexual%20Perversion.pdf?raw=true)
-
-Brunning, Luke [The Distinctiveness of Polyamory](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Brunning%20-%20Polyamory.pdf?raw=true)
+Jonathan Lear, ["Love's Authority"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Lear%20-%20Love's%20Authority.pdf?raw=true) in *Contours of Agency*; Harry Frankfurt, “Reply to Jonathan Lear” (follows Lear's essay above)
 
 
+### Love and justice
 
-### October 20 - Love
+**2 November**
 
-#### Reading
-
-Harry Frankfurt, [“Autonomy, Necessity and Love”](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Frankfurt%20-%20Autonomy_Necessity_Love.pdf?raw=true) and ["On Caring"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Frankfurt%20-%20On%20Caring.pdf?raw=true) in *Necessity, Volition and Love*
-
-Bernard Williams, ["Persons, Character and Morality"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Williams%20-%20Persons%20Character%20Morality.pdf?raw=true) selections
-
-##### Further reading
-
-Jonathan Lear, ["Love's Authority"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Lear%20-%20Love's%20Authority.pdf?raw=true) in *Contours of Agency*
-
-Harry Frankfurt, “Reply to Jonathan Lear” (follows Lear's essay above)
+*Topics*\
 
 
-### October 27 - Love
+*Readings*\
 
-#### Reading
+David Velleman, ["Love as a Moral Emotion"](https://www.dropbox.com/s/64k6dgkqzz2vef5/Velleman%20-%20Love%20as%20a%20Moral%20Emotion.pdf?dl=0) Ethics 109 (1999), pp. 338-374
 
-David Velleman, ["Love as a Moral Emotion"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Velleman%20-%20Love%20as%20a%20Moral%20Emotion.pdf?raw=true) Ethics 109 (1999), pp. 338-374
+Susan Wolf, ["Morality and Partiality"](https://www.dropbox.com/s/ycr2coivzncw3l5/Wolf%20-%20Partiality%20Morality.pdf?dl=0), Philosophical Perspectives, 6 (1992), pp. 243- 259
 
-Susan Wolf, ["Morality and Partiality"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Wolf%20-%20Partiality%20Morality.pdf?raw=true) Philosophical Perspectives, 6 (1992), pp. 243- 259
 
-<!-- [Handout on Velleman](https://github.com/UCL-PHIL/3097/blob/gh-pages/handouts/Velleman%20-%20Love%20Moral%20Emotion_HO.pdf?raw=true) -->
-
-<!-- 
-
-##### Further reading
+*Further reading*\
 
 Oded Naaman, ["Distinction in Love"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Naaman%20-%20Distinction%20in%20Love.pdf?raw=true)
 
 David Velleman, ["Beyond Price"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Velleman%20-%20Beyond%20Price.pdf?raw=true)
 
+<!-- RJ Wallace,  -->
 
 
+
+
+
+<!-- [Handout on Velleman](https://github.com/UCL-PHIL/3097/blob/gh-pages/handouts/Velleman%20-%20Love%20Moral%20Emotion_HO.pdf?raw=true) -->
+
+<!-- 
 ### November 3 - Grief
 
 #### Topics
@@ -170,13 +207,10 @@ What is anger? How are we to understand the nature of anger? Is it distinct from
 
 Nussbaum, ["Anger: Weakness, Payback, Down-Ranking" and "Emotions and Upheavals of Thought"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Nussbaum%20-%20Anger%20ch2%20and%20Appendix%20A.pdf?raw=true) in her *Anger and Forgiveness*
 
-##### Further reading
-
 Amia Srinivasan, ["The Aptness of Anger" (ms)](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/AmiaS%20-%20Aptness-of-Anger.pdf?raw=true)
 
-Srinivasan, ["Would Politics Be Better Off Without Anger?"](https://www.thenation.com/article/a-righteous-fury/), review of Nussbaum in *The Nation*
 
-[Debate between James Baldwin and William F. Buckley](https://www.youtube.com/watch?v=oFeoS41xe7w) on the question: "Is the American Dream at the expense of the American Negro?" Held at Cambridge University, 1965.
+##### Further reading
 
 Chrales Griswold, ["The Nature and Ethics of Vengful Anger"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Griswold%20-%20Vengful%20Anger.pdf?raw=true)
 
@@ -188,7 +222,21 @@ Jeffrie Murphy, ["Two Cheers for Vindictiveness"](http://pun.sagepub.com/cgi/con
 
 Nussbaum in light of the US presidential election: ["Anger, Disgust, Fear: Powerlessness and the Politics of Blame"](http://www.abc.net.au/religion/articles/2016/11/14/4574917.htm)
 
+Srinivasan, ["Would Politics Be Better Off Without Anger?"](https://www.thenation.com/article/a-righteous-fury/), review of Nussbaum in *The Nation*
 
+
+<!-- • Aristotle, Rhetoric (excerpt).
+• Bishop Butler, ‘Upon Resentment’.
+Additional readings:
+o Seneca, On Anger (excerpt). -->
+
+
+<!-- 
+*Video*\
+[Debate between James Baldwin and William F. Buckley](https://www.youtube.com/watch?v=oFeoS41xe7w) on the question: "Is the American Dream at the expense of the American Negro?" Held at Cambridge University, 1965. -->
+
+
+<!-- 
 ### November 24 - Forgiveness
 
 #### Topics
@@ -228,7 +276,7 @@ Lucy O'Brien, "Shame and Other Forms of Social Pelting" (ms)
 
 Gabrielle Taylor, ["Shame"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Taylor_-_Shame.pdf?raw=true) from *Pride, Shame and Guilt*
 
-### December 15 - Shame
+### December 15 - Shame --> -->
 
 <!-- 
 

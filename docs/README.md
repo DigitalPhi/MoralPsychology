@@ -46,17 +46,17 @@ We will use the UCL [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=39769) 
 
 <span style="font-variant:small-caps;"> brief schedule of topics</span>
 
-| Date  | Topic                               | Main reading          |
-|:------|:------------------------------------|:----------------------|
-| 05.10 | Morality & other practical concepts | Anscombe              |
-| 12.10 | Mind in action and passion          | Moran & Korsgaard     |
-| 19.10 | Love & freedom                      | Nozick & Sartre       |
-| 26.10 | Love, reason & desire               | Frankfurt             |
-| 02.11 | Love & morality                     | Velleman & Wolf       |
-| 09.11 | READING WEEK                        | --                    |
-| 16.11 | Grief, harm & time                  | Freud & Marušić       |
-| 23.11 | Anger & injustice                   | Nussbaum & Srinivasan |
-| 30.11 | Forgiveness & memory                | Margalit & Arendt     |
-| 07.12 | Guilt & Shame                       | Velleman & Taylor     |
-| 14.12 | Shame & Pride                       | Williams & OBrien     |
+| Date  | Topic                               | Main reading                 |
+|:------|:------------------------------------|:-----------------------------|
+| 05.10 | Morality & other practical concepts | Anscombe                     |
+| 12.10 | Mind in action and passion          | Moran & Korsgaard            |
+| 19.10 | Love & freedom                      | Nozick & Sartre              |
+| 26.10 | Love, reason & desire               | Frankfurt & Williams         |
+| 02.11 | Love & morality                     | Velleman & Wolf              |
+| 09.11 | READING WEEK                        | --                           |
+| 16.11 | Grief, harm & time                  | Marušić & Freud              |
+| 23.11 | Anger & injustice                   | Nussbaum & Srinivasan        |
+| 30.11 | Forgiveness & memory                | Margalit & Arendt            |
+| 07.12 | Guilt & shame                       | Velleman & Taylor            |
+| 14.12 | Shame, embarassment, humiliation    | Williams, O'Brien & Margalit |
 

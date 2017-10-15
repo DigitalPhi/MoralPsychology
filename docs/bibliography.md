@@ -2,6 +2,8 @@
 
 ## Selective general background readings
 
+Kenny
+
 ### The historical backgrond
 
 ### Key books published since 1945
@@ -11,6 +13,10 @@
 ### Collections
 
 ## Topics
+
+
+## Further topics
+
 
 
 <!-- 1. x
