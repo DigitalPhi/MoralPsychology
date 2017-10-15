@@ -75,13 +75,13 @@ Alexandra Newton, "Kant on animal and human pleasure"[link](https://www.dropbox.
 
 
 
-## Love
+### Love
 
 *Topics*
 
 Why does the lover want to be loved? Are there reasons for love? Is there a conflict between the demands of love and the demands of impartial morality? What role does the declaration of love (“I love you”) play in the constitution of the relationship itself? What are the desires characteristic of different types of love? What is the relation of sex and love? What distinguishes 'normal' love from neurotic and perverse love?
 
-### The object of love
+#### The object of love
 
 **19 October**
 
@@ -110,7 +110,7 @@ Plato, Symposium -->
 
 
 
-### The basis of love - reason, desire
+#### The basis of love - reason, desire
 
 **26 October**
 
@@ -133,29 +133,25 @@ Niko Kolodny, ["Love as Valuing a Relationship"](https://github.com/UCL-PHIL/309
 Jonathan Lear, ["Love's Authority"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Lear%20-%20Love's%20Authority.pdf?raw=true) in *Contours of Agency*; Harry Frankfurt, “Reply to Jonathan Lear” (follows Lear's essay above)
 
 
-### Love and justice
+#### Love and justice
 
 **2 November**
 
-*Topics*\
+*Topics*
 
 
-*Readings*\
+*Readings*
 
 David Velleman, ["Love as a Moral Emotion"](https://www.dropbox.com/s/64k6dgkqzz2vef5/Velleman%20-%20Love%20as%20a%20Moral%20Emotion.pdf?dl=0) Ethics 109 (1999), pp. 338-374
 
 Susan Wolf, ["Morality and Partiality"](https://www.dropbox.com/s/ycr2coivzncw3l5/Wolf%20-%20Partiality%20Morality.pdf?dl=0), Philosophical Perspectives, 6 (1992), pp. 243- 259
 
 
-*Further reading*\
+*Further reading*
 
 Oded Naaman, ["Distinction in Love"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Naaman%20-%20Distinction%20in%20Love.pdf?raw=true)
 
 David Velleman, ["Beyond Price"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Velleman%20-%20Beyond%20Price.pdf?raw=true)
-
-<!-- RJ Wallace,  -->
-
-
 
 
 
