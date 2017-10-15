@@ -77,7 +77,7 @@ Alexandra Newton, "Kant on animal and human pleasure"[link](https://www.dropbox.
 
 ## Love
 
-*Topics*\
+*Topics*
 
 Why does the lover want to be loved? Are there reasons for love? Is there a conflict between the demands of love and the demands of impartial morality? What role does the declaration of love (“I love you”) play in the constitution of the relationship itself? What are the desires characteristic of different types of love? What is the relation of sex and love? What distinguishes 'normal' love from neurotic and perverse love?
 
@@ -276,7 +276,7 @@ Lucy O'Brien, "Shame and Other Forms of Social Pelting" (ms)
 
 Gabrielle Taylor, ["Shame"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Taylor_-_Shame.pdf?raw=true) from *Pride, Shame and Guilt*
 
-### December 15 - Shame --> -->
+### December 15 - Shame -->
 
 <!-- 
 
