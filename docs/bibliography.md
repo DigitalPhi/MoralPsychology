@@ -4,13 +4,39 @@
 
 Kenny
 
+Wallace
+
 ### The historical backgrond
 
-### Key books published since 1945
+<!-- Plato
 
-### Other books published since 1945
+Stoics
+
+Epicureans
+
+Aristotle
+
+Augustine
+
+Aquinas
+
+Hobbes
+
+Spinoza
+
+Hume
+
+Kant
+
+Nietzsche -->
+
+
+### Some key books published since 1945
+
+<!-- ### Other books published since 1945 -->
 
 ### Collections
+
 
 ## Topics
 

@@ -12,10 +12,12 @@
 
 G.E.M. Anscombe, ["Modern moral philosophy"](https://www.dropbox.com/s/i3iqx4cy2o9cm8k/Anscombe%20-%20Modern_Moral_Philosophy.pdf?dl=0)
 
+<!-- handout on morality and other practical concepts -->
+
 
 *Further reading*
 
-Philippa Foot, "Moral beliefs"[link](https://www.dropbox.com/s/syecfcdyd7teiql/Foot_Moral_Beliefs.pdf?dl=0)
+Philippa Foot, "Moral beliefs"[link](https://www.dropbox.com/s/syecfcdyd7teiql/Foot_Moral_Beliefs.pdf?dl=0), esp part I
 
 Edward Harcourt, "Nietzsche and eudaimonism"[link](https://www.dropbox.com/s/5kq5mnfdbsoitm9/Nietzsche_and_Eudaemonism.pdf?dl=0)
 
@@ -39,21 +41,24 @@ Bernard Williams, "Morality and the emotions"[link](https://www.dropbox.com/s/b3
 
 **12 October**
 
-*Topics*\
+*Topics*
 
 Alienated and non-alienated relations to elements of one's own psychic life. What is it for a belief, desire, enjoyment or other motivation to be truly 'one's own'? What what is the importance of this difference? Can we grasp the ordinary notion of identification through its connection to activity? What would the relevant notion of activity have to be? What distinguishes persons from other creatures capable of action, and what is it that we want when we want our wills to be 'free'? 
 
 The nature of desire and its relation to reasons. Active and passive relations to one's desires. Freedom, authority, and their relation to self-knowledge. Is self-knowledge essentially different from the knowledge you may have of another person, as Moran and Korsgaard suggest? How does a person 'know his own mind' as to what he intends to do, and how is this different from coming to have predictive knowledge of what someone will do? How in particular does Moran see this as a matter of being guided by norms or reasons?
 
 
-*Reading*\
+*Reading*
 
 Richard Moran, "Frankfurt on identification: ambiguities of activity in mental life." pp. 189-217. [link](https://www.dropbox.com/s/y0x961osh0owbut/Moran-Frankfurt-Ambiguities.pdf?dl=0)
 
 Christine M. Korsgaard, "The normative question" in *The Sources of Normativity*, pp. 7-21 [link](https://www.dropbox.com/s/h5ic8klzkq7xudl/Christine%20M.%20Korsgaard%20The%20Sources%20of%20Normativity%20%201996.pdf?dl=0)
 
 
-*Further reading*\
+<!-- handout on activity and reason -->
+
+
+*Further reading*
 
 Harry Frankfurt, [‘Identification and Externality’](https://www.dropbox.com/s/fxwmflv6n25u9zs/Identification_and_externality%20copy.pdf?dl=0)
 
@@ -75,26 +80,36 @@ Alexandra Newton, "Kant on animal and human pleasure"[link](https://www.dropbox.
 
 
 
-## Love
+## Love (three sessions)
 
 *Topics*
 
-Why does the lover want to be loved? Are there reasons for love? Is there a conflict between the demands of love and the demands of impartial morality? What role does the declaration of love (“I love you”) play in the constitution of the relationship itself? What are the desires characteristic of different types of love? What is the relation of sex and love? What distinguishes 'normal' love from neurotic and perverse love?
+Why does the lover want to be loved? Are there reasons for love? Is there a conflict between the demands of love and the demands of freedom and autonomy? Is there a conflict between the demands of love and the demands of impartial morality or justice? What are the desires characteristic of different types of love? What is the relation of sex and love? What distinguishes 'normal' love from neurotic and perverse love? What role does the declaration of love (“I love you”) play in the constitution of the relationship itself? 
 
 ### The object of love
 
 **19 October**
+
+<!-- *Topics* -->
+
 
 *Reading*
 
 Robert Nozick, ["Love's Bond"](https://www.dropbox.com/s/h1bjlc5ipt66iu6/Nozick%20-%20Loves%20Bond.pdf?dl=0)
 
 
+<!-- handout -->
+
+
 *Further reading*
 
-JP Sartre, *Being and Nothingness*, III.3: Concrete Relations with Others, parts I and II (pages 471-484 and 504-527). (In contrast with Nozick who thinks that love is a form of unity of persons, Sartre thinks *love is a conflict*.)
+J-P Sartre, *Being and Nothingness*, III.3: Concrete Relations with Others, parts I and II[pdf](https://www.dropbox.com/s/r9vki6kck3abz09/sartre-concrete-relations.pdf?dl=0). (In contrast with Nozick who thinks that love is a form of unity of persons, Sartre thinks *love is a conflict*.)
 
-  <!-- - The paradoxes of love as the desire for possession, on the one hand, and love as the desire to be recognized and loved by a being essentially free, hence beyond one's possession. How are certain forms of love and desire inherently self-defeating, and what forms of desire may avoid this? Sadism and the failure of desire.* -->
+  - Some topics raised by Sartre here: The paradoxes of love as the desire for possession, on the one hand, and love as the desire to be recognized and loved by a being essentially free, hence beyond one's possession. Are certain forms of love and desire inherently self-defeating? How so? What forms of desire, if any, may avoid this? What does it mean that sadism is the failure of desire.
+
+  - The discussion itself presupposes earlier treatment of 'the existence of others' in part three chaapter one (see above link). Some relevant themes include: the existence of other people as a problem of knowledge (the problem of other minds) and as the possibility of being known; as a limitation of one's freedom and as the condition of the very possibility of one's freedom. Being subject to the gaze of another person ('the look'), and acknowledging the existence of others through such attitudes as love and shame.
+  
+  <!-- Sartre, BN Part Three, Chapter One: The Existence of Others (pages 301-303, 340-356, 365-370, and 384-391) -->
 
 Simone de Beauvoir, ["The Woman in Love"](https://www.dropbox.com/s/7melpw8of8gb28a/Beauvoir%20The%20Worman%20in%20Love.pdf?dl=0), from *The Second Sex*
 
@@ -102,15 +117,14 @@ Thomas Nagel, ["Sexual Perversion"](https://www.dropbox.com/s/hc7jilyjo8km0l6/Na
 
 Luke Brunning [The Distinctiveness of Polyamory](https://www.dropbox.com/s/6ayv41ex55lha09/Brunning%20-%20Polyamory.pdf?dl=0)
 
-<!-- Roland Barthes, Lovers Discourse
 
-Derrida, on the who and the what
+*Further viewing*
+Derrida, on what is loved[video](https://www.youtube.com/watch?v=dj1BuNmhjAY)
 
-Plato, Symposium -->
+Zizek, on love as a fall[video](https://www.youtube.com/watch?v=OabTK7y7d6E)
 
 
-
-### The basis of love - reason, desire
+### The origin of love - reason & desire
 
 **26 October**
 
@@ -126,6 +140,9 @@ Harry Frankfurt, [“Autonomy, Necessity and Love”](https://www.dropbox.com/s/
 Bernard Williams, ["Persons, Character and Morality"](https://www.dropbox.com/s/83ucsxo9kyu6mbk/Williams%20-%20Persons%20Character%20Morality.pdf?dl=0) selections
 
 
+<!-- handout on frankfurt  -->
+
+
 *Further reading*
 
 Niko Kolodny, ["Love as Valuing a Relationship"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Kolodny%20-%20Love%20Relationship.pdf?raw=true)
@@ -133,9 +150,17 @@ Niko Kolodny, ["Love as Valuing a Relationship"](https://github.com/UCL-PHIL/309
 Jonathan Lear, ["Love's Authority"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Lear%20-%20Love's%20Authority.pdf?raw=true) in *Contours of Agency*; Harry Frankfurt, “Reply to Jonathan Lear” (follows Lear's essay above)
 
 
+### READING WEEK -- 09 NOVEMBER
+
+The perfect time to write a formative essay! Aim for 3-5 pages.
+
+<!-- Some topics -->
+
+<!-- sample essays for last year -->
+
 ### Love and justice
 
-**2 November**
+**16 November**
 
 *Topics*
 
@@ -147,141 +172,172 @@ David Velleman, ["Love as a Moral Emotion"](https://www.dropbox.com/s/64k6dgkqzz
 Susan Wolf, ["Morality and Partiality"](https://www.dropbox.com/s/ycr2coivzncw3l5/Wolf%20-%20Partiality%20Morality.pdf?dl=0), Philosophical Perspectives, 6 (1992), pp. 243- 259
 
 
+<!-- [Handout on Velleman](https://github.com/UCL-PHIL/3097/blob/gh-pages/handouts/Velleman%20-%20Love%20Moral%20Emotion_HO.pdf?raw=true) -->
+
+
+<!-- Handout on Wolff -->
+
 *Further reading*
 
 Oded Naaman, ["Distinction in Love"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Naaman%20-%20Distinction%20in%20Love.pdf?raw=true)
 
 David Velleman, ["Beyond Price"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Velleman%20-%20Beyond%20Price.pdf?raw=true)
 
+<!-- Sheffler, Williams -->
 
 
-<!-- [Handout on Velleman](https://github.com/UCL-PHIL/3097/blob/gh-pages/handouts/Velleman%20-%20Love%20Moral%20Emotion_HO.pdf?raw=true) -->
+## Grief, death & time
 
-<!-- 
-### November 3 - Grief
+**November 23**
 
-#### Topics
+*Topics*
 
 Does failure to experience grief at the death of someone close show lack of love? Is grief a disease? Can grief and depression be distinguished? Is it ever fitting to be depressed? Does grief serve a purpose? Does mourning? Is there any reason (justification) for the way in which grief tends to dissipate over time?
 
-#### Reading
+*Reading*
 
-Berislav Marušić, ["Do Reasons Expire" (ms)](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/BeriMa%20-%20Do%20Reasons%20Expire.pdf?raw=true)
+Berislav Marušić, ["Do Reasons Expire?"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/BeriMa%20-%20Do%20Reasons%20Expire.pdf?raw=true)(ms)
 
-##### Further reading
 
-Stephen Wilkinson, [“Is ‘Normal Grief’ a Mental Disorder?"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Wilkinson%20-%20Normer%20Grief%20Mental%20Disorder.pdf?raw=true)
+<!-- nagel handout -->
+
+*Further reading*
 
 Freud, ["Mourning and Melancholia"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Freud%20-%20Mourning%20Melancholia.pdf?raw=true) (l9l7), Standard Edition, XIV, pp. 239-258.
 
-Gustafson, Donald ["Grief"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Gustafson%20-%20Grief.pdf?raw=true)
+Jonathan Lear, ["Mourning and moral psychology"](http://dx.doi.org/10.1037/a0038064), Psychoanalytic Psychology 2014, Vol. 31, No. 4, 470–481
 
-Lear, "Mourning and moral psychology", Psychoanalytic Psychology 2014, Vol. 31, No. 4, 470–481 http://dx.doi.org/10.1037/a0038064
+Michael Cholbi, ["Grief's Rationality, Backward and Forward"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Cholbi-2016-Philosophy_and_Phenomenological_Research.pdf?raw=true)
 
-Martha Nussbaum, [*Upheavals of Thought*](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Nussbaum%20Upheav%20Thought%202.pdf?raw=true), "Humans and Other Animals", ch. 2
+Donald Gustafson, ["Grief"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Gustafson%20-%20Grief.pdf?raw=true)
 
-[*Upheavals of Thought*](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Nussbaum%20Upheav%20Thought%203.pdf?raw=true) ch. 3
+Martha Nussbaum, ["Humans and Other Animals",ch2](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Nussbaum%20Upheav%20Thought%202.pdf?raw=true) & [ch3](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Nussbaum%20Upheav%20Thought%203.pdf?raw=true), from *Upheavals of Thought*
 
 Kathleen Higgins, ["Love and Death"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Higgins%20-%20Love%20and%20Death.pdf?raw=true)
 
-Cholbi,["Grief's Rationality, Backward and Forward"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Cholbi-2016-Philosophy_and_Phenomenological_Research.pdf?raw=true)
+Stephen Wilkinson, [“Is ‘Normal Grief’ a Mental Disorder?"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Wilkinson%20-%20Normer%20Grief%20Mental%20Disorder.pdf?raw=true)
 
 
-Film: Lars von Trier, *Melancholia*
+<!-- Regret?
+
+Oded Naaman, Regretting with Time
+
+RJ Wallace, 
+
+Prior, Thank goodness that's over -->
 
 
-### November 10 - Reading week
-
-The perfect time to write a formative essay! Aim for 3-5 pages.
 
 
-### November 17 - Anger
+## Anger 
+
+**November 30**
 
 What is anger? How are we to understand the nature of anger? Is it distinct from hatred, vengefulness, resentment and the like? How is anger linked to taking revenge? Why do we feel anger? How if at all is anger linked to self-esteem? Does it express low self-esteem, for example? How related to honor? Does anger reveal anything about our dependnece on others? Is it ever permissible to feel and express anger? Would a good person be angry in certain circumstances? If it is sometimes right to be angry, what could explain why and when one should cease to be angry?
 
-#### Reading
 
-Nussbaum, ["Anger: Weakness, Payback, Down-Ranking" and "Emotions and Upheavals of Thought"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Nussbaum%20-%20Anger%20ch2%20and%20Appendix%20A.pdf?raw=true) in her *Anger and Forgiveness*
+*Reading*
+
+Martha Nussbaum, ["Anger: Weakness, Payback, Down-Ranking" and "Emotions and Upheavals of Thought"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Nussbaum%20-%20Anger%20ch2%20and%20Appendix%20A.pdf?raw=true) in *Anger and Forgiveness*
 
 Amia Srinivasan, ["The Aptness of Anger" (ms)](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/AmiaS%20-%20Aptness-of-Anger.pdf?raw=true)
 
 
-##### Further reading
+*Further reading*
 
 Chrales Griswold, ["The Nature and Ethics of Vengful Anger"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Griswold%20-%20Vengful%20Anger.pdf?raw=true)
 
-Marilyn Frye, “A Note on Anger” in *The Politics of Reality* (pp. 84-94)
+Marilyn Frye, “A Note on Anger” in *The Politics of Reality*, pp. 84-94)
 
 Jeffrie Murphy, ["Two Cheers for Vindictiveness"](http://pun.sagepub.com/cgi/content/abstract/2/2/131)
 
-[New Yorker profile of Nussbaum](http://www.newyorker.com/magazine/2016/07/25/martha-nussbaums-moral-philosophies)
-
-Nussbaum in light of the US presidential election: ["Anger, Disgust, Fear: Powerlessness and the Politics of Blame"](http://www.abc.net.au/religion/articles/2016/11/14/4574917.htm)
-
-Srinivasan, ["Would Politics Be Better Off Without Anger?"](https://www.thenation.com/article/a-righteous-fury/), review of Nussbaum in *The Nation*
+New Yorker profile of Nussbaum[link](http://www.newyorker.com/magazine/2016/07/25/martha-nussbaums-moral-philosophies)
 
 
-<!-- • Aristotle, Rhetoric (excerpt).
-• Bishop Butler, ‘Upon Resentment’.
+
+<!-- Nussbaum in light of the US presidential election: ["Anger, Disgust, Fear: Powerlessness and the Politics of Blame"](http://www.abc.net.au/religion/articles/2016/11/14/4574917.htm)
+
+Srinivasan, ["Would Politics Be Better Off Without Anger?"](https://www.thenation.com/article/a-righteous-fury/), review of Nussbaum in *The Nation* -->
+
+
+<!-- 
+Aristotle, Rhetoric (excerpt).
+Bishop Butler, ‘Upon Resentment’.
 Additional readings:
-o Seneca, On Anger (excerpt). -->
+Seneca, On Anger (excerpt). 
+Plutarch, [c. 100CE] 2000, “On the Control of Anger”, in Moralia, (Vol. 6). Jeffrey Henderson (ed.), English translation by W.C. Helmbold, Cambridge, MA: Harvard University Press, pp. 89–160.
+-->
+
+*Further viewing*
+Debate between James Baldwin and William F. Buckley[video](https://www.youtube.com/watch?v=oFeoS41xe7w) on the question: "Is the American Dream at the expense of the American Negro?" Held at Cambridge University, 1965.
 
 
-<!-- 
-*Video*\
-[Debate between James Baldwin and William F. Buckley](https://www.youtube.com/watch?v=oFeoS41xe7w) on the question: "Is the American Dream at the expense of the American Negro?" Held at Cambridge University, 1965. -->
 
+## Forgiveness
 
-<!-- 
-### November 24 - Forgiveness
+**December 07**
 
-#### Topics
+*Topics*
 
-#### Reading
+*Reading*
 
-Avishai Margalit, ["Forgiving and Forgetting"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Margalit-The%20Ethics%20of%20Memory.pdf?raw=true), in *The Ethics of Memory* pp. 183-210
+Avishai Margalit, ["Forgiving and Forgetting"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Margalit-The%20Ethics%20of%20Memory.pdf?raw=true), in *The Ethics of Memory* pp. 183-210
 
 Hannah Arendt, *The Human Condition* selections
 
 
-
-##### Further reading
+*Further reading*
 
 Lucy Allais, ["Wiping the Slate Clean: The Heart of Forgiveness"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Alias%20-%20Wiping%20Slate%20Clean.pdf?raw=true) Philosophy & Public Affairs, Vol. 36, No. 1 (Winter, 2008), 33-68
 
+- Allais radio interview [link](https://philosophybites.libsyn.com/lucy-allais-on-forgiveness)
+
 Cheshire Calhoun, [“Changing One’s Heart,”](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Calhoun%20-%20Changing%20ones%20heart.pdf?raw=true) Ethics 103: 76-96 (1992)
 
-Pamela Hieronymi, “Articulating an Uncompromising Forgiveness,” Philosophy and Phenomenological Research, 62 (3): 529–555 (2001)
+<!-- Pamela Hieronymi, “Articulating an Uncompromising Forgiveness,” Philosophy and Phenomenological Research, 62 (3): 529–555 (2001) -->
 
 Jeffrie Murphy, “Forgiveness and Resentment” from Forgiveness and Mercy, Cambridge: Cambridge University Press (1998)
 
+Brandon Warmke, 2016a, “The Economic Model of Forgiveness”, Pacific Philosophical Quarterly, 97(4): 570–589. doi:10.1111/papq.12055
 
-### December 8 - What we think of ourselves and each other: guilt, innocence, shame and pride
+Jankeklevitch, Vladimir. Forgiveness. Translated by Andrew Kelley. Chicago: University of Chicago, 2005.
 
-#### Topics
+<!-- [Templeton project](http://forgiveness.templeton.org) -->
+
+<!-- Butler, Joseph, [1726] 1846, Fifteen Sermons Preached at Rolls Chapel, in The Works of the Right Reverend Father in God, Joseph Butler, D.C.L., Late Bishop of Durham, Samuel Halifax (ed.), New York: Carter. [Butler 1726 available online] -->
+
+
+## Shame & guilt
+
+**December 14**
+
+*Topics*
 
 What is the origin of feelings of shame? Of guilt? Do they serve a purpose? How are we to distinguish them? What are their relations to past wrongdoing? And to future behavior as well as to wishes and actual deeds? What is it to respond appropriately to such feelings?
 
-#### Readings
+*Readings*
 
 David Velleman, ["The Genesis of Shame"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Velleman%20-%20Genesis%20of%20Shame.pdf?raw=true)
 
-##### Further readings
+Bernard Williams, [*Shame and Necessity*](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Williams%20-%20ShameNecessity.pdf?raw=true) 75-102, 219-223
 
-Lucy O'Brien, "Shame and Other Forms of Social Pelting" (ms)
+
+*Further readings*
+
+Lucy O'Brien, ["Shame and Other Forms of Social Pelting"](http)(ms)
 
 Gabrielle Taylor, ["Shame"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Taylor_-_Shame.pdf?raw=true) from *Pride, Shame and Guilt*
 
-### December 15 - Shame -->
-
-<!-- 
-
-#### Readings
-
-Bernard Williams, [*Shame and Necessity*](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Williams%20-%20ShameNecessity.pdf?raw=true) 75-102, 219-223
-
-##### Further readings
 
 Ilham Dilman, ["Shame, Guilt and Remorse"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Dilman-1999-Philosophical_Investigations.pdf?raw=true)
 
-Richard Wollheim, [*On the Emotions*](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Wollheim%20-%20On_the_Emotions%203.pdf?raw=true) ch.3  -->
+Richard Wollheim, [*On the Emotions*](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Wollheim%20-%20On_the_Emotions%203.pdf?raw=true) ch.3
+
+
+
+<!-- Film: Lars von Trier, *Melancholia*
+
+Herzog, Hell on earth
+https://www.youtube.com/watch?v=ZhaglofPUuI
+
+Malick, Heaven on earth -->
