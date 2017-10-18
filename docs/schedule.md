@@ -55,7 +55,7 @@ Richard Moran, "Frankfurt on identification: ambiguities of activity in mental l
 Christine M. Korsgaard, "The normative question" in *The Sources of Normativity*, pp. 7-21 [link](https://www.dropbox.com/s/h5ic8klzkq7xudl/Christine%20M.%20Korsgaard%20The%20Sources%20of%20Normativity%20%201996.pdf?dl=0)
 
 
-<!-- handout on activity and reason -->
+<!-- handouts on activity and reason: 1. korsgaard, 2. moran -->
 
 
 *Further reading*
@@ -98,7 +98,7 @@ Why does the lover want to be loved? Are there reasons for love? Is there a conf
 Robert Nozick, ["Love's Bond"](https://www.dropbox.com/s/h1bjlc5ipt66iu6/Nozick%20-%20Loves%20Bond.pdf?dl=0)
 
 
-<!-- handout -->
+<!-- handout on nozick -->
 
 
 *Further reading*
@@ -135,9 +135,11 @@ Zizek, on love as a fall[video](https://www.youtube.com/watch?v=OabTK7y7d6E)
 
 *Reading*
 
-Harry Frankfurt, [“Autonomy, Necessity and Love”](https://www.dropbox.com/s/aax64n7yqa3x7pj/Frankfurt%20-%20Autonomy_Necessity_Love.pdf?dl=0) & ["On Caring"](https://www.dropbox.com/s/s7bz5qand39dnpd/Frankfurt%20-%20On%20Caring.pdf?dl=0) in *Necessity, Volition and Love*
+Harry Frankfurt, 
+- [“Autonomy, Necessity and Love”](https://www.dropbox.com/s/aax64n7yqa3x7pj/Frankfurt%20-%20Autonomy_Necessity_Love.pdf?dl=0)
+- ["On Caring"](https://www.dropbox.com/s/s7bz5qand39dnpd/Frankfurt%20-%20On%20Caring.pdf?dl=0) in *Necessity, Volition and Love*
 
-Bernard Williams, ["Persons, Character and Morality"](https://www.dropbox.com/s/83ucsxo9kyu6mbk/Williams%20-%20Persons%20Character%20Morality.pdf?dl=0) selections
+Bernard Williams, ["Persons, Character and Morality"](https://www.dropbox.com/s/83ucsxo9kyu6mbk/Williams%20-%20Persons%20Character%20Morality.pdf?dl=0) (selections, pp.14-19)
 
 
 <!-- handout on frankfurt  -->
@@ -145,14 +147,16 @@ Bernard Williams, ["Persons, Character and Morality"](https://www.dropbox.com/s/
 
 *Further reading*
 
-Niko Kolodny, ["Love as Valuing a Relationship"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Kolodny%20-%20Love%20Relationship.pdf?raw=true)
+Oded Naaman, ["Distinction in Love"](https://www.dropbox.com/s/s0fcebynszz2eef/Naaman%20-%20Distinction%20in%20Love.pdf?dl=0)
 
-Jonathan Lear, ["Love's Authority"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Lear%20-%20Love's%20Authority.pdf?raw=true) in *Contours of Agency*; Harry Frankfurt, “Reply to Jonathan Lear” (follows Lear's essay above)
+Niko Kolodny, ["Love as Valuing a Relationship"](https://www.dropbox.com/s/n95qpx2ycaf2sln/Kolodny%20-%20Love%20Relationship.pdf?dl=0)
+
+Jonathan Lear, ["Love's Authority"](https://www.dropbox.com/s/441du52drh7yfb9/Lear%20-%20Love%27s%20Authority.pdf?dl=0) in *Contours of Agency*; Harry Frankfurt, “Reply to Jonathan Lear” (follows Lear's essay)
 
 
 ### READING WEEK -- 09 NOVEMBER
 
-The perfect time to write a formative essay! Aim for 3-5 pages.
+Perfect time to write a formative essay! Aim for 3-5 pages.
 
 <!-- Some topics -->
 
@@ -174,12 +178,9 @@ Susan Wolf, ["Morality and Partiality"](https://www.dropbox.com/s/ycr2coivzncw3l
 
 <!-- [Handout on Velleman](https://github.com/UCL-PHIL/3097/blob/gh-pages/handouts/Velleman%20-%20Love%20Moral%20Emotion_HO.pdf?raw=true) -->
 
-
 <!-- Handout on Wolff -->
 
 *Further reading*
-
-Oded Naaman, ["Distinction in Love"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Naaman%20-%20Distinction%20in%20Love.pdf?raw=true)
 
 David Velleman, ["Beyond Price"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Velleman%20-%20Beyond%20Price.pdf?raw=true)
 
@@ -199,7 +200,8 @@ Does failure to experience grief at the death of someone close show lack of love
 Berislav Marušić, ["Do Reasons Expire?"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/BeriMa%20-%20Do%20Reasons%20Expire.pdf?raw=true)(ms)
 
 
-<!-- nagel handout -->
+<!-- handout on b.m. on grief -->
+<!-- nagel handout on death -->
 
 *Further reading*
 
@@ -238,9 +240,9 @@ What is anger? How are we to understand the nature of anger? Is it distinct from
 
 *Reading*
 
-Martha Nussbaum, ["Anger: Weakness, Payback, Down-Ranking" and "Emotions and Upheavals of Thought"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Nussbaum%20-%20Anger%20ch2%20and%20Appendix%20A.pdf?raw=true) in *Anger and Forgiveness*
+Martha Nussbaum, ["Anger: Weakness, Payback, Down-Ranking" and "Emotions and Upheavals of Thought"](https://www.dropbox.com/s/fwfv7ivr24e7jm1/Nussbaum%20-%20Anger%20ch2%20and%20Appendix%20A.pdf?dl=0) in *Anger and Forgiveness*
 
-Amia Srinivasan, ["The Aptness of Anger" (ms)](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/AmiaS%20-%20Aptness-of-Anger.pdf?raw=true)
+Amia Srinivasan, ["The Aptness of Anger"](https://www.dropbox.com/s/zno1m8v6pr2h51k/Srinivasan-2017-Journal_of_Political_Philosophy%20FINAL%20%281%29.pdf?dl=0)
 
 
 *Further reading*
@@ -257,7 +259,11 @@ New Yorker profile of Nussbaum[link](http://www.newyorker.com/magazine/2016/07/2
 
 <!-- Nussbaum in light of the US presidential election: ["Anger, Disgust, Fear: Powerlessness and the Politics of Blame"](http://www.abc.net.au/religion/articles/2016/11/14/4574917.htm)
 
-Srinivasan, ["Would Politics Be Better Off Without Anger?"](https://www.thenation.com/article/a-righteous-fury/), review of Nussbaum in *The Nation* -->
+Srinivasan, ["Would Politics Be Better Off Without Anger?"](https://www.thenation.com/article/a-righteous-fury/), review of Nussbaum in *The Nation* 
+
+Callard
+
+-->
 
 
 <!-- 
@@ -273,7 +279,7 @@ Debate between James Baldwin and William F. Buckley[video](https://www.youtube.c
 
 
 
-## Forgiveness
+## Forgiveness & apology
 
 **December 07**
 
