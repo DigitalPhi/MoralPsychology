@@ -275,9 +275,9 @@ Plutarch, [c. 100CE] 2000, “On the Control of Anger”, in Moralia, (Vol. 6). 
 -->
 
 *Further viewing*
-Debate between James Baldwin and William F. Buckley[video](https://www.youtube.com/watch?v=oFeoS41xe7w) on the question: "Is the American Dream at the expense of the American Negro?" Held at Cambridge University, 1965.
+Debate between James Baldwin and William F. Buckley on the question: "Is the American Dream at the expense of the American Negro?" [video](https://www.youtube.com/watch?v=oFeoS41xe7w). Held at Cambridge University, 1965.
 
-
+Gideon Rosen, 'Rage against the Machine: Anger as a Political Emotion'[video](https://livestream.com/nyu-tv/GideonRosenLecture/videos/149050437)
 
 ## Forgiveness & apology
 
