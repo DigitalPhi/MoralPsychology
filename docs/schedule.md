@@ -113,9 +113,9 @@ J-P Sartre, *Being and Nothingness*, III.3: Concrete Relations with Others, part
 
 Simone de Beauvoir, ["The Woman in Love"](https://www.dropbox.com/s/7melpw8of8gb28a/Beauvoir%20The%20Worman%20in%20Love.pdf?dl=0), from *The Second Sex*
 
-Thomas Nagel, ["Sexual Perversion"](https://www.dropbox.com/s/hc7jilyjo8km0l6/Nagel%20-%20Sexual%20Perversion.pdf?dl=0)
+Thomas Nagel, ['Sexual Perversion'](https://www.dropbox.com/s/hc7jilyjo8km0l6/Nagel%20-%20Sexual%20Perversion.pdf?dl=0)
 
-Luke Brunning [The Distinctiveness of Polyamory](https://www.dropbox.com/s/6ayv41ex55lha09/Brunning%20-%20Polyamory.pdf?dl=0)
+Luke Brunning ['The Distinctiveness of Polyamory'](https://www.dropbox.com/s/6ayv41ex55lha09/Brunning%20-%20Polyamory.pdf?dl=0)
 
 
 *Further viewing*
@@ -147,11 +147,16 @@ Bernard Williams, ["Persons, Character and Morality"](https://www.dropbox.com/s/
 
 *Further reading*
 
-Oded Naaman, ["Distinction in Love"](https://www.dropbox.com/s/s0fcebynszz2eef/Naaman%20-%20Distinction%20in%20Love.pdf?dl=0)
 
-Niko Kolodny, ["Love as Valuing a Relationship"](https://www.dropbox.com/s/n95qpx2ycaf2sln/Kolodny%20-%20Love%20Relationship.pdf?dl=0)
+Naaman, ["Distinction in Love"](https://www.dropbox.com/s/s0fcebynszz2eef/Naaman%20-%20Distinction%20in%20Love.pdf?dl=0)
 
-Jonathan Lear, ["Love's Authority"](https://www.dropbox.com/s/441du52drh7yfb9/Lear%20-%20Love%27s%20Authority.pdf?dl=0) in *Contours of Agency*; Harry Frankfurt, “Reply to Jonathan Lear” (follows Lear's essay)
+Kolodny, ["Love as Valuing a Relationship"](https://www.dropbox.com/s/n95qpx2ycaf2sln/Kolodny%20-%20Love%20Relationship.pdf?dl=0)
+
+Lear, ["Love's Authority"](https://www.dropbox.com/s/441du52drh7yfb9/Lear%20-%20Love%27s%20Authority.pdf?dl=0) in *Contours of Agency*
+
+Frankfurt, *The reasons of love*. Princeton University Press, 2009.
+
+Moran, ‘Review Essay on “The Reasons of Love”'[link](https://www.dropbox.com/s/wfbu2bqz2gqtdhm/moran-frankfurt-review.pdf?dl=0)
 
 
 ### READING WEEK -- 09 NOVEMBER
