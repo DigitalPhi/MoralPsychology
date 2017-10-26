@@ -159,17 +159,10 @@ Frankfurt, *The reasons of love*. Princeton University Press, 2009.
 Moran, ‘Review Essay on “The Reasons of Love”'[link](https://www.dropbox.com/s/wfbu2bqz2gqtdhm/moran-frankfurt-review.pdf?dl=0)
 
 
-### READING WEEK -- 09 NOVEMBER
-
-Perfect time to write a formative essay! Aim for 3-5 pages.
-
-<!-- Some topics -->
-
-<!-- sample essays for last year -->
 
 ### Love and justice
 
-**16 November**
+**02 November**
 
 *Topics*
 
@@ -190,6 +183,17 @@ Susan Wolf, ["Morality and Partiality"](https://www.dropbox.com/s/ycr2coivzncw3l
 David Velleman, ["Beyond Price"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Velleman%20-%20Beyond%20Price.pdf?raw=true)
 
 <!-- Sheffler, Williams -->
+
+
+### READING WEEK -- 09 NOVEMBER
+
+Perfect time to write a formative essay! Aim for 3-5 pages.
+
+<!-- Some topics -->
+
+<!-- sample essays for last year -->
+
+
 
 
 ## Grief, death & time
