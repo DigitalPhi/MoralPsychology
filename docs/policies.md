@@ -1,27 +1,10 @@
 # Policies
 
-## Tools, skills and tips
-
-1. Discussion questions
-You are strongly encouraged to write a formative essay by the end of reading week. We will take some time to talk about philosophical writing early in the term.
-
-2. Jim Pryor's very helpful guidelines on:
-    + [reading philosphy](http://www.jimpryor.net/teaching/guidelines/reading.html)
-
-    + [writing philosophy](http://www.jimpryor.net/teaching/guidelines/writing.html)
-
-3. Automated feedback tool from [*ecree*](https://www.ecree.com/signup). It can be a useful tool. I will set-up an account for our module.
-
-4. Some writing exercises for bringing narrative into the rational order of a philosophical essay as well as a few model essays will be posted here later in the term.
-
-5. Please contribute any comments, questions or passing thoughts [here](https://public.etherpad-mozilla.org/p/moralpsychology). It is a page for real time collaborative editing with lots of additional features. Just click the link and write.
-
-
 ## Attendance, deadlines and plagarism
 
 Regular attendance is a requirement of all modules at UCL. According to that policy students must attend at least 70% of the classes in order for work to be eligible for assessment.
 
-Penalties are applied when an essay is submitted late. These are normally waived only for medical reasons, provided that documentary evidence is submitted.
+Penalties are applied when an essay is submitted late. These are normally waived only for medical reasons, provided that documentary evidence is submitted. The lateness penalties can be found [here]https://www.ucl.ac.uk/srs/academic-manual/c4/module-assessment (in section 3.11)
 
 Make sure to cite every source (web-based or otherwise) you draw upon in writing essays. If in doubt, ask an instructor for guidance or consult UCL's official statement [link](http://www.ucl.ac.uk/current-students/guidelines/plagiarism).
 

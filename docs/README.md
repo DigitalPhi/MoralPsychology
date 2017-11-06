@@ -8,7 +8,9 @@ Some topics that might be taken-up: love & hate, authority & obedience, shame & 
 
 - Royal Institute of Philosophy London Lecture Series for 2017-8 is on Passion and Emotion. Fridays at 1700 at the RIP. It's a great schedule of speakers and a great fit with themes from our seminar. [(link)](http://royalinstitutephilosophy.org/events/london-lecture-series/)
 
-- NB There is a discussion session meeting this Monday, *October 9th*! You are strongly encouraged to attend. We'll look at G.E.M. Anscombe's paper 'Modern Moral Philosophy', and we'll talk about what a moral psychology might be and how there might be a place for feelings or passions in it. Further details about the discussion sections are below.
+- There is a discussion session meeting Monday, *October 9th*! You are strongly encouraged to attend. We'll look at G.E.M. Anscombe's paper 'Modern Moral Philosophy', and we'll talk about what a moral psychology might be and how there might be a place for feelings or passions in it. Further details about the discussion sections are below.
+
+- Formative essay topics now posted (#assessent.md).<small>06.11.2017</small>
 
 
 ### Instructors

@@ -86,6 +86,7 @@ Alexandra Newton, "Kant on animal and human pleasure"[link](https://www.dropbox.
 
 Why does the lover want to be loved? Are there reasons for love? Is there a conflict between the demands of love and the demands of freedom and autonomy? Is there a conflict between the demands of love and the demands of impartial morality or justice? What are the desires characteristic of different types of love? What is the relation of sex and love? What distinguishes 'normal' love from neurotic and perverse love? What role does the declaration of love (“I love you”) play in the constitution of the relationship itself? 
 
+
 ### The object of love
 
 **19 October**
@@ -146,7 +147,6 @@ Bernard Williams, ["Persons, Character and Morality"](https://www.dropbox.com/s/
 
 
 *Further reading*
-
 
 Naaman, ["Distinction in Love"](https://www.dropbox.com/s/s0fcebynszz2eef/Naaman%20-%20Distinction%20in%20Love.pdf?dl=0)
 
@@ -229,13 +229,17 @@ Kathleen Higgins, ["Love and Death"](https://github.com/UCL-PHIL/3097/blob/gh-pa
 Stephen Wilkinson, [“Is ‘Normal Grief’ a Mental Disorder?"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Wilkinson%20-%20Normer%20Grief%20Mental%20Disorder.pdf?raw=true)
 
 
-<!-- Regret?
+<!-- 
+
+Regret?
 
 Oded Naaman, Regretting with Time
 
 RJ Wallace, 
 
-Prior, Thank goodness that's over -->
+Prior, Thank goodness that's over 
+
+-->
 
 
 
@@ -343,6 +347,7 @@ Lucy O'Brien, ["Shame and Other Forms of Social Pelting"](http)(ms)
 
 Gabrielle Taylor, ["Shame"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Taylor_-_Shame.pdf?raw=true) from *Pride, Shame and Guilt*
 
+<!-- maybe include taylor in the required reading? -->
 
 Ilham Dilman, ["Shame, Guilt and Remorse"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Dilman-1999-Philosophical_Investigations.pdf?raw=true)
 
