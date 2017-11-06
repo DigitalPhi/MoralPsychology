@@ -10,7 +10,7 @@ Some topics that might be taken-up: love & hate, authority & obedience, shame & 
 
 - There is a discussion session meeting Monday, *October 9th*! You are strongly encouraged to attend. We'll look at G.E.M. Anscombe's paper 'Modern Moral Philosophy', and we'll talk about what a moral psychology might be and how there might be a place for feelings or passions in it. Further details about the discussion sections are below.
 
-- Formative essay topics now posted [below](#assessent.md).<small>06.11.2017</small>
+- Formative essay topics now posted [below](assessent.md).<small>06.11.2017</small>
 
 
 ### Instructors
