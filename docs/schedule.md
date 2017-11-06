@@ -353,7 +353,6 @@ Ilham Dilman, ["Shame, Guilt and Remorse"](https://github.com/UCL-PHIL/3097/blob
 Richard Wollheim, [*On the Emotions*](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Wollheim%20-%20On_the_Emotions%203.pdf?raw=true) ch.3
 
 
-
 <!-- Film: Lars von Trier, *Melancholia*
 
 Herzog, Hell on earth
