@@ -185,7 +185,7 @@ David Velleman, ["Beyond Price"](https://github.com/UCL-PHIL/3097/blob/gh-pages/
 <!-- Sheffler, Williams -->
 
 
-### READING WEEK -- 09 NOVEMBER
+## READING WEEK -- 09 NOVEMBER
 
 Perfect time to write a formative essay! Aim for 3-5 pages.
 
@@ -240,7 +240,6 @@ RJ Wallace,
 Prior, Thank goodness that's over 
 
 -->
-
 
 
 
@@ -361,3 +360,6 @@ Herzog, Hell on earth
 https://www.youtube.com/watch?v=ZhaglofPUuI
 
 Malick, Heaven on earth -->
+
+
+<!-- hope: johnson on remarriage and wish over reason -->
