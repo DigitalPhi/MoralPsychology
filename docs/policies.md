@@ -4,7 +4,7 @@
 
 Regular attendance is a requirement of all modules at UCL. According to that policy students must attend at least 70% of the classes in order for work to be eligible for assessment.
 
-Penalties are applied when an essay is submitted late. These are normally waived only for medical reasons, provided that documentary evidence is submitted. The lateness penalties can be found [here]https://www.ucl.ac.uk/srs/academic-manual/c4/module-assessment (in section 3.11)
+Penalties are applied when an essay is submitted late. These are normally waived only for medical reasons, provided that documentary evidence is submitted. The lateness penalties can be found [here](https://www.ucl.ac.uk/srs/academic-manual/c4/module-assessment (in section 3.11)
 
 Make sure to cite every source (web-based or otherwise) you draw upon in writing essays. If in doubt, ask an instructor for guidance or consult UCL's official statement [link](http://www.ucl.ac.uk/current-students/guidelines/plagiarism).
 

@@ -14,8 +14,8 @@ Questions will be distributed in advance. You are very welcome to propose your o
 You are strongly encouraged to write a formative essay during the reading week. Some questions will be distributed in advance.
 
 * Topics available here [link](https://www.dropbox.com/s/ca1m5bf5n06fom1/essay-topics-1.pdf?dl=0). (Additional questions may be included later in the term.)
-* Due date is week 8 of the autumn term.
-* Any of these can also serve to set the topic for the summative essay.
+  - Due date is week 8 of the autumn term.
+  - Any of these can also serve to set the topic for the summative essay.
 
 
 ## Discussion questions
@@ -32,12 +32,12 @@ Please contribute any comments, questions or passing thoughts [here](https://pub
 
     + [writing philosophy](http://www.jimpryor.net/teaching/guidelines/writing.html)
 
-- Further notes on writring a philosophy paper [link](xxx)
+- Further notes on writring a philosophy paper [link](https://www.dropbox.com/s/ow6b0l5vy28b19t/notes-writing.pdf?dl=0)
 
 - Writing exercises for bringing narrative into the rational order of a philosophical essay as well as a few model essays will be posted here later in the term.
 <!-- link to 2017 exercises-->
 
-- Example of very good work done in earlier terms [link](xxx)
+- Example of very good work done in earlier terms [link](https://www.dropbox.com/s/c1c5ykhzsxdpyys/sample-essay-1-3097.pdf?dl=0)
 <!-- link to folder with 'Disolving the paradox of grief' and eventually others -->
 - Automated feedback tool from [*ecree*](https://www.ecree.com/signup). It can be a useful tool. If there is interest I will set-up an account for our module.
 
