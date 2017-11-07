@@ -125,7 +125,7 @@ Derrida, on what is loved[video](https://www.youtube.com/watch?v=dj1BuNmhjAY)
 Zizek, on love as a fall[video](https://www.youtube.com/watch?v=OabTK7y7d6E)
 
 
-### The origin of love - reason & desire
+### The basis of love -- reason & desire
 
 **26 October**
 
@@ -148,16 +148,15 @@ Bernard Williams, ["Persons, Character and Morality"](https://www.dropbox.com/s/
 
 *Further reading*
 
-Naaman, ["Distinction in Love"](https://www.dropbox.com/s/s0fcebynszz2eef/Naaman%20-%20Distinction%20in%20Love.pdf?dl=0)
+Frankfurt, *The reasons of love*. Princeton University Press, 2009.
 
 Kolodny, ["Love as Valuing a Relationship"](https://www.dropbox.com/s/n95qpx2ycaf2sln/Kolodny%20-%20Love%20Relationship.pdf?dl=0)
 
 Lear, ["Love's Authority"](https://www.dropbox.com/s/441du52drh7yfb9/Lear%20-%20Love%27s%20Authority.pdf?dl=0) in *Contours of Agency*
 
-Frankfurt, *The reasons of love*. Princeton University Press, 2009.
-
 Moran, ‘Review Essay on “The Reasons of Love”'[link](https://www.dropbox.com/s/wfbu2bqz2gqtdhm/moran-frankfurt-review.pdf?dl=0)
 
+Naaman, ["Distinction in Love"](https://www.dropbox.com/s/s0fcebynszz2eef/Naaman%20-%20Distinction%20in%20Love.pdf?dl=0)
 
 
 ### Love and justice
@@ -206,7 +205,7 @@ Does failure to experience grief at the death of someone close show lack of love
 
 *Reading*
 
-Berislav Marušić, ["Do Reasons Expire?"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/BeriMa%20-%20Do%20Reasons%20Expire.pdf?raw=true)(ms)
+Berislav Marušić, ["Do Reasons Expire?"](https://www.dropbox.com/s/go6j7lxc0930fvs/BeriMa%20-%20Do%20Reasons%20Expire.pdf?dl=0)(ms)
 
 
 <!-- handout on b.m. on grief -->
@@ -214,20 +213,20 @@ Berislav Marušić, ["Do Reasons Expire?"](https://github.com/UCL-PHIL/3097/blob
 
 *Further reading*
 
-Freud, ["Mourning and Melancholia"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Freud%20-%20Mourning%20Melancholia.pdf?raw=true) (l9l7), Standard Edition, XIV, pp. 239-258.
+Freud, ["Mourning and Melancholia"](https://www.dropbox.com/s/qtymq5fps223odh/Freud%20-%20Mourning%20Melancholia.pdf?dl=0) (l9l7), Standard Edition, XIV, pp. 239-258.
 
-Jonathan Lear, ["Mourning and moral psychology"](http://dx.doi.org/10.1037/a0038064), Psychoanalytic Psychology 2014, Vol. 31, No. 4, 470–481
+Jonathan Lear, ["Mourning and moral psychology"](https://www.dropbox.com/s/c40ajt86j1qskx6/Lear%20-%20Mourning%20Moral%20Psychology.pdf?dl=0) Psychoanalytic Psychology 2014, Vol. 31, No. 4, 470–481
 
-Michael Cholbi, ["Grief's Rationality, Backward and Forward"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Cholbi-2016-Philosophy_and_Phenomenological_Research.pdf?raw=true)
+Michael Cholbi, ["Grief's Rationality, Backward and Forward"](https://www.dropbox.com/s/u8y6jtkdmtedah1/Cholbi-2016-Philosophy_and_Phenomenological_Research.pdf?dl=0)
 
-Donald Gustafson, ["Grief"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Gustafson%20-%20Grief.pdf?raw=true)
+Donald Gustafson, ["Grief"](https://www.dropbox.com/s/2vmkfq9bfo79nt1/Gustafson%20-%20Grief.pdf?dl=0)
 
-Martha Nussbaum, ["Humans and Other Animals",ch2](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Nussbaum%20Upheav%20Thought%202.pdf?raw=true) & [ch3](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Nussbaum%20Upheav%20Thought%203.pdf?raw=true), from *Upheavals of Thought*
+Martha Nussbaum, ["Humans and other animals"](https://www.dropbox.com/s/fj7zh2v8t1ucqsv/Nussbaum%20Upheav%20Thought%202.pdf?dl=0)
+& ["Emotions and human societies](https://www.dropbox.com/s/p54ia5zf8vt4n8v/Nussbaum%20Upheav%20Thought%203.pdf?dl=0), chs 2-3 of *Upheavals of Thought*
 
-Kathleen Higgins, ["Love and Death"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Higgins%20-%20Love%20and%20Death.pdf?raw=true)
+Kathleen Higgins, ["Love and Death"](https://www.dropbox.com/s/h4i7org74lom1cq/Higgins%20-%20Love%20and%20Death.pdf?dl=0)
 
-Stephen Wilkinson, [“Is ‘Normal Grief’ a Mental Disorder?"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Wilkinson%20-%20Normer%20Grief%20Mental%20Disorder.pdf?raw=true)
-
+Stephen Wilkinson, [“Is ‘Normal Grief’ a Mental Disorder?"](https://www.dropbox.com/s/9lbcsqhzh5q2ctz/Wilkinson%20-%20Normer%20Grief%20Mental%20Disorder.pdf?dl=0)
 
 <!-- 
 
@@ -252,18 +251,18 @@ What is anger? How are we to understand the nature of anger? Is it distinct from
 
 *Reading*
 
-Martha Nussbaum, ["Anger: Weakness, Payback, Down-Ranking" and "Emotions and Upheavals of Thought"](https://www.dropbox.com/s/fwfv7ivr24e7jm1/Nussbaum%20-%20Anger%20ch2%20and%20Appendix%20A.pdf?dl=0) in *Anger and Forgiveness*
+Martha Nussbaum, ["Anger: weakness, payback, down-Ranking" and "Emotions and upheavals of thought"](https://www.dropbox.com/s/fwfv7ivr24e7jm1/Nussbaum%20-%20Anger%20ch2%20and%20Appendix%20A.pdf?dl=0) in *Anger and Forgiveness*
 
-Amia Srinivasan, ["The Aptness of Anger"](https://www.dropbox.com/s/zno1m8v6pr2h51k/Srinivasan-2017-Journal_of_Political_Philosophy%20FINAL%20%281%29.pdf?dl=0)
+Amia Srinivasan, ["The aptness of anger"](https://www.dropbox.com/s/zno1m8v6pr2h51k/Srinivasan-2017-Journal_of_Political_Philosophy%20FINAL%20%281%29.pdf?dl=0)
 
 
 *Further reading*
 
-Chrales Griswold, ["The Nature and Ethics of Vengful Anger"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Griswold%20-%20Vengful%20Anger.pdf?raw=true)
+Chrales Griswold, ["The nature and ethics of vengful anger"](https://www.dropbox.com/s/5a6lyx7gbmuo5b8/Griswold%20-%20Vengful%20Anger.pdf?dl=0)
 
-Marilyn Frye, “A Note on Anger” in *The Politics of Reality*, pp. 84-94)
+Marilyn Frye, “A note on anger” in *The Politics of Reality*, pp. 84-94)
 
-Jeffrie Murphy, ["Two Cheers for Vindictiveness"](http://pun.sagepub.com/cgi/content/abstract/2/2/131)
+Jeffrie Murphy, ["Two cheers for vindictiveness"](http://pun.sagepub.com/cgi/content/abstract/2/2/131)
 
 New Yorker profile of Nussbaum[link](http://www.newyorker.com/magazine/2016/07/25/martha-nussbaums-moral-philosophies)
 
@@ -299,26 +298,29 @@ Gideon Rosen, 'Rage against the Machine: Anger as a Political Emotion'[video](ht
 
 *Reading*
 
-Avishai Margalit, ["Forgiving and Forgetting"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Margalit-The%20Ethics%20of%20Memory.pdf?raw=true), in *The Ethics of Memory* pp. 183-210
+Avishai Margalit, ["Forgiving and forgetting"](https://www.dropbox.com/s/43sd9jh4wr3h88h/Margalit-The%20Ethics%20of%20Memory.pdf?dl=0), in *The Ethics of Memory* pp. 183-210
 
-Hannah Arendt, *The Human Condition* selections
+Hannah Arendt, "Irreversability and the power to forgive" (https://www.dropbox.com/s/kz2huo3sc6ern0g/arendt-forgiveness.pdf?dl=0) *The Human Condition* ch33
 
 
 *Further reading*
 
-Lucy Allais, ["Wiping the Slate Clean: The Heart of Forgiveness"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Alias%20-%20Wiping%20Slate%20Clean.pdf?raw=true) Philosophy & Public Affairs, Vol. 36, No. 1 (Winter, 2008), 33-68
+Lucy Allais, ["Wiping the slate clean: the heart of forgiveness"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Alias%20-%20Wiping%20Slate%20Clean.pdf?raw=true) Philosophy & Public Affairs, Vol. 36, No. 1 (Winter, 2008), 33-68
 
 - Allais radio interview [link](https://philosophybites.libsyn.com/lucy-allais-on-forgiveness)
 
-Cheshire Calhoun, [“Changing One’s Heart,”](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Calhoun%20-%20Changing%20ones%20heart.pdf?raw=true) Ethics 103: 76-96 (1992)
+Bovens, ["Apologies"](https://www.dropbox.com/s/wmu1hcnxzleywk6/Bovens-Apologies.pdf?dl=0)
+
+
+Cheshire Calhoun, [“Changing one’s heart,”](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Calhoun%20-%20Changing%20ones%20heart.pdf?raw=true) Ethics 103: 76-96 (1992)
 
 <!-- Pamela Hieronymi, “Articulating an Uncompromising Forgiveness,” Philosophy and Phenomenological Research, 62 (3): 529–555 (2001) -->
 
-Jeffrie Murphy, “Forgiveness and Resentment” from Forgiveness and Mercy, Cambridge: Cambridge University Press (1998)
+<!-- Jeffrie Murphy, “Forgiveness and Resentment” from Forgiveness and Mercy, Cambridge: Cambridge University Press (1998)
 
 Brandon Warmke, 2016a, “The Economic Model of Forgiveness”, Pacific Philosophical Quarterly, 97(4): 570–589. doi:10.1111/papq.12055
 
-Jankeklevitch, Vladimir. Forgiveness. Translated by Andrew Kelley. Chicago: University of Chicago, 2005.
+Jankeklevitch, Vladimir. Forgiveness. Translated by Andrew Kelley. Chicago: University of Chicago, 2005. -->
 
 <!-- [Templeton project](http://forgiveness.templeton.org) -->
 
