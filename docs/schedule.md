@@ -99,7 +99,7 @@ Why does the lover want to be loved? Are there reasons for love? Is there a conf
 Robert Nozick, ["Love's Bond"](https://www.dropbox.com/s/h1bjlc5ipt66iu6/Nozick%20-%20Loves%20Bond.pdf?dl=0)
 
 
-<!-- handout on nozick -->
+Handout on Nozick [link](https://www.dropbox.com/s/fkuqys0v24pqou2/nozick-love.pdf?dl=0)
 
 
 *Further reading*
@@ -173,9 +173,9 @@ David Velleman, ["Love as a Moral Emotion"](https://www.dropbox.com/s/64k6dgkqzz
 Susan Wolf, ["Morality and Partiality"](https://www.dropbox.com/s/ycr2coivzncw3l5/Wolf%20-%20Partiality%20Morality.pdf?dl=0), Philosophical Perspectives, 6 (1992), pp. 243- 259
 
 
-<!-- [Handout on Velleman](https://github.com/UCL-PHIL/3097/blob/gh-pages/handouts/Velleman%20-%20Love%20Moral%20Emotion_HO.pdf?raw=true) -->
+Handout on Velleman [link](https://www.dropbox.com/s/0f51f5kf7fflmsd/velleman-love.pdf?dl=0)
 
-<!-- Handout on Wolff -->
+<!-- Handout on Wolf() -->
 
 *Further reading*
 
