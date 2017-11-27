@@ -6,6 +6,11 @@ Some topics that might be taken-up: love & hate, authority & obedience, shame & 
 
 ### Announcements
 
+A few important announcements <sub><small>November 24</small></sub>
+- I've posted additional office hours each week to discuss among other things your plans for the summative essay. Access the calendar through my [webpage](http://www.douglaslavin.org/)
+  - If there are materials you would like to discuss please upload them [here](https://www.dropbox.com/request/oY2JI7TC4oIfUD1gtMsb) a couple days in advance of our meeting.
+- I'd like to schedule a make-up session during Alec's usual slot. More details about content shortly.
+
 - Royal Institute of Philosophy London Lecture Series for 2017-8 is on Passion and Emotion. Fridays at 1700 at the RIP. It's a great schedule of speakers and a great fit with themes from our seminar. [(link)](http://royalinstitutephilosophy.org/events/london-lecture-series/)
 
 - There is a discussion session meeting Monday, *October 9th*! You are strongly encouraged to attend. We'll look at G.E.M. Anscombe's paper 'Modern Moral Philosophy', and we'll talk about what a moral psychology might be and how there might be a place for feelings or passions in it. Further details about the discussion sections are below.
