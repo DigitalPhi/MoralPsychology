@@ -46,24 +46,28 @@ This week, we'll look at G.E.M. Anscombe's paper 'Modern Moral Philosophy'. We'l
 
 All the substantive course content will be available here on this course website. This module is work in progress. There may be a few, minor changes going forward.
 
-A folder with all the assigned and supplemental readings will be posted soon [here](https://www.dropbox.com/sh/6co6o1lykiw13uf/AAAOD2ZQkDpU9psqM2IndYbia?dl=0). At present, you will find links to individual readings in the detailed schedule of topics [below](#schedule).
+A folder with all the assigned and supplemental readings is posted  
+[here](https://www.dropbox.com/sh/6co6o1lykiw13uf/AAAOD2ZQkDpU9psqM2IndYbia?dl=0).
+
+At present, you will find links to individual readings in the detailed schedule of topics [below](#schedule).
 
 We will use the UCL [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=39769) only to send announcements and as the portal for submitting and receiving summative essays.
 
 
 <span style="font-variant:small-caps;"> brief schedule of topics</span>
 
-| Date  | Topic                               | Main reading                 |
-|:------|:------------------------------------|:-----------------------------|
-| 05.10 | Morality & other practical concepts | Anscombe                     |
-| 12.10 | Mind in action and passion          | Moran & Korsgaard            |
-| 19.10 | Love & freedom                      | Nozick & Sartre              |
-| 26.10 | Love, reason & desire               | Frankfurt & Williams         |
-| 02.11 | Love & morality                     | Velleman & Wolf              |
-| 09.11 | READING WEEK                        | --                           |
-| 16.11 | Grief, harm & time                  | Marušić & Freud              |
-| 23.11 | Anger & injustice                   | Nussbaum & Srinivasan        |
-| 30.11 | Forgiveness & memory                | Margalit & Arendt            |
-| 07.12 | Guilt & shame                       | Velleman & Taylor            |
-| 14.12 | Shame, embarassment, humiliation    | Williams, O'Brien & Margalit |
+| Date  | Topic                               | Main reading          |
+|:------|:------------------------------------|:----------------------|
+| 05.10 | Morality & other practical concepts | Anscombe              |
+| 12.10 | Mind in action and passion          | Moran & Korsgaard     |
+| 19.10 | Love & freedom                      | Nozick & Sartre       |
+| 26.10 | Love, reason & desire               | Frankfurt & Williams  |
+| 02.11 | Love & morality                     | Velleman & Wolf       |
+| 09.11 | READING WEEK                        | --                    |
+| 16.11 | Grief, harm & time                  | Marušić & Freud       |
+| 23.11 | Anger & injustice                   | Nussbaum & Srinivasan |
+| 30.11 | continued                           | continued             |
+| 07.12 | Forgiveness & memory                | Arendt & Margalit     |
+| 14.12 | Shame & others                      | Williams              |
 
+<!-- supplementary readings for last meeting on shame: Velleman, Taylor, O'Brien & Margalit  -->
