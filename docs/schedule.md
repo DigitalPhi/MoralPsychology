@@ -173,9 +173,9 @@ David Velleman, ["Love as a Moral Emotion"](https://www.dropbox.com/s/64k6dgkqzz
 Susan Wolf, ["Morality and Partiality"](https://www.dropbox.com/s/ycr2coivzncw3l5/Wolf%20-%20Partiality%20Morality.pdf?dl=0), Philosophical Perspectives, 6 (1992), pp. 243- 259
 
 
-Handout on Velleman [link](https://www.dropbox.com/s/0f51f5kf7fflmsd/velleman-love.pdf?dl=0)
+Handout on Velleman [pdf](https://www.dropbox.com/s/0f51f5kf7fflmsd/velleman-love.pdf?dl=0)
 
-<!-- Handout on Wolf() -->
+Handout on Wolf [pdf](https://www.dropbox.com/s/k94j5rd044i7mwm/wolf-love-partiality.pdf?dl=0)
 
 *Further reading*
 
@@ -197,7 +197,7 @@ Perfect time to write a formative essay! Aim for 3-5 pages.
 
 ## Grief, death & time
 
-**November 23**
+**November 16**
 
 *Topics*
 
@@ -244,7 +244,7 @@ Prior, Thank goodness that's over
 
 ## Anger 
 
-**November 30**
+**November 23**
 
 What is anger? How are we to understand the nature of anger? Is it distinct from hatred, vengefulness, resentment and the like? How is anger linked to taking revenge? Why do we feel anger? How if at all is anger linked to self-esteem? Does it express low self-esteem, for example? How related to honor? Does anger reveal anything about our dependnece on others? Is it ever permissible to feel and express anger? Would a good person be angry in certain circumstances? If it is sometimes right to be angry, what could explain why and when one should cease to be angry?
 
@@ -290,6 +290,14 @@ Debate between James Baldwin and William F. Buckley on the question: "Is the Ame
 
 Gideon Rosen, 'Rage against the Machine: Anger as a Political Emotion'[video](https://livestream.com/nyu-tv/GideonRosenLecture/videos/149050437)
 
+
+## NB
+
+**November 30**
+
+Due to student interest we continued the discussion of anger focusing on Amia's essay. The plan for the rest of the term is as described below.
+
+
 ## Forgiveness & apology
 
 **December 07**
@@ -298,9 +306,9 @@ Gideon Rosen, 'Rage against the Machine: Anger as a Political Emotion'[video](ht
 
 *Reading*
 
-Avishai Margalit, ["Forgiving and forgetting"](https://www.dropbox.com/s/43sd9jh4wr3h88h/Margalit-The%20Ethics%20of%20Memory.pdf?dl=0), in *The Ethics of Memory* pp. 183-210
+Hannah Arendt, ["Irreversability and the power to forgive"](https://www.dropbox.com/s/kz2huo3sc6ern0g/arendt-forgiveness.pdf?dl=0) *The Human Condition* ch33
 
-Hannah Arendt, "Irreversability and the power to forgive" (https://www.dropbox.com/s/kz2huo3sc6ern0g/arendt-forgiveness.pdf?dl=0) *The Human Condition* ch33
+Avishai Margalit, ["Forgiving and forgetting"](https://www.dropbox.com/s/43sd9jh4wr3h88h/Margalit-The%20Ethics%20of%20Memory.pdf?dl=0), in *The Ethics of Memory* pp. 183-210
 
 
 *Further reading*
@@ -309,8 +317,7 @@ Lucy Allais, ["Wiping the slate clean: the heart of forgiveness"](https://github
 
 - Allais radio interview [link](https://philosophybites.libsyn.com/lucy-allais-on-forgiveness)
 
-Bovens, ["Apologies"](https://www.dropbox.com/s/wmu1hcnxzleywk6/Bovens-Apologies.pdf?dl=0)
-
+Luc Bovens ["Apologies"](https://www.dropbox.com/s/wmu1hcnxzleywk6/Bovens-Apologies.pdf?dl=0)
 
 Cheshire Calhoun, [“Changing one’s heart,”](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Calhoun%20-%20Changing%20ones%20heart.pdf?raw=true) Ethics 103: 76-96 (1992)
 
@@ -322,9 +329,9 @@ Brandon Warmke, 2016a, “The Economic Model of Forgiveness”, Pacific Philosop
 
 Jankeklevitch, Vladimir. Forgiveness. Translated by Andrew Kelley. Chicago: University of Chicago, 2005. -->
 
-<!-- [Templeton project](http://forgiveness.templeton.org) -->
-
 <!-- Butler, Joseph, [1726] 1846, Fifteen Sermons Preached at Rolls Chapel, in The Works of the Right Reverend Father in God, Joseph Butler, D.C.L., Late Bishop of Durham, Samuel Halifax (ed.), New York: Carter. [Butler 1726 available online] -->
+
+<!-- [Templeton project](http://forgiveness.templeton.org) -->
 
 
 ## Shame & guilt
@@ -337,22 +344,22 @@ What is the origin of feelings of shame? Of guilt? Do they serve a purpose? How 
 
 *Readings*
 
-David Velleman, ["The Genesis of Shame"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Velleman%20-%20Genesis%20of%20Shame.pdf?raw=true)
-
-Bernard Williams, [*Shame and Necessity*](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Williams%20-%20ShameNecessity.pdf?raw=true) 75-102, 219-223
+Bernard Williams, [*Shame and Necessity*](https://www.dropbox.com/s/77hrsxt7q6f2b2y/Williams%20-%20ShameNecessity.pdf?dl=0) pp. 75-102, 219-223
 
 
 *Further readings*
 
-Lucy O'Brien, ["Shame and Other Forms of Social Pelting"](http)(ms)
+Gabrielle Taylor, ["Shame"](https://www.dropbox.com/s/xlu9jlfvnglu8zq/Taylor_-_Shame.pdf?dl=0) from *Pride, Shame and Guilt*
 
-Gabrielle Taylor, ["Shame"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Taylor_-_Shame.pdf?raw=true) from *Pride, Shame and Guilt*
+David Velleman, ["The Genesis of Shame"](https://www.dropbox.com/s/y0rqwcza9mzqtrv/Velleman%20-%20Genesis%20of%20Shame.pdf?dl=0)
+
+Lucy O'Brien, ["Shame and Other Forms of Social Pelting"](http)(ms)
 
 <!-- maybe include taylor in the required reading? -->
 
-Ilham Dilman, ["Shame, Guilt and Remorse"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Dilman-1999-Philosophical_Investigations.pdf?raw=true)
+Ilham Dilman, ["Shame, Guilt and Remorse"](https://www.dropbox.com/s/dva9adh2bmy0wcn/Dilman-1999-Philosophical_Investigations.pdf?dl=0)
 
-Richard Wollheim, [*On the Emotions*](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Wollheim%20-%20On_the_Emotions%203.pdf?raw=true) ch.3
+Richard Wollheim, [*On the Emotions*](https://www.dropbox.com/s/wgu4ejc9z7mm92t/Wollheim%20-%20On_the_Emotions%203.pdf?dl=0) ch.3
 
 
 <!-- Film: Lars von Trier, *Melancholia*
@@ -361,6 +368,5 @@ Herzog, Hell on earth
 https://www.youtube.com/watch?v=ZhaglofPUuI
 
 Malick, Heaven on earth -->
-
 
 <!-- hope: johnson on remarriage and wish over reason -->

@@ -6,6 +6,11 @@ Some topics that might be taken-up: love & hate, authority & obedience, shame & 
 
 ### Announcements
 
+The topic for seminar on December 7 is forgiveness.<sub><small>December 5</small></sub>
+- The central texts are the following: 
+  + Hannah Arendt, ["Irreversability and the power to forgive"](https://www.dropbox.com/s/kz2huo3sc6ern0g/arendt-forgiveness.pdf?dl=0) *The Human Condition* ch33
+  + Avishai Margalit, ["Forgiving and forgetting"](https://www.dropbox.com/s/43sd9jh4wr3h88h/Margalit-The%20Ethics%20of%20Memory.pdf?dl=0), in *The Ethics of Memory* pp. 183-210.
+
 A few important announcements <sub><small>November 24</small></sub>
 - I've posted additional office hours each week to discuss among other things your plans for the summative essay. Access the calendar through my [webpage](http://www.douglaslavin.org/)
   - If there are materials you would like to discuss please upload them [here](https://www.dropbox.com/request/oY2JI7TC4oIfUD1gtMsb) a couple days in advance of our meeting.
