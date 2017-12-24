@@ -277,15 +277,9 @@ Jeffrie Murphy, ["Two cheers for vindictiveness"](http://pun.sagepub.com/cgi/con
 
 New Yorker profile of Nussbaum[link](http://www.newyorker.com/magazine/2016/07/25/martha-nussbaums-moral-philosophies)
 
-
-
-<!-- Nussbaum in light of the US presidential election: ["Anger, Disgust, Fear: Powerlessness and the Politics of Blame"](http://www.abc.net.au/religion/articles/2016/11/14/4574917.htm)
+Nussbaum in light of the US presidential election: ["Anger, Disgust, Fear: Powerlessness and the Politics of Blame"](http://www.abc.net.au/religion/articles/2016/11/14/4574917.htm)
 
 Srinivasan, ["Would Politics Be Better Off Without Anger?"](https://www.thenation.com/article/a-righteous-fury/), review of Nussbaum in *The Nation* 
-
-Callard
-
--->
 
 
 <!-- 
@@ -332,9 +326,9 @@ Lucy Allais, ["Wiping the slate clean: the heart of forgiveness"](https://www.dr
 
 Cheshire Calhoun, [“Changing one’s heart,”](https://www.dropbox.com/s/6957kyn3d9voefz/Calhoun%20-%20Changing%20ones%20heart.pdf?dl=0)
 
-Griswold, Forgiveness: a philosophical exploration [link]()
+Charles Griswold, Forgiveness: a philosophical exploration [link](https://www.dropbox.com/s/lm7siizimw3xncp/Griswold-forgiveness-philosophical-exploration.pdf?dl=0)
 
-Kolnai, ["Forgiveness"](https://www.dropbox.com/s/cn9s7x4ello7u92/Kolnai%20-%20Forgiveness.pdf?dl=0) esp. pp 91-99 which includes presentation of a 'paradox of forgiveness'
+Aurel Kolnai, ["Forgiveness"](https://www.dropbox.com/s/cn9s7x4ello7u92/Kolnai%20-%20Forgiveness.pdf?dl=0) esp. pp 91-99 which includes presentation of a 'paradox of forgiveness'
 
 Luc Bovens ["Apologies"](https://www.dropbox.com/s/wmu1hcnxzleywk6/Bovens-Apologies.pdf?dl=0)
 
