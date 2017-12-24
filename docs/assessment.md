@@ -7,13 +7,14 @@ Questions will be distributed in advance. You are very welcome to propose your o
 * For BA candidates an essay of 3500 words (PHIL3097). (This may consist of either a single 3500 word essay or two papers one 1500 words and the other 2000 words.)
 * For MA/MPhil candidates an essay of 4500 words (PHILGA97/G097)
 * Due date for the summative essay is January 8th 2018.
+* A couple questions on forgiveness have been added to the initial set [link](https://www.dropbox.com/s/n0u52rtzbshj1h1/essay-topics-summative.pdf?dl=0).
 
 
 ## Formative essay
 
 You are strongly encouraged to write a formative essay during the reading week. Some questions will be distributed in advance.
 
-* Topics available here [link](https://www.dropbox.com/s/ca1m5bf5n06fom1/essay-topics-1.pdf?dl=0). (Additional questions may be included later in the term.)
+* Topics available here [link](https://www.dropbox.com/s/ca1m5bf5n06fom1/essay-topics-formative.pdf?dl=0). (Additional questions may be included later in the term.)
   - Due date is week 8 of the autumn term.
   - Any of these can also serve to set the topic for the summative essay.
 

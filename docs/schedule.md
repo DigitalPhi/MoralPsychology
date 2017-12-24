@@ -7,6 +7,9 @@
 
 *Topics*
 
+<!--  central concepts and distinctions -->
+
+
 
 *Reading*
 
@@ -76,7 +79,15 @@ Gary Watson, [‘Free Agency’](https://www.dropbox.com/s/t7xi0l24zgnyug3/watso
 
 <!-- William James, "What is an emotion?"[link](https://www.dropbox.com/s/f3i2rtaj7g7gh86/2_James_1884_WhatisanEmotion%20copy.pdf?dl=0)
 
-Alexandra Newton, "Kant on animal and human pleasure"[link](https://www.dropbox.com/s/d30yj9y1z41xjfk/Newton_Kant_on_Animal_and_Human_Pleasure.pdf?dl=0) -->
+Alexandra Newton, "Kant on animal and human pleasure"[link](https://www.dropbox.com/s/d30yj9y1z41xjfk/Newton_Kant_on_Animal_and_Human_Pleasure.pdf?dl=0) 
+
+Hampshire, 'Feeling and Expression' (in his Freedom of Mind and Other Essays)*
+
+Moran on expression and feeling
+
+strawson, freedom and resentment
+
+-->
 
 
 
@@ -99,7 +110,7 @@ Why does the lover want to be loved? Are there reasons for love? Is there a conf
 Robert Nozick, ["Love's Bond"](https://www.dropbox.com/s/h1bjlc5ipt66iu6/Nozick%20-%20Loves%20Bond.pdf?dl=0)
 
 
-Handout on Nozick [link](https://www.dropbox.com/s/fkuqys0v24pqou2/nozick-love.pdf?dl=0)
+Handout on Nozick [pdf](https://www.dropbox.com/s/fkuqys0v24pqou2/nozick-love.pdf?dl=0)
 
 
 *Further reading*
@@ -143,7 +154,7 @@ Harry Frankfurt,
 Bernard Williams, ["Persons, Character and Morality"](https://www.dropbox.com/s/83ucsxo9kyu6mbk/Williams%20-%20Persons%20Character%20Morality.pdf?dl=0) (selections, pp.14-19)
 
 
-<!-- handout on frankfurt  -->
+Handout on Frankfurt[pdf](https://www.dropbox.com/s/4gx7hgw9tqgreyo/frankfurt-love.pdf?dl=0)
 
 
 *Further reading*
@@ -304,6 +315,8 @@ Due to student interest we continued the discussion of anger focusing on Amia's 
 
 *Topics*
 
+Is forgiveness something merited by the wrongdoer’s repentance or apology? Is forgiveness instead elective, offered as a free gift to the wrongdoer?
+
 *Reading*
 
 Hannah Arendt, ["Irreversability and the power to forgive"](https://www.dropbox.com/s/kz2huo3sc6ern0g/arendt-forgiveness.pdf?dl=0) *The Human Condition* ch33
@@ -313,25 +326,37 @@ Avishai Margalit, ["Forgiving and forgetting"](https://www.dropbox.com/s/43sd9jh
 
 *Further reading*
 
-Lucy Allais, ["Wiping the slate clean: the heart of forgiveness"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Alias%20-%20Wiping%20Slate%20Clean.pdf?raw=true) Philosophy & Public Affairs, Vol. 36, No. 1 (Winter, 2008), 33-68
+Lucy Allais, ["Wiping the slate clean: the heart of forgiveness"](https://www.dropbox.com/s/e4okhulkhg09w1n/Alias%20-%20Wiping%20Slate%20Clean.pdf?dl=0)
 
 - Allais radio interview [link](https://philosophybites.libsyn.com/lucy-allais-on-forgiveness)
 
+Cheshire Calhoun, [“Changing one’s heart,”](https://www.dropbox.com/s/6957kyn3d9voefz/Calhoun%20-%20Changing%20ones%20heart.pdf?dl=0)
+
+Griswold, Forgiveness: a philosophical exploration [link]()
+
+Kolnai, ["Forgiveness"](https://www.dropbox.com/s/cn9s7x4ello7u92/Kolnai%20-%20Forgiveness.pdf?dl=0) esp. pp 91-99 which includes presentation of a 'paradox of forgiveness'
+
 Luc Bovens ["Apologies"](https://www.dropbox.com/s/wmu1hcnxzleywk6/Bovens-Apologies.pdf?dl=0)
 
-Cheshire Calhoun, [“Changing one’s heart,”](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Calhoun%20-%20Changing%20ones%20heart.pdf?raw=true) Ethics 103: 76-96 (1992)
+<!-- Pamela Hieronymi, “Articulating an Uncompromising Forgiveness,” Philosophy and Phenomenological Research, 62 (3): 529–555 (2001) 
 
-<!-- Pamela Hieronymi, “Articulating an Uncompromising Forgiveness,” Philosophy and Phenomenological Research, 62 (3): 529–555 (2001) -->
-
-<!-- Jeffrie Murphy, “Forgiveness and Resentment” from Forgiveness and Mercy, Cambridge: Cambridge University Press (1998)
+Jeffrie Murphy, “Forgiveness and Resentment” from Forgiveness and Mercy, Cambridge: Cambridge University Press (1998)
 
 Brandon Warmke, 2016a, “The Economic Model of Forgiveness”, Pacific Philosophical Quarterly, 97(4): 570–589. doi:10.1111/papq.12055
 
-Jankeklevitch, Vladimir. Forgiveness. Translated by Andrew Kelley. Chicago: University of Chicago, 2005. -->
+Jankeklevitch, Vladimir. Forgiveness. Translated by Andrew Kelley. Chicago: University of Chicago, 2005. 
+
+Derrida, On Forgiveness
+- Derrida discusses, among other things, Vladimir Jankeloevitch, “Should We Pardon Them?” where Jankneloevtich passionately argues that the terrible deeds committed by the Germans in the Shoah are irreparable and inexpiable; they are unforgivable.
+-->
 
 <!-- Butler, Joseph, [1726] 1846, Fifteen Sermons Preached at Rolls Chapel, in The Works of the Right Reverend Father in God, Joseph Butler, D.C.L., Late Bishop of Durham, Samuel Halifax (ed.), New York: Carter. [Butler 1726 available online] -->
 
+<!-- next time use kolnai to put in place 'the paradox of forgiveness' -->
+
 <!-- [Templeton project](http://forgiveness.templeton.org) -->
+
+<!-- derrida 'on forgiveness', bernstein reply, griswold, something on apology -->
 
 
 ## Shame & guilt
@@ -354,8 +379,6 @@ Gabrielle Taylor, ["Shame"](https://www.dropbox.com/s/xlu9jlfvnglu8zq/Taylor_-_S
 David Velleman, ["The Genesis of Shame"](https://www.dropbox.com/s/y0rqwcza9mzqtrv/Velleman%20-%20Genesis%20of%20Shame.pdf?dl=0)
 
 Lucy O'Brien, ["Shame and Other Forms of Social Pelting"](http)(ms)
-
-<!-- maybe include taylor in the required reading? -->
 
 Ilham Dilman, ["Shame, Guilt and Remorse"](https://www.dropbox.com/s/dva9adh2bmy0wcn/Dilman-1999-Philosophical_Investigations.pdf?dl=0)
 

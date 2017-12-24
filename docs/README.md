@@ -2,9 +2,11 @@
 
 > This is the course page for moral psychology (PHIL 3097, term 1, 2017). 
 
-Some topics that might be taken-up: love & hate, authority & obedience, shame & pride, respect & humiliation, pleasure & pain, self-control, competitiveness & equality, hope & despair, fear & grief, anger, forgiveness & apology. This module is meant to be exploratory within the limits of reason and polite society. Let's all do our best.
+Some topics that might be taken-up: love & hate, authority & obedience, shame & pride, respect & humiliation, pleasure & pain, self-control, competitiveness & equality, hope & despair, fear & grief, anger, forgiveness & apology. This module is meant to be exploratory within the limits of reason and polite society. Let's all do our best...
 
 ### Announcements
+
+A couple questions on forgiveness have been added to the initial set of topics [link](https://www.dropbox.com/s/n0u52rtzbshj1h1/essay-topics-summative.pdf?dl=0).
 
 The topic for seminar on December 7 is forgiveness.<sub><small>December 5</small></sub>
 - The central texts are the following: 
@@ -75,4 +77,3 @@ We will use the UCL [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=39769) 
 | 07.12 | Forgiveness & memory                | Arendt & Margalit     |
 | 14.12 | Shame & others                      | Williams              |
 
-<!-- supplementary readings for last meeting on shame: Velleman, Taylor, O'Brien & Margalit  -->
