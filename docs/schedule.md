@@ -3,7 +3,7 @@
 
 ### Morality and other practical concepts
 
-**05 October**
+Week 1
 
 *Topics*
 
@@ -37,12 +37,16 @@ Bernard Williams, "Replies", esp. sections "Naturalism and Morality" and "Style"
 
 Bernard Williams, "Morality and the emotions"[link](https://www.dropbox.com/s/b3mu2xhxo6i4xeu/Williams%20-%20Morality%20and%20the%20Emotions.pdf?dl=0)
 
-<!-- Richard Wollheim, ‘The good self and the bad self' in *The mind and its depths* [link]() -->
+<!-- Richard Wollheim, ‘The good self and the bad self' in *The mind and its depths* [link]() 
+
+Richard Wollheim, 'The Emotions and their Philosophy of Mind' [link](http://www.journals.cambridge.org/abstract_S1358246100007876)
+
+-->
 
 
 ### Mind in action and passion
 
-**12 October**
+Week 2
 
 *Topics*
 
@@ -100,7 +104,7 @@ Why does the lover want to be loved? Are there reasons for love? Is there a conf
 
 ### The object of love
 
-**19 October**
+Week 3
 
 <!-- *Topics* -->
 
@@ -110,7 +114,7 @@ Why does the lover want to be loved? Are there reasons for love? Is there a conf
 Robert Nozick, ["Love's Bond"](https://www.dropbox.com/s/h1bjlc5ipt66iu6/Nozick%20-%20Loves%20Bond.pdf?dl=0)
 
 
-Handout on Nozick [pdf](https://www.dropbox.com/s/fkuqys0v24pqou2/nozick-love.pdf?dl=0)
+<!-- Handout on Nozick [pdf](https://www.dropbox.com/s/fkuqys0v24pqou2/nozick-love.pdf?dl=0) -->
 
 
 *Further reading*
@@ -131,6 +135,7 @@ Luke Brunning ['The Distinctiveness of Polyamory'](https://www.dropbox.com/s/6ay
 
 
 *Further viewing*
+
 Derrida, on what is loved[video](https://www.youtube.com/watch?v=dj1BuNmhjAY)
 
 Zizek, on love as a fall[video](https://www.youtube.com/watch?v=OabTK7y7d6E)
@@ -138,7 +143,7 @@ Zizek, on love as a fall[video](https://www.youtube.com/watch?v=OabTK7y7d6E)
 
 ### The basis of love -- reason & desire
 
-**26 October**
+Week 4
 
 *Topics*
 
@@ -154,7 +159,7 @@ Harry Frankfurt,
 Bernard Williams, ["Persons, Character and Morality"](https://www.dropbox.com/s/83ucsxo9kyu6mbk/Williams%20-%20Persons%20Character%20Morality.pdf?dl=0) (selections, pp.14-19)
 
 
-Handout on Frankfurt[pdf](https://www.dropbox.com/s/4gx7hgw9tqgreyo/frankfurt-love.pdf?dl=0)
+<!-- Handout on Frankfurt[pdf](https://www.dropbox.com/s/4gx7hgw9tqgreyo/frankfurt-love.pdf?dl=0) -->
 
 
 *Further reading*
@@ -169,10 +174,12 @@ Moran, ‘Review Essay on “The Reasons of Love”'[link](https://www.dropbox.c
 
 Naaman, ["Distinction in Love"](https://www.dropbox.com/s/s0fcebynszz2eef/Naaman%20-%20Distinction%20in%20Love.pdf?dl=0)
 
+<!-- e. stump -->
+
 
 ### Love and justice
 
-**02 November**
+Week 5
 
 *Topics*
 
@@ -181,16 +188,17 @@ Naaman, ["Distinction in Love"](https://www.dropbox.com/s/s0fcebynszz2eef/Naaman
 
 David Velleman, ["Love as a Moral Emotion"](https://www.dropbox.com/s/64k6dgkqzz2vef5/Velleman%20-%20Love%20as%20a%20Moral%20Emotion.pdf?dl=0) Ethics 109 (1999), pp. 338-374
 
-Susan Wolf, ["Morality and Partiality"](https://www.dropbox.com/s/ycr2coivzncw3l5/Wolf%20-%20Partiality%20Morality.pdf?dl=0), Philosophical Perspectives, 6 (1992), pp. 243- 259
 
 
-Handout on Velleman [pdf](https://www.dropbox.com/s/0f51f5kf7fflmsd/velleman-love.pdf?dl=0)
+<!-- Handout on Velleman [pdf](https://www.dropbox.com/s/0f51f5kf7fflmsd/velleman-love.pdf?dl=0)
 
-Handout on Wolf [pdf](https://www.dropbox.com/s/k94j5rd044i7mwm/wolf-love-partiality.pdf?dl=0)
+Handout on Wolf [pdf](https://www.dropbox.com/s/k94j5rd044i7mwm/wolf-love-partiality.pdf?dl=0) -->
 
 *Further reading*
 
 David Velleman, ["Beyond Price"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Velleman%20-%20Beyond%20Price.pdf?raw=true)
+
+Susan Wolf, ["Morality and Partiality"](https://www.dropbox.com/s/ycr2coivzncw3l5/Wolf%20-%20Partiality%20Morality.pdf?dl=0), Philosophical Perspectives, 6 (1992), pp. 243- 259
 
 <!-- Sheffler, Williams -->
 
@@ -208,7 +216,7 @@ Perfect time to write a formative essay! Aim for 3-5 pages.
 
 ## Grief, death & time
 
-**November 16**
+Week 6
 
 *Topics*
 
@@ -241,6 +249,10 @@ Stephen Wilkinson, [“Is ‘Normal Grief’ a Mental Disorder?"](https://www.dr
 
 <!-- 
 
+Lear on grief
+
+Diamond on impossibility of reality
+
 Regret?
 
 Oded Naaman, Regretting with Time
@@ -255,7 +267,7 @@ Prior, Thank goodness that's over
 
 ## Anger 
 
-**November 23**
+Week 7
 
 What is anger? How are we to understand the nature of anger? Is it distinct from hatred, vengefulness, resentment and the like? How is anger linked to taking revenge? Why do we feel anger? How if at all is anger linked to self-esteem? Does it express low self-esteem, for example? How related to honor? Does anger reveal anything about our dependnece on others? Is it ever permissible to feel and express anger? Would a good person be angry in certain circumstances? If it is sometimes right to be angry, what could explain why and when one should cease to be angry?
 
@@ -264,14 +276,12 @@ What is anger? How are we to understand the nature of anger? Is it distinct from
 
 Martha Nussbaum, ["Anger: weakness, payback, down-Ranking" and "Emotions and upheavals of thought"](https://www.dropbox.com/s/fwfv7ivr24e7jm1/Nussbaum%20-%20Anger%20ch2%20and%20Appendix%20A.pdf?dl=0) in *Anger and Forgiveness*
 
-Amia Srinivasan, ["The aptness of anger"](https://www.dropbox.com/s/zno1m8v6pr2h51k/Srinivasan-2017-Journal_of_Political_Philosophy%20FINAL%20%281%29.pdf?dl=0)
-
 
 *Further reading*
 
 Chrales Griswold, ["The nature and ethics of vengful anger"](https://www.dropbox.com/s/5a6lyx7gbmuo5b8/Griswold%20-%20Vengful%20Anger.pdf?dl=0)
 
-Marilyn Frye, “A note on anger” in *The Politics of Reality*, pp. 84-94)
+Marilyn Frye, “A note on anger” in *The Politics of Reality*, pp. 84-94
 
 Jeffrie Murphy, ["Two cheers for vindictiveness"](http://pun.sagepub.com/cgi/content/abstract/2/2/131)
 
@@ -296,16 +306,19 @@ Debate between James Baldwin and William F. Buckley on the question: "Is the Ame
 Gideon Rosen, 'Rage against the Machine: Anger as a Political Emotion'[video](https://livestream.com/nyu-tv/GideonRosenLecture/videos/149050437)
 
 
-## NB
+## Anger
 
-**November 30**
+Week 8
 
-Due to student interest we continued the discussion of anger focusing on Amia's essay. The plan for the rest of the term is as described below.
+Continued the discussion of anger focusing on Amia Srinivasan, ["The aptness of anger"](https://www.dropbox.com/s/zno1m8v6pr2h51k/Srinivasan-2017-Journal_of_Political_Philosophy%20FINAL%20%281%29.pdf?dl=0)
+
+
+<!-- The plan for the rest of the term is as described below. -->
 
 
 ## Forgiveness & apology
 
-**December 07**
+Week 9
 
 *Topics*
 
@@ -322,7 +335,7 @@ Avishai Margalit, ["Forgiving and forgetting"](https://www.dropbox.com/s/43sd9jh
 
 Lucy Allais, ["Wiping the slate clean: the heart of forgiveness"](https://www.dropbox.com/s/e4okhulkhg09w1n/Alias%20-%20Wiping%20Slate%20Clean.pdf?dl=0)
 
-- Allais radio interview [link](https://philosophybites.libsyn.com/lucy-allais-on-forgiveness)
+  - Allais radio interview [link](https://philosophybites.libsyn.com/lucy-allais-on-forgiveness)
 
 Cheshire Calhoun, [“Changing one’s heart,”](https://www.dropbox.com/s/6957kyn3d9voefz/Calhoun%20-%20Changing%20ones%20heart.pdf?dl=0)
 
@@ -332,13 +345,19 @@ Aurel Kolnai, ["Forgiveness"](https://www.dropbox.com/s/cn9s7x4ello7u92/Kolnai%2
 
 Luc Bovens ["Apologies"](https://www.dropbox.com/s/wmu1hcnxzleywk6/Bovens-Apologies.pdf?dl=0)
 
-<!-- Pamela Hieronymi, “Articulating an Uncompromising Forgiveness,” Philosophy and Phenomenological Research, 62 (3): 529–555 (2001) 
+<!-- 
+
+Apology and forgiveness??? is there something in the new moran book?
+
+Pamela Hieronymi, “Articulating an Uncompromising Forgiveness,” Philosophy and Phenomenological Research, 62 (3): 529–555 (2001) 
 
 Jeffrie Murphy, “Forgiveness and Resentment” from Forgiveness and Mercy, Cambridge: Cambridge University Press (1998)
 
 Brandon Warmke, 2016a, “The Economic Model of Forgiveness”, Pacific Philosophical Quarterly, 97(4): 570–589. doi:10.1111/papq.12055
 
 Jankeklevitch, Vladimir. Forgiveness. Translated by Andrew Kelley. Chicago: University of Chicago, 2005. 
+
+Joanna North, Wrongdoing and forgiveness
 
 Derrida, On Forgiveness
 - Derrida discusses, among other things, Vladimir Jankeloevitch, “Should We Pardon Them?” where Jankneloevtich passionately argues that the terrible deeds committed by the Germans in the Shoah are irreparable and inexpiable; they are unforgivable.
@@ -355,7 +374,7 @@ Derrida, On Forgiveness
 
 ## Shame & guilt
 
-**December 14**
+Week 10
 
 *Topics*
 
@@ -377,6 +396,9 @@ Lucy O'Brien, ["Shame and Other Forms of Social Pelting"](http)(ms)
 Ilham Dilman, ["Shame, Guilt and Remorse"](https://www.dropbox.com/s/dva9adh2bmy0wcn/Dilman-1999-Philosophical_Investigations.pdf?dl=0)
 
 Richard Wollheim, [*On the Emotions*](https://www.dropbox.com/s/wgu4ejc9z7mm92t/Wollheim%20-%20On_the_Emotions%203.pdf?dl=0) ch.3
+
+
+<!-- James Laing? -->
 
 
 <!-- Film: Lars von Trier, *Melancholia*

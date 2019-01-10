@@ -1,12 +1,12 @@
 # Bibliography
 
-## Selective general background readings
+<!-- ## Selective general background readings -->
 
-Kenny
+<!-- Kenny
 
-Wallace
+Wallace -->
 
-### The historical backgrond
+<!-- ### The historical backgrond -->
 
 <!-- Plato
 
@@ -31,9 +31,9 @@ Kant
 Nietzsche -->
 
 
-### Some key books published since 1945
+<!-- ### Some key books published since 1945
 
-<!-- ### Other books published since 1945 -->
+### Other books published since 1945
 
 ### Collections
 
@@ -41,7 +41,7 @@ Nietzsche -->
 ## Topics
 
 
-## Further topics
+## Further topics -->
 
 
 
