@@ -224,6 +224,8 @@ Does failure to experience grief at the death of someone close show lack of love
 
 *Reading*
 
+Lear, ["The difficulty of reality and a revolt against mourning"](...)
+
 Berislav Marušić, ["Do Reasons Expire?"](https://www.dropbox.com/s/go6j7lxc0930fvs/BeriMa%20-%20Do%20Reasons%20Expire.pdf?dl=0)(ms)
 
 
@@ -233,6 +235,8 @@ Berislav Marušić, ["Do Reasons Expire?"](https://www.dropbox.com/s/go6j7lxc093
 *Further reading*
 
 Freud, ["Mourning and Melancholia"](https://www.dropbox.com/s/qtymq5fps223odh/Freud%20-%20Mourning%20Melancholia.pdf?dl=0) (l9l7), Standard Edition, XIV, pp. 239-258.
+
+Freud, ["On transience"](...)
 
 Jonathan Lear, ["Mourning and moral psychology"](https://www.dropbox.com/s/c40ajt86j1qskx6/Lear%20-%20Mourning%20Moral%20Psychology.pdf?dl=0) Psychoanalytic Psychology 2014, Vol. 31, No. 4, 470–481
 
@@ -248,8 +252,6 @@ Kathleen Higgins, ["Love and Death"](https://www.dropbox.com/s/h4i7org74lom1cq/H
 Stephen Wilkinson, [“Is ‘Normal Grief’ a Mental Disorder?"](https://www.dropbox.com/s/9lbcsqhzh5q2ctz/Wilkinson%20-%20Normer%20Grief%20Mental%20Disorder.pdf?dl=0)
 
 <!-- 
-
-Lear on grief
 
 Diamond on impossibility of reality
 

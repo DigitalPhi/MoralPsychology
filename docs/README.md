@@ -43,12 +43,21 @@ A few important announcements <sub><small>November 24</small></sub>
 
 ### Meetings
 
-- Seminar: Thursday 1600-1800, Gordon Square (19) 102 [(map)](http://www.ucl.ac.uk/maps/19-gordon-square)
-
-- Discussion sessions: Mondays 1500-1600, Darwin Building B05
+- Seminar: Thursdays 1600-1800, Gordon Square (19) 102 [(map)](http://www.ucl.ac.uk/maps/19-gordon-square)
 
 
-There is a discussion session this Monday, *January 9th*. They're fortnightly from then on. These classes are not mandatory, so you do not have to come. However, you are *strongly* encouraged to do so! Students found them very beneficial. We had some really excellent in depth discussions about the material. On the whole, we cover the same terrain as the texts set for class reading. The sessions are an opportunity for you to ask questions you didn't get to ask in class, or take further lines of inquiry which you weren't able to in the full group.
+- <span style="font-variant:small-caps;">Discussion sessions</span>
+
+| Date        | Time              | Location                              |
+|:------------|:------------------|:--------------------------------------|
+| 09 January  | Monday 1500--1600 | Darwin Building B05                   |
+| 28 January  | Monday 1500--1600 | Engineering Front Executive Suite 103 |
+| 18 February | Monday 1500--1600 | Roberts Building 110                  |
+| 4 March     | Monday 1500--1600 | Darwin Building B05                   |
+| 18 March    | Monday 1500--1600 | Forster Court 235                     |
+
+
+These classes are not mandatory, so you do not have to come. However, you are *very strongly* encouraged to do so! Students found them very beneficial. We had some really excellent in depth discussions about the material. On the whole, we cover the same terrain as the texts set for class reading. The sessions are an opportunity for you to ask questions you didn't get to ask in class, or take further lines of inquiry which you weren't able to in the full group.
 
 This week, we'll look at G.E.M. Anscombe's paper 'Modern Moral Philosophy'. We'll talk a bit about what moral psychology might be and how there might be a place in it for feeling and passion in addition to choice and action.
 

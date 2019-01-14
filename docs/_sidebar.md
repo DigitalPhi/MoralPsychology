@@ -1,6 +1,6 @@
 - [Welcome](README.md)
 
-- [Schedule and readings](schedule.md)
+- [Schedule & readings](schedule.md)
 
 - [Assessment](assessment.md)
 

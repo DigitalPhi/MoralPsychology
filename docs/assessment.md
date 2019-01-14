@@ -7,6 +7,7 @@ Questions will be distributed in advance. You are very welcome to propose your o
 * For BA candidates an essay of 3500 words. (This may consist of either a single 3500 word essay or two papers one 1500 words and the other 2000 words.)
 * For MA/MPhil candidates an essay of 4500 words.
 * Due date for the summative essay is tbd.
+
 <!-- * A couple questions on forgiveness have been added to the initial set [link](https://www.dropbox.com/s/n0u52rtzbshj1h1/essay-topics-summative.pdf?dl=0). -->
 
 
