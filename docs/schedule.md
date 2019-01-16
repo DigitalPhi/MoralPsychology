@@ -1,5 +1,4 @@
 
-## Schedule
 
 ### What is moral psychology?
 
