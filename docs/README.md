@@ -66,7 +66,9 @@ This week, we'll look at G.E.M. Anscombe's paper 'Modern Moral Philosophy'. We'l
 
 All the substantive course content will be available here on this course website. This module is work in progress. There may be a few, minor changes going forward.
 
-You will find links to individual readings in the detailed [schedule of topics](#schedule) below.
+You will find links to individual readings in the detailed [schedule of topics](/schedule) below.
+
+
 
 We will use the UCL [Moodle](https://moodle-1819.ucl.ac.uk/course/view.php?id=6599) only to send announcements and as the portal for submitting and receiving summative essays.
 
