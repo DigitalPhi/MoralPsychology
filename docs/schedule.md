@@ -22,22 +22,24 @@ G.E.M. Anscombe, ["Modern moral philosophy"](https://www.dropbox.com/s/i3iqx4cy2
 
 *Further reading*
 
-Philippa Foot, "Moral beliefs"[link](https://www.dropbox.com/s/syecfcdyd7teiql/Foot_Moral_Beliefs.pdf?dl=0), esp part I
+Philippa Foot, "Moral beliefs". [link](https://www.dropbox.com/s/syecfcdyd7teiql/Foot_Moral_Beliefs.pdf?dl=0), esp part I
 
-Edward Harcourt, "Nietzsche and eudaimonism"[link](https://www.dropbox.com/s/5kq5mnfdbsoitm9/Nietzsche_and_Eudaemonism.pdf?dl=0)
+Philippa Foot, "Virtues and vices". [link](https://www.dropbox.com/s/uacn7t3kwmhxdv9/foot_virtues_vices.pdf?dl=0)
+
+Edward Harcourt, "Nietzsche and eudaimonism". [link](https://www.dropbox.com/s/5kq5mnfdbsoitm9/Nietzsche_and_Eudaemonism.pdf?dl=0)
 
 Iris Murdoch, *Sovereignty of Good*, esp.
-the discussion of the characters M. and D. in "The Idea of Perfection" pp.16-, and the discussion of attention in "On ‘God’ and ‘Good’"[link](https://www.dropbox.com/s/dsxabeu2pms50qo/murdoch-good.pdf?dl=0)
+the discussion of the characters M. and D. in "The Idea of Perfection" pp.16-, and the discussion of attention in "On ‘God’ and ‘Good’" [link](https://www.dropbox.com/s/dsxabeu2pms50qo/murdoch-good.pdf?dl=0)
 
 Michael Tanner, ‘Sentimentality’. [link](https://www.dropbox.com/s/35kmaybpua1s3va/4544903.pdf?dl=0)
 
 <!-- Jonathan Lear, 'Psychoanalysis and the Idea of a Moral Psychology: Memorial to Bernard Williams Philosophy'. -->
 
-RJ Wallace, ['Moral Psychology](https://www.dropbox.com/s/h4hsgmkx5megpy5/wallace-moralpsychology-handbook.pdf?dl=0)
+RJ Wallace, 'Moral psychology' [link]](https://www.dropbox.com/s/h4hsgmkx5megpy5/wallace-moralpsychology-handbook.pdf?dl=0)
 
 Bernard Williams, "Replies", esp. sections "Naturalism and Morality" and "Style"[link](https://www.dropbox.com/s/eskthks2rhdvfnf/Williams%20-%20Replies%20in%20World_Mind_Ethics.pdf?dl=0)
 
-Bernard Williams, "Morality and the emotions"[link](https://www.dropbox.com/s/b3mu2xhxo6i4xeu/Williams%20-%20Morality%20and%20the%20Emotions.pdf?dl=0)
+Bernard Williams, "Morality and the emotions" [link](https://www.dropbox.com/s/b3mu2xhxo6i4xeu/Williams%20-%20Morality%20and%20the%20Emotions.pdf?dl=0)
 
 <!-- Richard Wollheim, ‘The good self and the bad self' in *The mind and its depths* [link]() 
 
