@@ -1,7 +1,9 @@
 
-## What is moral psychology?
+## Schedule
 
-### Morality and other practical concepts
+### What is moral psychology?
+
+#### Morality and other practical concepts
 
 Week 1
 
@@ -44,7 +46,7 @@ Richard Wollheim, 'The Emotions and their Philosophy of Mind' [link](http://www.
 -->
 
 
-### Mind in action and passion
+#### Mind in action and passion
 
 Week 2
 
@@ -95,7 +97,7 @@ strawson, freedom and resentment
 
 
 
-## Love (three sessions)
+### Love (three sessions)
 
 *Topics*
 
