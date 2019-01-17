@@ -10,11 +10,11 @@ Week 1
 
 <!--  central concepts and distinctions -->
 
-
-
 *Reading*
 
 G.E.M. Anscombe, ["Modern moral philosophy"](https://www.dropbox.com/s/i3iqx4cy2o9cm8k/Anscombe%20-%20Modern_Moral_Philosophy.pdf?dl=0)
+
+[handout](https://www.dropbox.com/s/161ak3qp8yepyem/mmp-nv-ho1.pdf?dl=0)
 
 <!-- handout on morality and other practical concepts -->
 
@@ -206,15 +206,15 @@ Susan Wolf, ["Morality and Partiality"](https://www.dropbox.com/s/ycr2coivzncw3l
 <!-- Sheffler, Williams -->
 
 
-## READING WEEK -- 09 NOVEMBER
+## READING WEEK -- 14.02
 
 Perfect time to write a formative essay! Aim for 3-5 pages.
+
+Topics will be posted 08.02.
 
 <!-- Some topics -->
 
 <!-- sample essays for last year -->
-
-
 
 
 ## Grief, death & time
