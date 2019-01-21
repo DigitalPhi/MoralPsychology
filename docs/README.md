@@ -79,17 +79,17 @@ We will use the UCL [Moodle](https://moodle-1819.ucl.ac.uk/course/view.php?id=65
 
 <span style="font-variant:small-caps;"> PROVISISIONAL & brief schedule of topics</span>
 
-| Date  | Topic                               | Main reading         |
-|:------|:------------------------------------|:---------------------|
-| 10.01 | Morality & other practical concepts | Anscombe             |
-| 17.01 | Mind in action and passion          | Moran & Korsgaard    |
-| 24.01 | Love & freedom                      | Nozick & Sartre      |
-| 31.01 | Love & rationality                  | Frankfurt & Williams |
-| 07.02 | Love & justice                      | Velleman & Wolf      |
-| 14.02 | READING WEEK                        | --                   |
-| 21.02 | Loss & grief                        | Marušić & Freud      |
-| 28.02 | Injustice & anger (time)            | Nussbaum             |
-| 07.03 | continued                           | Srinivasan           |
-| 14.03 | Forgiveness & memory                | Arendt & Margalit    |
-| 21.03 | Shame & guilt                       | Williams             |
+| Date  | Topic                                | Main reading         |
+|:------|:-------------------------------------|:---------------------|
+| 10.01 | Morality & other practical concepts  | Anscombe             |
+| 17.01 | Mind in action and passion           | Moran & Korsgaard    |
+| 24.01 | Evaluation of feeling, cont of week3 | Kosman               |
+| 31.01 | Love & rationality                   | Frankfurt & Williams |
+| 07.02 | Love & justice                       | Velleman & Wolf      |
+| 14.02 | READING WEEK                         | --                   |
+| 21.02 | Loss & grief                         | Marušić & Freud      |
+| 28.02 | Injustice & anger (time)             | Nussbaum             |
+| 07.03 | continued                            | Srinivasan           |
+| 14.03 | Forgiveness & memory                 | Arendt & Margalit    |
+| 21.03 | Shame & guilt                        | Williams             |
 

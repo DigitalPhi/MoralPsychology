@@ -27,11 +27,6 @@ Philippa Foot, "Virtues and vices". [link](https://www.dropbox.com/s/uacn7t3kwmh
 
 Edward Harcourt, "Nietzsche and eudaimonism". [link](https://www.dropbox.com/s/5kq5mnfdbsoitm9/Nietzsche_and_Eudaemonism.pdf?dl=0)
 
-Iris Murdoch, *Sovereignty of Good*, esp.
-the discussion of the characters M. and D. in "The Idea of Perfection" pp.16-, and the discussion of attention in "On ‘God’ and ‘Good’" [link](https://www.dropbox.com/s/dsxabeu2pms50qo/murdoch-good.pdf?dl=0)
-
-Michael Tanner, ‘Sentimentality’. [link](https://www.dropbox.com/s/35kmaybpua1s3va/4544903.pdf?dl=0)
-
 <!-- Jonathan Lear, 'Psychoanalysis and the Idea of a Moral Psychology: Memorial to Bernard Williams Philosophy'. -->
 
 RJ Wallace, 'Moral psychology' [link]](https://www.dropbox.com/s/h4hsgmkx5megpy5/wallace-moralpsychology-handbook.pdf?dl=0)
@@ -70,21 +65,22 @@ Christine M. Korsgaard, "The normative question" in *The Sources of Normativity*
 
 *Further reading*
 
-Harry Frankfurt, [‘Identification and Externality’](https://www.dropbox.com/s/fxwmflv6n25u9zs/Identification_and_externality%20copy.pdf?dl=0)
+Harry Frankfurt, ‘Identification and Externality’ [pdf](https://www.dropbox.com/s/fxwmflv6n25u9zs/Identification_and_externality%20copy.pdf?dl=0)
 
-Stuart Hampshire, ‘Freedom of mind’[link](https://www.dropbox.com/s/88ckc9of3ax9o5z/Freedom%20of%20Mind--Stuart%20Hampshire-1965.pdf?dl=0)
+Stuart Hampshire, ‘Freedom of mind’ [pdf](https://www.dropbox.com/s/88ckc9of3ax9o5z/Freedom%20of%20Mind--Stuart%20Hampshire-1965.pdf?dl=0)
 
-Alec Hinshelwood, [‘The relations between agency, identification, and alienation'](https://www.dropbox.com/s/7gtlbymaejfham7/hinshelwood-agency-identification-alienation.pdf?dl=0)
+Alec Hinshelwood, ‘The relations between agency, identification, and alienation' [pdf](https://www.dropbox.com/s/7gtlbymaejfham7/hinshelwood-agency-identification-alienation.pdf?dl=0)
 
-Joseph Raz, ‘When we are ourselves: the active and the passive' [link](https://www.dropbox.com/s/qvji0j41zczoe1a/raz-active-passive.pdf?dl=0)
+Joseph Raz, ‘When we are ourselves: the active and the passive' [pdf](https://www.dropbox.com/s/qvji0j41zczoe1a/raz-active-passive.pdf?dl=0)
 
-Bernard Williams, [‘Pleasure and belief’](https://www.dropbox.com/s/ycy35sg9x3hi5gg/williams-pleasure-belief.pdf?dl=0)
+Bernard Williams, ‘Pleasure and belief’[pdf](https://www.dropbox.com/s/ycy35sg9x3hi5gg/williams-pleasure-belief.pdf?dl=0)
 
+<!-- 
 Harry Frankfurt, [‘Freedom of the Will and the Concept of a Person’](https://www.dropbox.com/s/vxka9anoqc2jamh/frankfurt-person.pdf?dl=0)
 
-Gary Watson, [‘Free Agency’](https://www.dropbox.com/s/t7xi0l24zgnyug3/watson%20free%20agency%202024703.pdf?dl=0)
+Gary Watson, [‘Free Agency’](https://www.dropbox.com/s/t7xi0l24zgnyug3/watson%20free%20agency%202024703.pdf?dl=0) 
 
-<!-- William James, "What is an emotion?"[link](https://www.dropbox.com/s/f3i2rtaj7g7gh86/2_James_1884_WhatisanEmotion%20copy.pdf?dl=0)
+William James, "What is an emotion?"[link](https://www.dropbox.com/s/f3i2rtaj7g7gh86/2_James_1884_WhatisanEmotion%20copy.pdf?dl=0)
 
 Alexandra Newton, "Kant on animal and human pleasure"[link](https://www.dropbox.com/s/d30yj9y1z41xjfk/Newton_Kant_on_Animal_and_Human_Pleasure.pdf?dl=0) 
 
@@ -93,12 +89,36 @@ Hampshire, 'Feeling and Expression' (in his Freedom of Mind and Other Essays)*
 Moran on expression and feeling
 
 strawson, freedom and resentment
-
 -->
 
+#### The evaluation of feeling
+
+Week 3
+
+*Topics*
+
+Continuation of the topics raised in week 2 with a focus on Moran's essay. And exploration of the idea that living a good life does not just involve acting well but feeling well, and the questions this idea raises. What kind of standard do we appeal to when thinking about whether a feeling--our own or another’s--is appropriate? And if feelings can be evaluated, then must we be in control of them? 
+
+<!-- We are going to see how these questions and others arise in connection with two examples: love and anger. -->
+
+*Reading*
+
+Kosman, 'Being properly affected: virtues and feelings in Aristotle's Ethics [pdf](https://www.dropbox.com/s/0fwvznra1zeqo5w/kosman_properly_affected.pdf?dl=0)
 
 
-### Love (three sessions)
+*Further reading*
+
+Iris Murdoch, *Sovereignty of Good*, esp.
+the discussion of the characters M. and D. in "The Idea of Perfection" pp.16-, and the discussion of attention in "On ‘God’ and ‘Good’" [pdf](https://www.dropbox.com/s/dsxabeu2pms50qo/murdoch-good.pdf?dl=0)
+
+Michael Tanner, ‘Sentimentality’. [pdf](https://www.dropbox.com/s/35kmaybpua1s3va/4544903.pdf?dl=0)
+
+
+
+
+### Love
+
+Week 4
 
 *Topics*
 
