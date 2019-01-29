@@ -1,6 +1,7 @@
 # Bibliography
 
-<!-- ## Selective general background readings -->
+## Selective general background readings
+
 
 <!-- Kenny
 

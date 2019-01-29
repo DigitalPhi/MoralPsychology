@@ -105,15 +105,17 @@ Continuation of the topics raised in week 2 with a focus on Moran's essay. And e
 
 Kosman, 'Being properly affected: virtues and feelings in Aristotle's Ethics [pdf](https://www.dropbox.com/s/0fwvznra1zeqo5w/kosman_properly_affected.pdf?dl=0)
 
-
 *Further reading*
 
-Iris Murdoch, *Sovereignty of Good*, esp.
-the discussion of the characters M. and D. in "The Idea of Perfection" pp.16-, and the discussion of attention in "On ‘God’ and ‘Good’" [pdf](https://www.dropbox.com/s/dsxabeu2pms50qo/murdoch-good.pdf?dl=0)
+Aristotle on the voluntary
+
+<!-- handout -->
+
+Hyman on the same pay attention especially to the work put into the preserving the category of voluntary passion.
+
+Iris Murdoch, *Sovereignty of Good*, esp. the discussion of the characters M. and D. in "The Idea of Perfection" pp.16-, and the discussion of attention in "On ‘God’ and ‘Good’" [pdf](https://www.dropbox.com/s/dsxabeu2pms50qo/murdoch-good.pdf?dl=0)
 
 Michael Tanner, ‘Sentimentality’. [pdf](https://www.dropbox.com/s/35kmaybpua1s3va/4544903.pdf?dl=0)
-
-
 
 
 ### Love
@@ -197,7 +199,7 @@ Moran, ‘Review Essay on “The Reasons of Love”'[link](https://www.dropbox.c
 
 Naaman, ["Distinction in Love"](https://www.dropbox.com/s/s0fcebynszz2eef/Naaman%20-%20Distinction%20in%20Love.pdf?dl=0)
 
-<!-- e. stump -->
+
 
 
 ### Love and justice
@@ -211,17 +213,17 @@ Week 5
 
 David Velleman, ["Love as a Moral Emotion"](https://www.dropbox.com/s/64k6dgkqzz2vef5/Velleman%20-%20Love%20as%20a%20Moral%20Emotion.pdf?dl=0) Ethics 109 (1999), pp. 338-374
 
+<!-- handout on Velleman [pdf](https://www.dropbox.com/s/0f51f5kf7fflmsd/velleman-love.pdf?dl=0) -->
 
 
-<!-- Handout on Velleman [pdf](https://www.dropbox.com/s/0f51f5kf7fflmsd/velleman-love.pdf?dl=0)
-
-Handout on Wolf [pdf](https://www.dropbox.com/s/k94j5rd044i7mwm/wolf-love-partiality.pdf?dl=0) -->
 
 *Further reading*
 
 David Velleman, ["Beyond Price"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Velleman%20-%20Beyond%20Price.pdf?raw=true)
 
 Susan Wolf, ["Morality and Partiality"](https://www.dropbox.com/s/ycr2coivzncw3l5/Wolf%20-%20Partiality%20Morality.pdf?dl=0), Philosophical Perspectives, 6 (1992), pp. 243- 259
+
+- handout on Wolf [pdf](https://www.dropbox.com/s/k94j5rd044i7mwm/wolf-love-partiality.pdf?dl=0) -->
 
 <!-- Sheffler, Williams -->
 
@@ -247,9 +249,11 @@ Does failure to experience grief at the death of someone close show lack of love
 
 *Reading*
 
-Lear, ["The difficulty of reality and a revolt against mourning"](...)
+Lear, ["The difficulty of reality and a revolt against mourning"](---)
 
-Berislav Marušić, ["Do Reasons Expire?"](https://www.dropbox.com/s/go6j7lxc0930fvs/BeriMa%20-%20Do%20Reasons%20Expire.pdf?dl=0)(ms)
+Freud, ["On transience"](---)
+
+<!-- Diamond, On impossibility of reality -->
 
 
 <!-- handout on b.m. on grief -->
@@ -257,37 +261,25 @@ Berislav Marušić, ["Do Reasons Expire?"](https://www.dropbox.com/s/go6j7lxc093
 
 *Further reading*
 
-Freud, ["Mourning and Melancholia"](https://www.dropbox.com/s/qtymq5fps223odh/Freud%20-%20Mourning%20Melancholia.pdf?dl=0) (l9l7), Standard Edition, XIV, pp. 239-258.
+Freud, ["Mourning and melancholia"](https://www.dropbox.com/s/qtymq5fps223odh/Freud%20-%20Mourning%20Melancholia.pdf?dl=0) (l9l7), Standard Edition, XIV, pp. 239-258.
 
-Freud, ["On transience"](...)
-
-Jonathan Lear, ["Mourning and moral psychology"](https://www.dropbox.com/s/c40ajt86j1qskx6/Lear%20-%20Mourning%20Moral%20Psychology.pdf?dl=0) Psychoanalytic Psychology 2014, Vol. 31, No. 4, 470–481
+Lear, ["Mourning and moral psychology"](https://www.dropbox.com/s/c40ajt86j1qskx6/Lear%20-%20Mourning%20Moral%20Psychology.pdf?dl=0) Psychoanalytic Psychology 2014, Vol. 31, No. 4, 470–481
 
 Michael Cholbi, ["Grief's Rationality, Backward and Forward"](https://www.dropbox.com/s/u8y6jtkdmtedah1/Cholbi-2016-Philosophy_and_Phenomenological_Research.pdf?dl=0)
 
 Donald Gustafson, ["Grief"](https://www.dropbox.com/s/2vmkfq9bfo79nt1/Gustafson%20-%20Grief.pdf?dl=0)
 
-Martha Nussbaum, ["Humans and other animals"](https://www.dropbox.com/s/fj7zh2v8t1ucqsv/Nussbaum%20Upheav%20Thought%202.pdf?dl=0)
-& ["Emotions and human societies](https://www.dropbox.com/s/p54ia5zf8vt4n8v/Nussbaum%20Upheav%20Thought%203.pdf?dl=0), chs 2-3 of *Upheavals of Thought*
+Martha Nussbaum, ["Humans and other animals"](https://www.dropbox.com/s/fj7zh2v8t1ucqsv/Nussbaum%20Upheav%20Thought%202.pdf?dl=0) & ["Emotions and human societies](https://www.dropbox.com/s/p54ia5zf8vt4n8v/Nussbaum%20Upheav%20Thought%203.pdf?dl=0), chs 2-3 of *Upheavals of Thought*
 
 Kathleen Higgins, ["Love and Death"](https://www.dropbox.com/s/h4i7org74lom1cq/Higgins%20-%20Love%20and%20Death.pdf?dl=0)
 
 Stephen Wilkinson, [“Is ‘Normal Grief’ a Mental Disorder?"](https://www.dropbox.com/s/9lbcsqhzh5q2ctz/Wilkinson%20-%20Normer%20Grief%20Mental%20Disorder.pdf?dl=0)
 
-<!-- 
+##### time and the above
 
-Diamond on impossibility of reality
+Agnes Callard, 'Reason to be angry forever'
 
-Regret?
-
-Oded Naaman, Regretting with Time
-
-RJ Wallace, 
-
-Prior, Thank goodness that's over 
-
--->
-
+Berislav Marušić, ['Do reasons expire?''](https://www.dropbox.com/s/go6j7lxc0930fvs/BeriMa%20-%20Do%20Reasons%20Expire.pdf?dl=0)(ms)
 
 
 ## Anger 
@@ -299,7 +291,7 @@ What is anger? How are we to understand the nature of anger? Is it distinct from
 
 *Reading*
 
-Martha Nussbaum, ["Anger: weakness, payback, down-Ranking" and "Emotions and upheavals of thought"](https://www.dropbox.com/s/fwfv7ivr24e7jm1/Nussbaum%20-%20Anger%20ch2%20and%20Appendix%20A.pdf?dl=0) in *Anger and Forgiveness*
+Martha Nussbaum, ["Anger: weakness, payback, down-Rranking" and "Emotions and upheavals of thought"](https://www.dropbox.com/s/fwfv7ivr24e7jm1/Nussbaum%20-%20Anger%20ch2%20and%20Appendix%20A.pdf?dl=0) in *Anger and forgiveness*
 
 
 *Further reading*
@@ -312,7 +304,7 @@ Jeffrie Murphy, ["Two cheers for vindictiveness"](http://pun.sagepub.com/cgi/con
 
 New Yorker profile of Nussbaum[link](http://www.newyorker.com/magazine/2016/07/25/martha-nussbaums-moral-philosophies)
 
-Nussbaum in light of the US presidential election: ["Anger, Disgust, Fear: Powerlessness and the Politics of Blame"](http://www.abc.net.au/religion/articles/2016/11/14/4574917.htm)
+<!-- Nussbaum in light of the US presidential election: ["Anger, Disgust, Fear: Powerlessness and the Politics of Blame"](http://www.abc.net.au/religion/articles/2016/11/14/4574917.htm) -->
 
 Srinivasan, ["Would Politics Be Better Off Without Anger?"](https://www.thenation.com/article/a-righteous-fury/), review of Nussbaum in *The Nation* 
 
@@ -328,7 +320,7 @@ Plutarch, [c. 100CE] 2000, “On the Control of Anger”, in Moralia, (Vol. 6). 
 *Further viewing*
 Debate between James Baldwin and William F. Buckley on the question: "Is the American Dream at the expense of the American Negro?" [video](https://www.youtube.com/watch?v=oFeoS41xe7w). Held at Cambridge University, 1965.
 
-Gideon Rosen, 'Rage against the Machine: Anger as a Political Emotion'[video](https://livestream.com/nyu-tv/GideonRosenLecture/videos/149050437)
+Gideon Rosen, 'Rage against the machine: anger as a political emotion'[video](https://livestream.com/nyu-tv/GideonRosenLecture/videos/149050437)
 
 
 ## Anger
@@ -338,7 +330,6 @@ Week 8
 Continued the discussion of anger focusing on Amia Srinivasan, ["The aptness of anger"](https://www.dropbox.com/s/zno1m8v6pr2h51k/Srinivasan-2017-Journal_of_Political_Philosophy%20FINAL%20%281%29.pdf?dl=0)
 
 
-<!-- The plan for the rest of the term is as described below. -->
 
 
 ## Forgiveness & apology
@@ -423,7 +414,18 @@ Ilham Dilman, ["Shame, Guilt and Remorse"](https://www.dropbox.com/s/dva9adh2bmy
 Richard Wollheim, [*On the Emotions*](https://www.dropbox.com/s/wgu4ejc9z7mm92t/Wollheim%20-%20On_the_Emotions%203.pdf?dl=0) ch.3
 
 
-<!-- James Laing? -->
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- Film: Lars von Trier, *Melancholia*
