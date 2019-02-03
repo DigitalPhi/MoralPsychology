@@ -16,7 +16,7 @@ G.E.M. Anscombe, ["Modern moral philosophy"](https://www.dropbox.com/s/i3iqx4cy2
 
 [handout](https://www.dropbox.com/s/161ak3qp8yepyem/mmp-nv-ho1.pdf?dl=0)
 
-<!-- handout on morality and other practical concepts -->
+<!-- handout on morality and other practical concepts -- ah overview -->
 
 
 *Further reading*
@@ -37,7 +37,7 @@ Bernard Williams, "Morality and the emotions" [link](https://www.dropbox.com/s/b
 
 <!-- Richard Wollheim, ‘The good self and the bad self' in *The mind and its depths* [link]() 
 
-Richard Wollheim, 'The Emotions and their Philosophy of Mind' [link](http://www.journals.cambridge.org/abstract_S1358246100007876)
+Richard Wollheim, 'The Emotions and their philosophy of mind' [link](http://www.journals.cambridge.org/abstract_S1358246100007876)
 
 -->
 
@@ -93,7 +93,6 @@ strawson, freedom and resentment
 
 #### The evaluation of feeling
 
-Week 3
 
 *Topics*
 
@@ -120,23 +119,33 @@ Michael Tanner, ‘Sentimentality’. [pdf](https://www.dropbox.com/s/35kmaybpua
 
 ### Love
 
-Week 4
 
 *Topics*
 
 Why does the lover want to be loved? Are there reasons for love? Is there a conflict between the demands of love and the demands of freedom and autonomy? Is there a conflict between the demands of love and the demands of impartial morality or justice? What are the desires characteristic of different types of love? What is the relation of sex and love? What distinguishes 'normal' love from neurotic and perverse love? What role does the declaration of love (“I love you”) play in the constitution of the relationship itself? 
 
+*Readings*
 
-### The object of love
+Frankfurt, *The reasons of love*, [pdf](https://www.dropbox.com/s/caiw3rj9pbockq3/Frankfurt-ReasonsofLove.pdf?dl=0)
 
-Week 3
+<!-- Handout on Frankfurt[pdf](https://www.dropbox.com/s/4gx7hgw9tqgreyo/frankfurt-love.pdf?dl=0) -->
+
+
+David Velleman, 'Love as a Moral Emotion' [pdf](https://www.dropbox.com/s/64k6dgkqzz2vef5/Velleman%20-%20Love%20as%20a%20Moral%20Emotion.pdf?dl=0) Ethics 109 (1999), pp. 338-374
+
+<!-- handout on Velleman [pdf](https://www.dropbox.com/s/0f51f5kf7fflmsd/velleman-love.pdf?dl=0) -->
+
+
+
+#### The object of love
+
 
 <!-- *Topics* -->
 
-
+<!-- 
 *Reading*
 
-Robert Nozick, ["Love's Bond"](https://www.dropbox.com/s/h1bjlc5ipt66iu6/Nozick%20-%20Loves%20Bond.pdf?dl=0)
+Robert Nozick, ["Love's Bond"](https://www.dropbox.com/s/h1bjlc5ipt66iu6/Nozick%20-%20Loves%20Bond.pdf?dl=0) -->
 
 
 <!-- Handout on Nozick [pdf](https://www.dropbox.com/s/fkuqys0v24pqou2/nozick-love.pdf?dl=0) -->
@@ -168,7 +177,6 @@ Zizek, on love as a fall[video](https://www.youtube.com/watch?v=OabTK7y7d6E)
 
 ### The basis of love -- reason & desire
 
-Week 4
 
 *Topics*
 
@@ -200,13 +208,8 @@ Moran, ‘Review Essay on “The Reasons of Love”'[link](https://www.dropbox.c
 Naaman, ["Distinction in Love"](https://www.dropbox.com/s/s0fcebynszz2eef/Naaman%20-%20Distinction%20in%20Love.pdf?dl=0)
 
 
-
-
 ### Love and justice
 
-Week 5
-
-*Topics*
 
 
 *Readings*
@@ -223,9 +226,9 @@ David Velleman, ["Beyond Price"](https://github.com/UCL-PHIL/3097/blob/gh-pages/
 
 Susan Wolf, ["Morality and Partiality"](https://www.dropbox.com/s/ycr2coivzncw3l5/Wolf%20-%20Partiality%20Morality.pdf?dl=0), Philosophical Perspectives, 6 (1992), pp. 243- 259
 
-- handout on Wolf [pdf](https://www.dropbox.com/s/k94j5rd044i7mwm/wolf-love-partiality.pdf?dl=0) -->
+<!-- - handout on Wolf [pdf](https://www.dropbox.com/s/k94j5rd044i7mwm/wolf-love-partiality.pdf?dl=0)  -->
 
-<!-- Sheffler, Williams -->
+
 
 
 ## READING WEEK -- 14.02
@@ -412,18 +415,6 @@ Lucy O'Brien, ["Shame and Other Forms of Social Pelting"](http)(ms)
 Ilham Dilman, ["Shame, Guilt and Remorse"](https://www.dropbox.com/s/dva9adh2bmy0wcn/Dilman-1999-Philosophical_Investigations.pdf?dl=0)
 
 Richard Wollheim, [*On the Emotions*](https://www.dropbox.com/s/wgu4ejc9z7mm92t/Wollheim%20-%20On_the_Emotions%203.pdf?dl=0) ch.3
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -100,3 +100,9 @@ We will use the UCL [Moodle](https://moodle-1819.ucl.ac.uk/course/view.php?id=65
 Make-up class rescheduled for...tbd...
 
 <!-- Forgiveness & memory | Arendt & Margalit    -->
+
+
+
+
+
+<!-- https://www.ucl.ac.uk/comparative-literature/staff-bio/jennifer.rushworth -->
