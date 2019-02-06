@@ -6,11 +6,22 @@ Some topics that might be taken-up: love & hate, authority & obedience, shame & 
 
 ### Announcements
 
-For our first meeting we'll discuss G.E.M. Anscombe's landmark paper 'Modern moral philosophy'[pdf](https://www.dropbox.com/s/i3iqx4cy2o9cm8k/Anscombe%20-%201958%20-%20Modern%20Moral%20Philosophy.pdf?dl=0). Apologies for the short notice but please come prepared to discuss it.<small>07.01.2019</small>
+As discussed in seminar described on the schedule below, the main reading for our meetying on 07.02 is Frankfurt's *The reasons of love*. It's a short book, read as much as you can but certainly the first two chapters. We will spend the following meeting with this text and also Velleman's essay 'Love as a moral emotion'. I will be adding quite a bit of supplementary material readings as well as notes in case you want to pursue the topic further. Apologies for any confusion. See you all tomorrow!
+<small>06.02.2019</small>
+
+
+The main reading for this week is Kosman, 'Being properly affected: virtues and feelings in Aristotle's Ethics [pdf](https://www.dropbox.com/s/0fwvznra1zeqo5w/kosman_properly_affected.pdf?dl=0). It has been posted on the schedule since last week. Apologies for again for my falling ill. We'll settle on a make-up class when when we meet Thursday. <small>29.01.2019</small>
 
 Due dates have been fixed for summative essays. See below for details. It simply follows the date set by the department of philosophy.<small>25.01.2019</small>
 
-The main reading for this week is Kosman, 'Being properly affected: virtues and feelings in Aristotle's Ethics [pdf](https://www.dropbox.com/s/0fwvznra1zeqo5w/kosman_properly_affected.pdf?dl=0). It has been posted on the schedule since last week. Apologies for again for my falling ill. We'll settle on a make-up class when when we meet Thursday. <small>29.01.2019</small>
+For our first meeting we'll discuss G.E.M. Anscombe's landmark paper 'Modern moral philosophy'[pdf](https://www.dropbox.com/s/i3iqx4cy2o9cm8k/Anscombe%20-%201958%20-%20Modern%20Moral%20Philosophy.pdf?dl=0). Apologies for the short notice but please come prepared to discuss it.<small>07.01.2019</small>
+
+
+
+
+
+
+
 
 
 <!-- 
@@ -83,21 +94,22 @@ We will use the UCL [Moodle](https://moodle-1819.ucl.ac.uk/course/view.php?id=65
 
 <span style="font-variant:small-caps;"> PROVISISIONAL & brief schedule of topics</span>
 
-| Date  | Topic                                | Main reading      |
-|:------|:-------------------------------------|:------------------|
-| 10.01 | Morality & other practical concepts  | Anscombe          |
-| 17.01 | Mind in action and passion           | Moran & Korsgaard |
-| 24.01 | Evaluation of feeling, cont of week2 | Kosman            |
-| 31.01 | Love, necessity & particularity      | Frankfurt         |
-| 07.02 | Love, morality & universality        | Velleman          |
-| 14.02 | READING WEEK                         | --                |
-| 21.02 | Loss & grief                         | Lear & Freud      |
-| 28.02 | Grief, anger & time                  | Marušić & Callard |
-| 07.03 | Anger, injustice & others            | Nussbaum          |
-| 14.03 | Anger and justice                    | Srinivasan        |
-| 21.03 | Shame (co-taught w/ J.Laing)         | tbd               |
+| Date    | Topic                                | Main reading      |
+|:--------|:-------------------------------------|:------------------|
+| 10.01   | Morality & other practical concepts  | Anscombe          |
+| 17.01   | Mind in action and passion           | Moran & Korsgaard |
+| 24.01   | Evaluation of feeling, cont of week2 | Kosman            |
+| 31.01   | Love, necessity & particularity      | Frankfurt         |
+| 07.02   | Love, morality & universality        | Velleman          |
+| 14.02   | READING WEEK                         | --                |
+| 21.02   | Loss & grief                         | Lear & Freud      |
+| 28.02   | Grief, anger & time                  | Marušić & Callard |
+| 07.03   | Anger, injustice & others            | Nussbaum          |
+| 14.03   | Anger and justice                    | Srinivasan        |
+| 21.03   | Shame (w/ J.Laing)                   | tbd               |
+| make-up | tbd                                  | tbd               |
 
-Make-up class rescheduled for...tbd...
+
 
 <!-- Forgiveness & memory | Arendt & Margalit    -->
 
