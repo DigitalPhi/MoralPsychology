@@ -94,24 +94,20 @@ We will use the UCL [Moodle](https://moodle-1819.ucl.ac.uk/course/view.php?id=65
 
 <span style="font-variant:small-caps;"> PROVISISIONAL & brief schedule of topics</span>
 
-| Date    | Topic                                | Main reading      |
-|:--------|:-------------------------------------|:------------------|
-| 10.01   | Morality & other practical concepts  | Anscombe          |
-| 17.01   | Mind in action and passion           | Moran & Korsgaard |
-| 24.01   | Evaluation of feeling, cont of week2 | Kosman            |
-| 31.01   | Love, necessity & particularity      | Frankfurt         |
-| 07.02   | Love, morality & universality        | Velleman          |
-| 14.02   | READING WEEK                         | --                |
-| 21.02   | Loss & grief                         | Lear & Freud      |
-| 28.02   | Grief, anger & time                  | Marušić & Callard |
-| 07.03   | Anger, injustice & others            | Nussbaum          |
-| 14.03   | Anger and justice                    | Srinivasan        |
-| 21.03   | Shame (w/ J.Laing)                   | tbd               |
-| make-up | tbd                                  | tbd               |
-
-
-
-<!-- Forgiveness & memory | Arendt & Margalit    -->
+| Date    | Topic                               | Main reading              |
+|:--------|:------------------------------------|:--------------------------|
+| 10.01   | Morality & other practical concepts | Anscombe                  |
+| 17.01   | Mind in action and passion          | Moran & Korsgaard         |
+| 24.01   | Evaluation of feeling               | Kosman                    |
+| 31.01   | seminar cancelled due to illness    | ---                       |
+| 07.02   | Love, necessity & particularity     | Frankfurt & Velleman      |
+| 14.02   | READING WEEK                        | --                        |
+| 21.02   | Love, necessity & particularity     | Frankfurt & Velleman cont |
+| 28.02   | Loss, grief, & time                 | Marušić & Callard         |
+| 07.03   | Anger, injustice & others           | Nussbaum & Srinivasan     |
+| 14.03   | Forgiving, forgetting, apologising  | Margalit & Kolnai         |
+| 21.03   | Shame (w/ J.Laing)                  | Williams & O'Brien        |
+| make-up | tbd                                 | tbd                       |
 
 
 
