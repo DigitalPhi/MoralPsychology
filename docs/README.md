@@ -6,11 +6,11 @@ Some topics that might be taken-up: love & hate, authority & obedience, shame & 
 
 ### Announcements
 
-As discussed in seminar described on the schedule below, the main reading for our meetying on 07.02 is Frankfurt's *The reasons of love*. It's a short book, read as much as you can but certainly the first two chapters. We will spend the following meeting with this text and also Velleman's essay 'Love as a moral emotion'. I will be adding quite a bit of supplementary material readings as well as notes in case you want to pursue the topic further. Apologies for any confusion. See you all tomorrow!
+As discussed in seminar described on the schedule below, the main reading for our meetying on 07.02 is Frankfurt's *The reasons of love* [pdf](https://www.dropbox.com/s/caiw3rj9pbockq3/Frankfurt-ReasonsofLove.pdf?dl=0). It's a short book, read as much as you can but certainly the first two chapters. We will spend the following meeting with this text and also Velleman's essay 'Love as a moral emotion'. I will be adding quite a bit of supplementary material readings as well as notes in case you want to pursue the topic further. Apologies for any confusion. See you all tomorrow!
 <small>06.02.2019</small>
 
 
-The main reading for this week is Kosman, 'Being properly affected: virtues and feelings in Aristotle's Ethics [pdf](https://www.dropbox.com/s/0fwvznra1zeqo5w/kosman_properly_affected.pdf?dl=0). It has been posted on the schedule since last week. Apologies for again for my falling ill. We'll settle on a make-up class when when we meet Thursday. <small>29.01.2019</small>
+The main reading for this week is Kosman, 'Being properly affected: virtues and feelings in Aristotle's Ethics' [pdf](https://www.dropbox.com/s/0fwvznra1zeqo5w/kosman_properly_affected.pdf?dl=0). It has been posted on the schedule since last week. Apologies for again for my falling ill. We'll settle on a make-up class when when we meet Thursday. <small>29.01.2019</small>
 
 Due dates have been fixed for summative essays. See below for details. It simply follows the date set by the department of philosophy.<small>25.01.2019</small>
 
