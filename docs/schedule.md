@@ -137,14 +137,18 @@ Frankfurt, *The reasons of love*, [pdf](https://www.dropbox.com/s/caiw3rj9pbockq
 <!-- Handout on Frankfurt[pdf](https://www.dropbox.com/s/4gx7hgw9tqgreyo/frankfurt-love.pdf?dl=0) -->
 
 
-David Velleman, 'Love as a Moral Emotion' [pdf](https://www.dropbox.com/s/64k6dgkqzz2vef5/Velleman%20-%20Love%20as%20a%20Moral%20Emotion.pdf?dl=0) Ethics 109 (1999), pp. 338-374
+David Velleman, 'Love as a moral emotion' [pdf](https://www.dropbox.com/s/64k6dgkqzz2vef5/Velleman%20-%20Love%20as%20a%20Moral%20Emotion.pdf?dl=0) Ethics 109 (1999), pp. 338-374
 
 <!-- handout on Velleman [pdf](https://www.dropbox.com/s/0f51f5kf7fflmsd/velleman-love.pdf?dl=0) -->
 
 
 *Further readings*
 
-coming soon
+Robert Nozick, 'Love's Bond', [pdf](https://www.dropbox.com/s/h1bjlc5ipt66iu6/Nozick%20-%20Loves%20Bond.pdf?dl=0) (useful for providing some context to the deeper discussion in the Frankfurt and Velleman essays.)
+
+  - handout on Nozick [pdf](https://www.dropbox.com/s/hovd6lxe8ept596/nozick-lovesbond-ho1.pdf?dl=0)
+
+
 
 <!-- #### The object of love -->
 
