@@ -57,15 +57,18 @@ The nature of desire and its relation to reasons. Active and passive relations t
 
 Richard Moran, "Frankfurt on identification: ambiguities of activity in mental life." pp. 189-217. [link](https://www.dropbox.com/s/y0x961osh0owbut/Moran-Frankfurt-Ambiguities.pdf?dl=0)
 
+  - handout to come
+
+
 Christine M. Korsgaard, "The normative question" in *The Sources of Normativity*, pp. 7-21 [link](https://www.dropbox.com/s/h5ic8klzkq7xudl/Christine%20M.%20Korsgaard%20The%20Sources%20of%20Normativity%20%201996.pdf?dl=0)
 
 
-<!-- handouts on activity and reason: 1. korsgaard, 2. moran -->
+  - handout [pdf](https://www.dropbox.com/s/64wm35rbah5005b/korsgaard_normative_question_ho.pdf?dl=0)
 
 
 *Further reading*
 
-Harry Frankfurt, ‘Identification and Externality’ [pdf](https://www.dropbox.com/s/fxwmflv6n25u9zs/Identification_and_externality%20copy.pdf?dl=0)
+Harry Frankfurt, ‘Identification and externality’ [pdf](https://www.dropbox.com/s/fxwmflv6n25u9zs/Identification_and_externality%20copy.pdf?dl=0)
 
 Stuart Hampshire, ‘Freedom of mind’ [pdf](https://www.dropbox.com/s/88ckc9of3ax9o5z/Freedom%20of%20Mind--Stuart%20Hampshire-1965.pdf?dl=0)
 
@@ -75,21 +78,7 @@ Joseph Raz, ‘When we are ourselves: the active and the passive' [pdf](https://
 
 Bernard Williams, ‘Pleasure and belief’[pdf](https://www.dropbox.com/s/ycy35sg9x3hi5gg/williams-pleasure-belief.pdf?dl=0)
 
-<!-- 
-Harry Frankfurt, [‘Freedom of the Will and the Concept of a Person’](https://www.dropbox.com/s/vxka9anoqc2jamh/frankfurt-person.pdf?dl=0)
 
-Gary Watson, [‘Free Agency’](https://www.dropbox.com/s/t7xi0l24zgnyug3/watson%20free%20agency%202024703.pdf?dl=0) 
-
-William James, "What is an emotion?"[link](https://www.dropbox.com/s/f3i2rtaj7g7gh86/2_James_1884_WhatisanEmotion%20copy.pdf?dl=0)
-
-Alexandra Newton, "Kant on animal and human pleasure"[link](https://www.dropbox.com/s/d30yj9y1z41xjfk/Newton_Kant_on_Animal_and_Human_Pleasure.pdf?dl=0) 
-
-Hampshire, 'Feeling and Expression' (in his Freedom of Mind and Other Essays)*
-
-Moran on expression and feeling
-
-strawson, freedom and resentment
--->
 
 #### The evaluation of feeling
 
@@ -108,11 +97,11 @@ Kosman, 'Being properly affected: virtues and feelings in Aristotle's Ethics [pd
 
 *Further reading*
 
-Aristotle on the voluntary
+<!-- Aristotle on the voluntary -->
 
 <!-- handout -->
 
-Hyman on the same pay attention especially to the work put into the preserving the category of voluntary passion.
+<!-- Hyman on the same pay attention especially to the work put into the preserving the category of voluntary passion. -->
 
 Iris Murdoch, *Sovereignty of Good*, esp. the discussion of the characters M. and D. in "The Idea of Perfection" pp.16-, and the discussion of attention in "On ‘God’ and ‘Good’" [pdf](https://www.dropbox.com/s/dsxabeu2pms50qo/murdoch-good.pdf?dl=0)
 
@@ -125,7 +114,7 @@ Weeks 4 & 5
 
 *Topics*
 
-Why does the lover want to be loved? Are there reasons for love? Is there a conflict between the demands of love and the demands of freedom and autonomy? Is there a conflict between the demands of love and the demands of impartial morality or justice? What are the desires characteristic of different types of love? What is the relation of sex and love? What distinguishes 'normal' love from neurotic and perverse love? What role does the declaration of love (“I love you”) play in the constitution of the relationship itself? 
+Transition to concrete facts of human life: If Moran (Korsgaard and Kosman) are right that we are to understand the relevant notion of identification and activity though the connection to reasons and justification, specifically in self-conscious deliberation, then what are we to make of the sort of connection or dependence or relation to another called love? to be mine or to identify with such desire must i understand it at the very least to be open to rational assessment?
 
 
 *Readings*
@@ -144,26 +133,20 @@ David Velleman, 'Love as a moral emotion' [pdf](https://www.dropbox.com/s/64k6dg
 
 *Further readings*
 
-Robert Nozick, 'Love's Bond', [pdf](https://www.dropbox.com/s/h1bjlc5ipt66iu6/Nozick%20-%20Loves%20Bond.pdf?dl=0) (useful for providing some context to the deeper discussion in the Frankfurt and Velleman essays.)
+Robert Nozick, 'Love's Bond', [pdf](https://www.dropbox.com/s/h1bjlc5ipt66iu6/Nozick%20-%20Loves%20Bond.pdf?dl=0) (among other things it's useful for providing some context to the deeper discussion in the Frankfurt and Velleman essays.)
 
-  - handout on Nozick [pdf](https://www.dropbox.com/s/hovd6lxe8ept596/nozick-lovesbond-ho1.pdf?dl=0)
+  - handout on Nozick [pdf](https://www.dropbox.com/s/hovd6lxe8ept596/nozick-lovesbond-ho1.pdf?dl=0). It's not the most inspiring essay, but it's straightforward and useful. For this reason there's an essay topic on it.
 
 
 
 <!-- #### The object of love -->
 
-
-<!-- *Topics* -->
-
 <!-- 
-*Reading*
 
-Robert Nozick, ["Love's Bond"](https://www.dropbox.com/s/h1bjlc5ipt66iu6/Nozick%20-%20Loves%20Bond.pdf?dl=0) -->
+*Further topics*
+Why does the lover want to be loved? Are there reasons for love? Is there a conflict between the demands of love and the demands of freedom and autonomy? Is there a conflict between the demands of love and the demands of impartial morality or justice? What are the desires characteristic of different types of love? What is the relation of sex and love? What distinguishes 'normal' love from neurotic and perverse love? What role does the declaration of love (“I love you”) play in the constitution of the relationship itself? 
 
 
-<!-- Handout on Nozick [pdf](https://www.dropbox.com/s/fkuqys0v24pqou2/nozick-love.pdf?dl=0) -->
-
-<!-- 
 *Further reading*
 
 J-P Sartre, *Being and Nothingness*, III.3: Concrete Relations with Others, parts I and II[pdf](https://www.dropbox.com/s/r9vki6kck3abz09/sartre-concrete-relations.pdf?dl=0). (In contrast with Nozick who thinks that love is a form of unity of persons, Sartre thinks *love is a conflict*.)
@@ -433,3 +416,24 @@ Malick, Heaven on earth -->
 <!-- hope: johnson on remarriage and wish over reason; despair... -->
 
 <!-- https://www.dropbox.com/s/a4dvm35ntjopa0q/Wollheim_The%20Emotions%20and%20their%20Philosophy%20of%20Mind.pdf?dl=0 -->
+
+
+
+
+
+
+
+
+<!-- 
+Harry Frankfurt, [‘Freedom of the will and the concept of a person’](https://www.dropbox.com/s/vxka9anoqc2jamh/frankfurt-person.pdf?dl=0)
+
+Gary Watson, [‘Free agency’](https://www.dropbox.com/s/t7xi0l24zgnyug3/watson%20free%20agency%202024703.pdf?dl=0) 
+
+William James, "What is an emotion?"[link](https://www.dropbox.com/s/f3i2rtaj7g7gh86/2_James_1884_WhatisanEmotion%20copy.pdf?dl=0)
+
+Alexandra Newton, "Kant on animal and human pleasure"[link](https://www.dropbox.com/s/d30yj9y1z41xjfk/Newton_Kant_on_Animal_and_Human_Pleasure.pdf?dl=0) 
+
+Hampshire, 'Feeling and expression' (in his Freedom of Mind and Other Essays)*
+
+Strawson, freedom and resentment
+-->

@@ -17,31 +17,34 @@ You are strongly encouraged to write a formative essay during the reading week. 
 
 * Topics will available here before reading week. Additional questions will be included later in the term. <!-- [link](https://www.dropbox.com/s/ca1m5bf5n06fom1/essay-topics-formative.pdf?dl=0). -->
   - Due date is tbd
-  - Any of these can also serve to set the topic for the summative essay.
+  - Any of these can also serve to set the topic for your summative essay.
 
 
 ## Discussion questions
 
 Students are expected to do the all of the assigned reading prior to each seminar. In preparation students should write up a substantial question about one of the readings. Please bring a copy to class. We are a large group. It is even more important, then, that everyone arrive ready to contribute.
 
-I will setup a page for real time collaborative editing with additional features. Please feel free to contribute any comments, questions, passing thoughts or extended arguments [here](https://pad.disroot.org/p/moralpsychology2019). Just click the link and write. I will also setup a more familiar chat box.
+I will setup a page for real time collaborative editing with additional features. Please feel free to contribute any comments, questions, passing thoughts or extended arguments [https://pad.disroot.org/p/moralpsychology2019](https://pad.disroot.org/p/moralpsychology2019). Just click the link and write. 
+
+<!-- I will also setup a more familiar chat box. -->
 
 
 ## Tools, skills and tips
 
-- Jim Pryor's very helpful guidelines on:
+- Jim Pryor's *very* helpful guidelines on:
     + [reading philosphy](http://www.jimpryor.net/teaching/guidelines/reading.html)
 
     + [writing philosophy](http://www.jimpryor.net/teaching/guidelines/writing.html)
 
-- Further notes on writring a philosophy paper [link](https://www.dropbox.com/s/ow6b0l5vy28b19t/notes-writing.pdf?dl=0)
+- Further notes on writring a philosophy paper [pdf](https://www.dropbox.com/s/tr17ghgmuhj3owp/notes-on-writing-phi.pdf?dl=0)
 
-- Writing exercises for bringing narrative into the rational order of a philosophical essay as well as a few model essays will be posted here later in the term.
-<!-- link to 2017 exercises-->
+- Writing exercises for bringing literary techniques into the rational order of a philosophical essay writing [pdf](https://www.dropbox.com/s/qac7e6z973fzmpk/writing_exercises_rc.pdf?dl=0)
 
-- Example of very good work done in earlier terms [link](https://www.dropbox.com/s/c1c5ykhzsxdpyys/sample-essay-1-3097.pdf?dl=0)
+- Examples of excellent work done in other iterations of the module [pdf](https://www.dropbox.com/s/c1c5ykhzsxdpyys/moralpsych_sample_essay.pdf?dl=0)
+
 <!-- link to folder with 'Disolving the paradox of grief' and eventually others -->
-- Automated feedback tool from [*ecree*](https://www.ecree.com/signup). It can be a useful tool. If there is interest I will set-up an account for our module.
+
+- Automated feedback tool from [*ecree*](https://www.ecree.com/signup). It can be a useful tool. If there is interest I will set-up an account for our module. Talk to me at the beginning of seminar if there is interest.
 
 
 
