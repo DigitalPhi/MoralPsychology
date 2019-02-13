@@ -6,6 +6,9 @@ Some topics that might be taken-up: love & hate, authority & obedience, shame & 
 
 ### Announcements
 
+Formative essay topics are now posted [pdf](https://www.dropbox.com/s/y2qayez2ayp4qym/formative-essay-topics.pdf?dl=0). I'll continue posting handouts this week. My apologies for the delay. <small>12.02.2019</small>
+
+
 As discussed in seminar described on the schedule below, the main reading for our meetying on 07.02 is Frankfurt's *The reasons of love* [pdf](https://www.dropbox.com/s/caiw3rj9pbockq3/Frankfurt-ReasonsofLove.pdf?dl=0). It's a short book, read as much as you can but certainly the first two chapters. We will spend the following meeting with this text and also Velleman's essay 'Love as a moral emotion'. I will be adding quite a bit of supplementary material readings as well as notes in case you want to pursue the topic further. Apologies for any confusion. See you all tomorrow!
 <small>06.02.2019</small>
 

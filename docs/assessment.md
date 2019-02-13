@@ -15,8 +15,8 @@ Questions will be distributed in advance. You are very welcome to propose your o
 
 You are strongly encouraged to write a formative essay during the reading week. Some questions will be distributed in advance.
 
-* Topics will available here before reading week. Additional questions will be included later in the term. <!-- [link](https://www.dropbox.com/s/ca1m5bf5n06fom1/essay-topics-formative.pdf?dl=0). -->
-  - Due date is tbd
+* Topics are available here [pdf](https://www.dropbox.com/s/y2qayez2ayp4qym/formative-essay-topics.pdf?dl=0). Additional questions will be included later in the term.
+  - Due date is 25 February. Word limit is 2000
   - Any of these can also serve to set the topic for your summative essay.
 
 

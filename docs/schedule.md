@@ -1,6 +1,6 @@
 
 
-### What is moral psychology?
+### Part I:  What is moral psychology?
 
 #### Morality and other practical concepts
 
@@ -80,7 +80,7 @@ Bernard Williams, ‘Pleasure and belief’[pdf](https://www.dropbox.com/s/ycy35
 
 
 
-#### The evaluation of feeling
+#### The evaluation of feeling and affection
 
 Week 3
 
@@ -89,7 +89,7 @@ Week 3
 
 Continuation of the topics raised in week 2 with a focus on Moran's essay. And exploration of the idea that living a good life does not just involve acting well but feeling well, and the questions this idea raises. What kind of standard do we appeal to when thinking about whether a feeling--our own or another’s--is appropriate? And if feelings can be evaluated, then must we be in control of them? 
 
-<!-- We are going to see how these questions and others arise in connection with two examples: love and anger. -->
+In the following meetings we will investigate how these questions and others arise in connection some concrete phenomenon: love, grief, anger and shame.
 
 *Reading*
 
@@ -97,18 +97,22 @@ Kosman, 'Being properly affected: virtues and feelings in Aristotle's Ethics [pd
 
 *Further reading*
 
+Iris Murdoch, *Sovereignty of Good*, esp. the discussion of the characters M. and D. in "The Idea of Perfection" pp.16-, and the discussion of attention in "On ‘God’ and ‘Good’" [pdf](https://www.dropbox.com/s/dsxabeu2pms50qo/murdoch-good.pdf?dl=0)
+
+Michael Tanner, ‘Sentimentality’. [pdf](https://www.dropbox.com/s/35kmaybpua1s3va/4544903.pdf?dl=0)
+
 <!-- Aristotle on the voluntary -->
 
 <!-- handout -->
 
 <!-- Hyman on the same pay attention especially to the work put into the preserving the category of voluntary passion. -->
 
-Iris Murdoch, *Sovereignty of Good*, esp. the discussion of the characters M. and D. in "The Idea of Perfection" pp.16-, and the discussion of attention in "On ‘God’ and ‘Good’" [pdf](https://www.dropbox.com/s/dsxabeu2pms50qo/murdoch-good.pdf?dl=0)
-
-Michael Tanner, ‘Sentimentality’. [pdf](https://www.dropbox.com/s/35kmaybpua1s3va/4544903.pdf?dl=0)
 
 
-### Love
+### Part II: Puzzles of ordinary life: love, grief, love and shame
+
+
+#### Love
 
 Weeks 4 & 5
 
@@ -238,7 +242,7 @@ Topics will be posted 08.02
 <!-- sample essays for last year -->
 
 
-## Loss, grief & time
+## Grief, loss & time
 
 Weeks 6 & 7
 
@@ -253,7 +257,6 @@ Lear, ["The difficulty of reality and a revolt against mourning"](---)
 Freud, ["On transience"](---)
 
 <!-- Diamond, On impossibility of reality -->
-
 
 <!-- handout on b.m. on grief -->
 <!-- nagel handout on death -->
@@ -274,13 +277,16 @@ Kathleen Higgins, ["Love and Death"](https://www.dropbox.com/s/h4i7org74lom1cq/H
 
 Stephen Wilkinson, [“Is ‘Normal Grief’ a Mental Disorder?"](https://www.dropbox.com/s/9lbcsqhzh5q2ctz/Wilkinson%20-%20Normer%20Grief%20Mental%20Disorder.pdf?dl=0)
 
-##### time and the above
+## Grief, anger & time
 
-Berislav Marušić, 'Do reasons expire?', [pdf](https://www.dropbox.com/s/go6j7lxc0930fvs/BeriMa%20-%20Do%20Reasons%20Expire.pdf?dl=0)(ms)
+Berislav Marušić, 'Do reasons expire? an essay on grief', [link](http://hdl.handle.net/2027/spo.3521354.0018.025)
 
-Agnes Callard, 'Reason to be angry forever'
+  <!-- - Abstract: Suppose we suffer a loss, such as the death of a loved one. In light of her death, we will typically feel grief, as it seems we should. After all, our loved one’s death is a reason for grief. Yet with the passage of time, our grief will typically diminish, and this seems somehow all right. However, our reason for grief ostensibly remains the same, since the passage of time does not undo our loss. How, then, could it not be wrong for grief to diminish? Or how are we to make sense of the diminution of grief? Do reasons expire? —The paper clarifies the puzzle and then considers four responses. It argues that all of them are inadequate and that there are principled reasons why this should be so: In experiencing grief we are apprehending a loss. Yet in our effort to understand the diminution of grief, we must apprehend ourselves. But because grief is not about ourselves, our apprehension of the diminution of grief is at odds with our apprehension of the object of grief. This gives rise to a kind of double-vision, which is why the puzzle eludes a solution.  -->
 
-## Anger 
+Agnes Callard, 'Reason to be angry forever' [pdf](https://www.dropbox.com/s/mkpnpuqikkg7euc/callard_angry_forever.pdf?dl=0)
+
+
+## Injustice & anger
 
 Week 8
 
@@ -293,21 +299,25 @@ Martha Nussbaum, 'Anger: weakness, payback, down-Rranking' and 'Emotions and uph
 
 Amia Srinivasan, 'The aptness of anger', [pdf](https://www.dropbox.com/s/zno1m8v6pr2h51k/Srinivasan-2017-Journal_of_Political_Philosophy%20FINAL%20%281%29.pdf?dl=0)
 
+  - Srinivasan, "Would politics be better off without anger?" [link](https://www.thenation.com/article/a-righteous-fury/), review of Nussbaum in *The Nation*
 
 
 *Further reading*
 
-Chrales Griswold, ["The nature and ethics of vengful anger"](https://www.dropbox.com/s/5a6lyx7gbmuo5b8/Griswold%20-%20Vengful%20Anger.pdf?dl=0)
+Chrales Griswold, 'The nature and ethics of vengful anger', [pdf](https://www.dropbox.com/s/5a6lyx7gbmuo5b8/Griswold%20-%20Vengful%20Anger.pdf?dl=0)
 
 Marilyn Frye, 'A note on anger' in *The Politics of Reality*, pp. 84-94
 
-Jeffrie Murphy, ["Two cheers for vindictiveness"](http://pun.sagepub.com/cgi/content/abstract/2/2/131)
+Jeffrie Murphy, 'Two cheers for vindictiveness' [link](http://pun.sagepub.com/cgi/content/abstract/2/2/131)
 
-New Yorker profile of Nussbaum [link](http://www.newyorker.com/magazine/2016/07/25/martha-nussbaums-moral-philosophies)
+New Yorker profile of Nussbaum as the philosopher of feelings [link](http://www.newyorker.com/magazine/2016/07/25/martha-nussbaums-moral-philosophies)
 
-<!-- Nussbaum in light of the US presidential election: ["Anger, Disgust, Fear: Powerlessness and the Politics of Blame"](http://www.abc.net.au/religion/articles/2016/11/14/4574917.htm) -->
 
-Srinivasan, ["Would Politics Be Better Off Without Anger?"](https://www.thenation.com/article/a-righteous-fury/), review of Nussbaum in *The Nation* 
+*Further viewing*
+
+Amazing! Debate between James Baldwin and William F. Buckley on the question: "Is the American Dream at the expense of the American Negro?" [video](https://www.youtube.com/watch?v=oFeoS41xe7w). Held at Cambridge University, 1965. 
+
+Gideon Rosen, 'Rage against the machine: anger as a political emotion', [video](https://livestream.com/nyu-tv/GideonRosenLecture/videos/149050437)
 
 
 <!-- 
@@ -316,14 +326,10 @@ Bishop Butler, ‘Upon Resentment’.
 Additional readings:
 Seneca, On Anger (excerpt). 
 Plutarch, [c. 100CE] 2000, “On the Control of Anger”, in Moralia, (Vol. 6). Jeffrey Henderson (ed.), English translation by W.C. Helmbold, Cambridge, MA: Harvard University Press, pp. 89–160.
+
+ Nussbaum in light of the US presidential election: ["Anger, Disgust, Fear: Powerlessness and the Politics of Blame"](http://www.abc.net.au/religion/articles/2016/11/14/4574917.htm)
+
 -->
-
-*Further viewing*
-
-Debate between James Baldwin and William F. Buckley on the question: "Is the American Dream at the expense of the American Negro?" [video](https://www.youtube.com/watch?v=oFeoS41xe7w). Held at Cambridge University, 1965. Amazing exchange!
-
-Gideon Rosen, 'Rage against the machine: anger as a political emotion'[video](https://livestream.com/nyu-tv/GideonRosenLecture/videos/149050437)
-
 
 
 ## Forgiveness & apology
@@ -345,17 +351,17 @@ Avishai Margalit, ["Forgiving and forgetting"](https://www.dropbox.com/s/43sd9jh
 
 Lucy Allais, ["Wiping the slate clean: the heart of forgiveness"](https://www.dropbox.com/s/e4okhulkhg09w1n/Alias%20-%20Wiping%20Slate%20Clean.pdf?dl=0)
 
-  - Allais radio interview [link](https://philosophybites.libsyn.com/lucy-allais-on-forgiveness)
+Hannah Arendt, ["Irreversability and the power to forgive"](https://www.dropbox.com/s/kz2huo3sc6ern0g/arendt-forgiveness.pdf?dl=0) *The Human Condition*, ch.33
 
-Hannah Arendt, ["Irreversability and the power to forgive"](https://www.dropbox.com/s/kz2huo3sc6ern0g/arendt-forgiveness.pdf?dl=0) *The Human Condition* ch33
+Cheshire Calhoun, 'Changing one’s heart', [pdf](https://www.dropbox.com/s/6957kyn3d9voefz/Calhoun%20-%20Changing%20ones%20heart.pdf?dl=0)
 
-Cheshire Calhoun, [“Changing one’s heart,”](https://www.dropbox.com/s/6957kyn3d9voefz/Calhoun%20-%20Changing%20ones%20heart.pdf?dl=0)
+Luc Bovens 'Apologies', [pdf](https://www.dropbox.com/s/wmu1hcnxzleywk6/Bovens-Apologies.pdf?dl=0)
 
-Charles Griswold, Forgiveness: a philosophical exploration [link](https://www.dropbox.com/s/lm7siizimw3xncp/Griswold-forgiveness-philosophical-exploration.pdf?dl=0)
-
-Luc Bovens ["Apologies"](https://www.dropbox.com/s/wmu1hcnxzleywk6/Bovens-Apologies.pdf?dl=0)
 
 <!-- 
+Allais radio interview [link](https://philosophybites.libsyn.com/lucy-allais-on-forgiveness)
+
+Charles Griswold, *Forgiveness: a philosophical exploration* [pdf](https://www.dropbox.com/s/lm7siizimw3xncp/Griswold-forgiveness-philosophical-exploration.pdf?dl=0)
 
 Pamela Hieronymi, “Articulating an Uncompromising Forgiveness,” Philosophy and Phenomenological Research, 62 (3): 529–555 (2001) 
 
@@ -369,12 +375,10 @@ Joanna North, Wrongdoing and forgiveness
 
 Derrida, On Forgiveness
   - Derrida discusses, among other things, Vladimir Jankeloevitch, “Should We Pardon Them?” where Jankneloevtich passionately argues that the terrible deeds committed by the Germans in the Shoah are irreparable and inexpiable; they are unforgivable.
--->
+
+[Templeton project](http://forgiveness.templeton.org) -->
 
 <!-- Butler, Joseph, [1726] 1846, Fifteen Sermons Preached at Rolls Chapel, in The Works of the Right Reverend Father in God, Joseph Butler, D.C.L., Late Bishop of Durham, Samuel Halifax (ed.), New York: Carter. [Butler 1726 available online] -->
-
-
-<!-- [Templeton project](http://forgiveness.templeton.org) -->
 
 <!-- derrida 'on forgiveness', bernstein reply, griswold, something on apology -->
 
@@ -437,3 +441,18 @@ Hampshire, 'Feeling and expression' (in his Freedom of Mind and Other Essays)*
 
 Strawson, freedom and resentment
 -->
+
+
+<!-- other topics for other times:
+
+bad faith
+self-deception
+guise of the good
+hypocracy
+manipulation
+betrayl
+sacrifice
+compromise
+hope and despair
+joy
+  -->
