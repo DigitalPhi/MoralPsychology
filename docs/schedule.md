@@ -279,7 +279,7 @@ Stephen Wilkinson, [“Is ‘Normal Grief’ a Mental Disorder?"](https://www.dr
 
 ## Grief, anger & time
 
-Berislav Marušić, 'Do reasons expire? an essay on grief', [link](http://hdl.handle.net/2027/spo.3521354.0018.025)
+Berislav Marušić, 'Do reasons expire? an essay on grief', [pdf](https://www.dropbox.com/s/sdeq58uv9k7uhif/do-reasons-expire-an-essay-on-grief.pdf?dl=0)
 
   <!-- - Abstract: Suppose we suffer a loss, such as the death of a loved one. In light of her death, we will typically feel grief, as it seems we should. After all, our loved one’s death is a reason for grief. Yet with the passage of time, our grief will typically diminish, and this seems somehow all right. However, our reason for grief ostensibly remains the same, since the passage of time does not undo our loss. How, then, could it not be wrong for grief to diminish? Or how are we to make sense of the diminution of grief? Do reasons expire? —The paper clarifies the puzzle and then considers four responses. It argues that all of them are inadequate and that there are principled reasons why this should be so: In experiencing grief we are apprehending a loss. Yet in our effort to understand the diminution of grief, we must apprehend ourselves. But because grief is not about ourselves, our apprehension of the diminution of grief is at odds with our apprehension of the object of grief. This gives rise to a kind of double-vision, which is why the puzzle eludes a solution.  -->
 
