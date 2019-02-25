@@ -112,7 +112,7 @@ Michael Tanner, ‘Sentimentality’. [pdf](https://www.dropbox.com/s/35kmaybpua
 ### Part II: Puzzles of ordinary life: love, grief, love and shame
 
 
-#### Love
+#### Love: its object, basis and unity
 
 Weeks 4 & 5
 
@@ -132,102 +132,58 @@ Frankfurt, *The reasons of love*, [pdf](https://www.dropbox.com/s/caiw3rj9pbockq
 
 David Velleman, 'Love as a moral emotion' [pdf](https://www.dropbox.com/s/64k6dgkqzz2vef5/Velleman%20-%20Love%20as%20a%20Moral%20Emotion.pdf?dl=0) Ethics 109 (1999), pp. 338-374
 
-<!-- handout on Velleman [pdf](https://www.dropbox.com/s/0f51f5kf7fflmsd/velleman-love.pdf?dl=0) -->
+  - handout on Velleman [pdf](https://www.dropbox.com/s/qbsfw1eq7kbjgdx/velleman_love_moral_emotion_HO.pdf?dl=0)
 
 
-*Further readings*
+*Further readings on the nature and object of love*
 
 Robert Nozick, 'Love's Bond', [pdf](https://www.dropbox.com/s/h1bjlc5ipt66iu6/Nozick%20-%20Loves%20Bond.pdf?dl=0) (among other things it's useful for providing some context to the deeper discussion in the Frankfurt and Velleman essays.)
 
   - handout on Nozick [pdf](https://www.dropbox.com/s/hovd6lxe8ept596/nozick-lovesbond-ho1.pdf?dl=0). It's not the most inspiring essay, but it's straightforward and useful. For this reason there's an essay topic on it.
 
+Kolodny, "Love as Valuing a Relationship" [pdf](https://www.dropbox.com/s/n95qpx2ycaf2sln/Kolodny%20-%20Love%20Relationship.pdf?dl=0)
+  
+Moran, ‘Review Essay on *The Reasons of Love*' [link](https://www.dropbox.com/s/wfbu2bqz2gqtdhm/moran-frankfurt-review.pdf?dl=0)
+  
+Naaman, 'Distinction in Love' [pdf](https://www.dropbox.com/s/s0fcebynszz2eef/Naaman%20-%20Distinction%20in%20Love.pdf?dl=0)
 
 
-<!-- #### The object of love -->
+*Further readings on love and justice*
 
-<!-- 
+David Velleman, 'Beyond price' [pdf](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Velleman%20-%20Beyond%20Price.pdf?raw=true)
 
-*Further topics*
+Susan Wolf, 'Morality and partiality' [pdf](https://www.dropbox.com/s/ycr2coivzncw3l5/Wolf%20-%20Partiality%20Morality.pdf?dl=0), Philosophical Perspectives, 6 (1992), pp. 243- 259
+
+  - handout on Wolf [pdf](https://www.dropbox.com/s/k94j5rd044i7mwm/wolf-love-partiality.pdf?dl=0) 
+
+
+*Even further topics*
+
 Why does the lover want to be loved? Are there reasons for love? Is there a conflict between the demands of love and the demands of freedom and autonomy? Is there a conflict between the demands of love and the demands of impartial morality or justice? What are the desires characteristic of different types of love? What is the relation of sex and love? What distinguishes 'normal' love from neurotic and perverse love? What role does the declaration of love (“I love you”) play in the constitution of the relationship itself? 
 
 
-*Further reading*
+*Even further readings*
 
-J-P Sartre, *Being and Nothingness*, III.3: Concrete Relations with Others, parts I and II[pdf](https://www.dropbox.com/s/r9vki6kck3abz09/sartre-concrete-relations.pdf?dl=0). (In contrast with Nozick who thinks that love is a form of unity of persons, Sartre thinks *love is a conflict*.)
+J-P Sartre, *Being and Nothingness*, III.3: Concrete Relations with Others, parts I and II [pdf](https://www.dropbox.com/s/r9vki6kck3abz09/sartre-concrete-relations.pdf?dl=0). (In contrast with Nozick who thinks that love is a form of unity of persons, Sartre thinks *love is a conflict*.)
 
   - Some topics raised by Sartre here: The paradoxes of love as the desire for possession, on the one hand, and love as the desire to be recognized and loved by a being essentially free, hence beyond one's possession. Are certain forms of love and desire inherently self-defeating? How so? What forms of desire, if any, may avoid this? What does it mean that sadism is the failure of desire.
 
-  - The discussion itself presupposes earlier treatment of 'the existence of others' in part three chaapter one (see above link). Some relevant themes include: the existence of other people as a problem of knowledge (the problem of other minds) and as the possibility of being known; as a limitation of one's freedom and as the condition of the very possibility of one's freedom. Being subject to the gaze of another person ('the look'), and acknowledging the existence of others through such attitudes as love and shame. -->
+  - The discussion itself presupposes earlier treatment of 'the existence of others' in part three chaapter one (see above link). Some relevant themes include: the existence of other people as a problem of knowledge (the problem of other minds) and as the possibility of being known; as a limitation of one's freedom and as the condition of the very possibility of one's freedom. Being subject to the gaze of another person ('the look'), and acknowledging the existence of others through such attitudes as love and shame.
   
   <!-- Sartre, BN Part Three, Chapter One: The Existence of Others (pages 301-303, 340-356, 365-370, and 384-391) -->
 
-<!-- Simone de Beauvoir, ["The Woman in Love"](https://www.dropbox.com/s/7melpw8of8gb28a/Beauvoir%20The%20Worman%20in%20Love.pdf?dl=0), from *The Second Sex*
+Simone de Beauvoir, "The Woman in Love", [pdf](https://www.dropbox.com/s/7melpw8of8gb28a/Beauvoir%20The%20Worman%20in%20Love.pdf?dl=0), from *The Second Sex*
 
-Thomas Nagel, ['Sexual Perversion'](https://www.dropbox.com/s/hc7jilyjo8km0l6/Nagel%20-%20Sexual%20Perversion.pdf?dl=0)
+Luke Brunning 'The Distinctiveness of Polyamory' [pdf](https://www.dropbox.com/s/6ayv41ex55lha09/Brunning%20-%20Polyamory.pdf?dl=0)
 
-Luke Brunning ['The Distinctiveness of Polyamory'](https://www.dropbox.com/s/6ayv41ex55lha09/Brunning%20-%20Polyamory.pdf?dl=0)
-
-
-*Further viewing*
-
-Derrida, on what is loved[video](https://www.youtube.com/watch?v=dj1BuNmhjAY)
-
-Zizek, on love as a fall[video](https://www.youtube.com/watch?v=OabTK7y7d6E) -->
+Thomas Nagel, 'Sexual Perversion' [pdf](https://www.dropbox.com/s/hc7jilyjo8km0l6/Nagel%20-%20Sexual%20Perversion.pdf?dl=0)
 
 
-<!-- ### The basis of love -- reason & desire -->
+*Some viewing*
 
+Derrida, on what is loved, the object of love, [video](https://www.youtube.com/watch?v=dj1BuNmhjAY)
 
-<!-- *Topics* -->
-
-<!-- If Moran is right that we are to understand the relevant notion of identification and autonomy though the connection to reasons and justification, specifically in self-conscious deliberation, then what are we to make of the sort of connection or dependence or relation to another called love? To be mine or to identify with such desire must I understand it at the very least to be open to rational assessment? -->
-
-
-<!-- *Reading*
-
-Harry Frankfurt, 
-- [“Autonomy, Necessity and Love”](https://www.dropbox.com/s/aax64n7yqa3x7pj/Frankfurt%20-%20Autonomy_Necessity_Love.pdf?dl=0)
-- ["On Caring"](https://www.dropbox.com/s/s7bz5qand39dnpd/Frankfurt%20-%20On%20Caring.pdf?dl=0) in *Necessity, Volition and Love*
-
-Bernard Williams, ["Persons, Character and Morality"](https://www.dropbox.com/s/83ucsxo9kyu6mbk/Williams%20-%20Persons%20Character%20Morality.pdf?dl=0) (selections, pp.14-19)
- -->
-
-<!-- Handout on Frankfurt[pdf](https://www.dropbox.com/s/4gx7hgw9tqgreyo/frankfurt-love.pdf?dl=0) -->
-
-
-<!-- *Further reading*
-
-Frankfurt, *The reasons of love*. Princeton University Press, 2009.
-
-Kolodny, ["Love as Valuing a Relationship"](https://www.dropbox.com/s/n95qpx2ycaf2sln/Kolodny%20-%20Love%20Relationship.pdf?dl=0)
-
-Lear, ["Love's Authority"](https://www.dropbox.com/s/441du52drh7yfb9/Lear%20-%20Love%27s%20Authority.pdf?dl=0) in *Contours of Agency*
-
-Moran, ‘Review Essay on “The Reasons of Love”'[link](https://www.dropbox.com/s/wfbu2bqz2gqtdhm/moran-frankfurt-review.pdf?dl=0)
-
-Naaman, ["Distinction in Love"](https://www.dropbox.com/s/s0fcebynszz2eef/Naaman%20-%20Distinction%20in%20Love.pdf?dl=0)
- -->
-
-<!-- ### Love and justice
-
-
-
-*Readings*
-
-David Velleman, ["Love as a Moral Emotion"](https://www.dropbox.com/s/64k6dgkqzz2vef5/Velleman%20-%20Love%20as%20a%20Moral%20Emotion.pdf?dl=0) Ethics 109 (1999), pp. 338-374 -->
-
-<!-- handout on Velleman [pdf](https://www.dropbox.com/s/0f51f5kf7fflmsd/velleman-love.pdf?dl=0) -->
-
-<!-- 
-
-*Further reading*
-
-David Velleman, ["Beyond Price"](https://github.com/UCL-PHIL/3097/blob/gh-pages/readings/Velleman%20-%20Beyond%20Price.pdf?raw=true)
-
-Susan Wolf, ["Morality and Partiality"](https://www.dropbox.com/s/ycr2coivzncw3l5/Wolf%20-%20Partiality%20Morality.pdf?dl=0), Philosophical Perspectives, 6 (1992), pp. 243- 259
-
-- handout on Wolf [pdf](https://www.dropbox.com/s/k94j5rd044i7mwm/wolf-love-partiality.pdf?dl=0)  -->
-
+Zizek, on love as a fall [video](https://www.youtube.com/watch?v=OabTK7y7d6E)
 
 
 
@@ -250,43 +206,40 @@ Weeks 6 & 7
 
 Does failure to experience grief at the death of someone close show lack of love? Is grief a disease? Can grief and depression be distinguished? Is it ever fitting to be depressed? Does grief serve a purpose? Does mourning? Is there any reason (justification) for the way in which grief tends to dissipate over time?
 
-*Reading*
-
-Lear, ["The difficulty of reality and a revolt against mourning"](---)
-
-Freud, ["On transience"](---)
-
-<!-- Diamond, On impossibility of reality -->
-
-<!-- handout on b.m. on grief -->
-<!-- nagel handout on death -->
-
-*Further reading*
-
-Freud, ["Mourning and melancholia"](https://www.dropbox.com/s/qtymq5fps223odh/Freud%20-%20Mourning%20Melancholia.pdf?dl=0) (l9l7), Standard Edition, XIV, pp. 239-258.
-
-Lear, ["Mourning and moral psychology"](https://www.dropbox.com/s/c40ajt86j1qskx6/Lear%20-%20Mourning%20Moral%20Psychology.pdf?dl=0) Psychoanalytic Psychology 2014, Vol. 31, No. 4, 470–481
-
-Michael Cholbi, ["Grief's Rationality, Backward and Forward"](https://www.dropbox.com/s/u8y6jtkdmtedah1/Cholbi-2016-Philosophy_and_Phenomenological_Research.pdf?dl=0)
-
-Donald Gustafson, ["Grief"](https://www.dropbox.com/s/2vmkfq9bfo79nt1/Gustafson%20-%20Grief.pdf?dl=0)
-
-Martha Nussbaum, ["Humans and other animals"](https://www.dropbox.com/s/fj7zh2v8t1ucqsv/Nussbaum%20Upheav%20Thought%202.pdf?dl=0) & ["Emotions and human societies](https://www.dropbox.com/s/p54ia5zf8vt4n8v/Nussbaum%20Upheav%20Thought%203.pdf?dl=0), chs 2-3 of *Upheavals of Thought*
-
-Kathleen Higgins, ["Love and Death"](https://www.dropbox.com/s/h4i7org74lom1cq/Higgins%20-%20Love%20and%20Death.pdf?dl=0)
-
-Stephen Wilkinson, [“Is ‘Normal Grief’ a Mental Disorder?"](https://www.dropbox.com/s/9lbcsqhzh5q2ctz/Wilkinson%20-%20Normer%20Grief%20Mental%20Disorder.pdf?dl=0)
-
-## Grief, anger & time
+*Readings*
 
 Berislav Marušić, 'Do reasons expire? an essay on grief', [pdf](https://www.dropbox.com/s/sdeq58uv9k7uhif/do-reasons-expire-an-essay-on-grief.pdf?dl=0)
 
   <!-- - Abstract: Suppose we suffer a loss, such as the death of a loved one. In light of her death, we will typically feel grief, as it seems we should. After all, our loved one’s death is a reason for grief. Yet with the passage of time, our grief will typically diminish, and this seems somehow all right. However, our reason for grief ostensibly remains the same, since the passage of time does not undo our loss. How, then, could it not be wrong for grief to diminish? Or how are we to make sense of the diminution of grief? Do reasons expire? —The paper clarifies the puzzle and then considers four responses. It argues that all of them are inadequate and that there are principled reasons why this should be so: In experiencing grief we are apprehending a loss. Yet in our effort to understand the diminution of grief, we must apprehend ourselves. But because grief is not about ourselves, our apprehension of the diminution of grief is at odds with our apprehension of the object of grief. This gives rise to a kind of double-vision, which is why the puzzle eludes a solution.  -->
 
-Agnes Callard, 'Reason to be angry forever' [pdf](https://www.dropbox.com/s/mkpnpuqikkg7euc/callard_angry_forever.pdf?dl=0)
+Lear, 'The difficulty of reality and a revolt against mourning', [pdf](https://www.dropbox.com/s/qx8xef2l5hz4wdm/Lear-2018-European_Journal_of_Philosophy%20copy.pdf?dl=0)
+
+Freud, 'On transience', [pdf](https://www.dropbox.com/s/qa7spcbmoph00ac/freud_transience.pdf?dl=0)
 
 
-## Injustice & anger
+*Further reading*
+
+Freud, 'Mourning and melancholia', [pdf](https://www.dropbox.com/s/qtymq5fps223odh/Freud%20-%20Mourning%20Melancholia.pdf?dl=0) (l9l7), Standard Edition, XIV, pp. 239-258.
+
+  - Lear, 'Mourning and moral psychology' [pdf](https://www.dropbox.com/s/c40ajt86j1qskx6/Lear%20-%20Mourning%20Moral%20Psychology.pdf?dl=0) Psychoanalytic Psychology 2014, Vol. 31, No. 4, 470–481
+
+Martha Nussbaum, 'Humans and other animals' [pdf](https://www.dropbox.com/s/fj7zh2v8t1ucqsv/Nussbaum%20Upheav%20Thought%202.pdf?dl=0) & 'Emotions and human societies' [pdf](https://www.dropbox.com/s/p54ia5zf8vt4n8v/Nussbaum%20Upheav%20Thought%203.pdf?dl=0), chs 2-3 of *Upheavals of Thought*
+
+Michael Cholbi, 'Grief's rationality, backward and forward' [pdf](https://www.dropbox.com/s/u8y6jtkdmtedah1/Cholbi-2016-Philosophy_and_Phenomenological_Research.pdf?dl=0)
+
+Stephen Wilkinson, 'Is ‘normal grief’ a mental disorder?' [pdf](https://www.dropbox.com/s/9lbcsqhzh5q2ctz/Wilkinson%20-%20Normer%20Grief%20Mental%20Disorder.pdf?dl=0)
+
+Donald Gustafson, 'Grief' [pdf](https://www.dropbox.com/s/2vmkfq9bfo79nt1/Gustafson%20-%20Grief.pdf?dl=0)
+
+Kathleen Higgins, 'Love and death' [pdf](https://www.dropbox.com/s/h4i7org74lom1cq/Higgins%20-%20Love%20and%20Death.pdf?dl=0)
+
+
+*Further listening*
+
+The Magnetic Fields, 'If you dont cry' [link](https://www.youtube.com/watch?v=0SAVgTaENqA)
+
+
+## Anger, insult & injury
 
 Week 8
 
@@ -299,7 +252,9 @@ Martha Nussbaum, 'Anger: weakness, payback, down-Rranking' and 'Emotions and uph
 
 Amia Srinivasan, 'The aptness of anger', [pdf](https://www.dropbox.com/s/zno1m8v6pr2h51k/Srinivasan-2017-Journal_of_Political_Philosophy%20FINAL%20%281%29.pdf?dl=0)
 
-  - Srinivasan, "Would politics be better off without anger?" [link](https://www.thenation.com/article/a-righteous-fury/), review of Nussbaum in *The Nation*
+  - Srinivasan, 'Would politics be better off without anger?, [link](https://www.thenation.com/article/a-righteous-fury/), review of Nussbaum in *The Nation*
+
+Agnes Callard, 'Reason to be angry forever' [pdf](https://www.dropbox.com/s/mkpnpuqikkg7euc/callard_angry_forever.pdf?dl=0)
 
 
 *Further reading*
@@ -320,6 +275,7 @@ Amazing! Debate between James Baldwin and William F. Buckley on the question: "I
 Gideon Rosen, 'Rage against the machine: anger as a political emotion', [video](https://livestream.com/nyu-tv/GideonRosenLecture/videos/149050437)
 
 
+
 <!-- 
 Aristotle, Rhetoric (excerpt).
 Bishop Butler, ‘Upon Resentment’.
@@ -327,7 +283,7 @@ Additional readings:
 Seneca, On Anger (excerpt). 
 Plutarch, [c. 100CE] 2000, “On the Control of Anger”, in Moralia, (Vol. 6). Jeffrey Henderson (ed.), English translation by W.C. Helmbold, Cambridge, MA: Harvard University Press, pp. 89–160.
 
- Nussbaum in light of the US presidential election: ["Anger, Disgust, Fear: Powerlessness and the Politics of Blame"](http://www.abc.net.au/religion/articles/2016/11/14/4574917.htm)
+Nussbaum in light of the US presidential election: ["Anger, Disgust, Fear: Powerlessness and the Politics of Blame"](http://www.abc.net.au/religion/articles/2016/11/14/4574917.htm)
 
 -->
 
@@ -385,7 +341,7 @@ Derrida, On Forgiveness
 
 ## Shame, humiliation & embarrassment
 
-Week 10 (with J. Laing)
+Week 10 (with J. Laing) (date to be determined!)
 
 *Topics*
 
@@ -423,11 +379,6 @@ Malick, Heaven on earth -->
 
 
 
-
-
-
-
-
 <!-- 
 Harry Frankfurt, [‘Freedom of the will and the concept of a person’](https://www.dropbox.com/s/vxka9anoqc2jamh/frankfurt-person.pdf?dl=0)
 
@@ -456,3 +407,25 @@ compromise
 hope and despair
 joy
   -->
+
+
+
+
+  <!-- ### The basis of love -- reason & desire -->
+  
+  
+  <!-- *Topics* -->
+  
+  <!-- If Moran is right that we are to understand the relevant notion of identification and autonomy though the connection to reasons and justification, specifically in self-conscious deliberation, then what are we to make of the sort of connection or dependence or relation to another called 'love'? To be mine or to identify with such desire must I understand it at the very least to be open to rational assessment? -->
+  
+  
+  <!-- *Reading*
+  
+  Harry Frankfurt, 
+  - [“Autonomy, Necessity and Love”](https://www.dropbox.com/s/aax64n7yqa3x7pj/Frankfurt%20-%20Autonomy_Necessity_Love.pdf?dl=0)
+  - ["On Caring"](https://www.dropbox.com/s/s7bz5qand39dnpd/Frankfurt%20-%20On%20Caring.pdf?dl=0) in *Necessity, Volition and Love*
+  
+  Bernard Williams, ["Persons, Character and Morality"](https://www.dropbox.com/s/83ucsxo9kyu6mbk/Williams%20-%20Persons%20Character%20Morality.pdf?dl=0) (selections, pp.14-19)
+   -->
+  
+  <!-- Handout on Frankfurt[pdf](https://www.dropbox.com/s/4gx7hgw9tqgreyo/frankfurt-love.pdf?dl=0) -->
