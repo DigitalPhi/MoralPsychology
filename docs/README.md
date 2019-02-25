@@ -6,6 +6,10 @@ Some topics that might be taken-up: love & hate, authority & obedience, shame & 
 
 ### Announcements
 
+
+Upload your formative essay here: [link](https://www.dropbox.com/request/xPgU2kWhV7hjlSQwkxrc). Only the instructors have access to the folder and files. Apologies for the delay. <sub><small>February 24</small></sub>
+
+
 Reminder that since we fell behind schedule due to illness, the readings for our seminar tomorrow (20 February) are the second half of Frankfurt's *The reasons of love* and Velleman's essay 'Love as a moral emotion'. <small>19.02.2019</small>
 
 

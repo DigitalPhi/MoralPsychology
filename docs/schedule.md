@@ -16,7 +16,7 @@ G.E.M. Anscombe, ["Modern moral philosophy"](https://www.dropbox.com/s/i3iqx4cy2
 
 [handout](https://www.dropbox.com/s/161ak3qp8yepyem/mmp-nv-ho1.pdf?dl=0)
 
-<!-- handout on morality and other practical concepts -- ah overview -->
+<!-- handout on morality and other practical concepts -- an overview -->
 
 
 *Further reading*
@@ -42,7 +42,7 @@ Richard Wollheim, 'The Emotions and their philosophy of mind' [link](http://www.
 -->
 
 
-#### Mind in action and passion
+#### Mind in action & passion
 
 Week 2
 
