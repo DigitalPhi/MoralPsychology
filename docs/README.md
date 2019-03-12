@@ -6,6 +6,8 @@ Some topics that might be taken-up: love & hate, authority & obedience, shame & 
 
 ### Announcements
 
+For the meeting of 14 March we will continue the discussion of anger but with a focus on Amia Srinivasan's 'The aptness of anger'. Please also read pages 91-99 of Aurel Kolnai's discussion of 'the paradox of forgiveness' (pages 91-99 of his essay 'Forgiveness').
+<sub><small>March 11</small></sub>
 
 From the Assistant Director of the Centre for the Study of Governance and Society (CSGS) in the Department of Political Economy at King's College London: We're hosting a public lecture this Wednesday by Professor Jon Elster on 'Emotions in History.' It takes place in the Great Hall, King’s Building, King’s College London (Strand Campus) on the 6th March from 6.30-8.00PM. All the event information is available [here](https://emea01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcsgs.kcl.ac.uk%2Fevent%2Fjon-elster%2F&data=02%7C01%7Cd.lavin%40ucl.ac.uk%7Cf22c0e7e26c24140ab6a08d6a0b403bc%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C1%7C636873092361485240&sdata=rqaEztJrequ7trMFvkphLcQU1lGJrDAKIsnrgOu7tyQ%3D&reserved=0).
 Registration Required via [Eventbrite](https://emea01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.eventbrite.co.uk%2Fe%2Fpublic-lecture-by-jon-elster-emotions-in-history-tickets-56496541677&data=02%7C01%7Cd.lavin%40ucl.ac.uk%7Cf22c0e7e26c24140ab6a08d6a0b403bc%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C1%7C636873092361485240&sdata=az8Gcw7u7dHV8hfGXL3eO31LeBYYiAGRw5KMksdv7WI%3D&reserved=0). <sub><small>March 05</small></sub>
