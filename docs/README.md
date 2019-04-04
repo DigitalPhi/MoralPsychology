@@ -7,7 +7,7 @@ Some topics that might be taken-up: love & hate, authority & obedience, shame & 
 ### Announcements
 
 
-Our final seminar meeting will be co-taught with James Laing. The topic is shame and the central text is the following: Bernard Williams, [*Shame and Necessity*](https://www.dropbox.com/s/77hrsxt7q6f2b2y/Williams%20-%20ShameNecessity.pdf?dl=0) pp. 75-102, 219-223. <sub><small>March 17</small></sub>. We are both looking forward to the meeting.
+Our final seminar meeting will be co-taught with James Laing. The topic is shame and the central text is the following: Bernard Williams, *Shame and Necessity* [pdf](https://www.dropbox.com/s/77hrsxt7q6f2b2y/Williams%20-%20ShameNecessity.pdf?dl=0) pp. 75-102, 219-223. <sub><small>March 17</small></sub>. We're both looking forward to the meeting.
 
 
 For the meeting of 14 March we will continue the discussion of anger but with a focus on Amia Srinivasan's 'The aptness of anger'. Please also read pages 91-99 of Aurel Kolnai's discussion of 'the paradox of forgiveness' (pages 91-99 of his essay 'Forgiveness').

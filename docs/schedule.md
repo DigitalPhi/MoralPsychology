@@ -341,7 +341,7 @@ Derrida, On Forgiveness
 
 ## Shame, humiliation & embarrassment
 
-Week 10 (with J. Laing) (date to be determined!)
+Week 10 (with J. Laing)
 
 *Topics*
 
