@@ -352,6 +352,8 @@ What is the origin of feelings of shame? Of guilt? Do they serve a purpose? How 
 Bernard Williams, [*Shame and Necessity*](https://www.dropbox.com/s/77hrsxt7q6f2b2y/Williams%20-%20ShameNecessity.pdf?dl=0) pp. 75-102, 219-223
 
 
+- [handout-shame](https://www.dropbox.com/s/jkczrmnojtcmeu5/shame_jl_ho.pdf?dl=0)
+
 *Further readings*
 
 Gabrielle Taylor, ["Shame"](https://www.dropbox.com/s/xlu9jlfvnglu8zq/Taylor_-_Shame.pdf?dl=0) from *Pride, Shame and Guilt*
