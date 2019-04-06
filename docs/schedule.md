@@ -358,11 +358,11 @@ Bernard Williams, [*Shame and Necessity*](https://www.dropbox.com/s/77hrsxt7q6f2
 
 Gabrielle Taylor, ["Shame"](https://www.dropbox.com/s/xlu9jlfvnglu8zq/Taylor_-_Shame.pdf?dl=0) from *Pride, Shame and Guilt*
 
-David Velleman, ["The Genesis of Shame"](https://www.dropbox.com/s/y0rqwcza9mzqtrv/Velleman%20-%20Genesis%20of%20Shame.pdf?dl=0)
+David Velleman, ["The genesis of shame"](https://www.dropbox.com/s/y0rqwcza9mzqtrv/Velleman%20-%20Genesis%20of%20Shame.pdf?dl=0)
 
-Lucy O'Brien, ["Shame and Other Forms of Social Pelting"](http)(ms)
+Lucy O'Brien, ["Shame and other forms of social pelting"](http)(ms)
 
-Ilham Dilman, ["Shame, Guilt and Remorse"](https://www.dropbox.com/s/dva9adh2bmy0wcn/Dilman-1999-Philosophical_Investigations.pdf?dl=0)
+Ilham Dilman, ["Shame, guilt and remorse"](https://www.dropbox.com/s/dva9adh2bmy0wcn/Dilman-1999-Philosophical_Investigations.pdf?dl=0)
 
 Richard Wollheim, [*On the Emotions*](https://www.dropbox.com/s/wgu4ejc9z7mm92t/Wollheim%20-%20On_the_Emotions%203.pdf?dl=0) ch.3
 

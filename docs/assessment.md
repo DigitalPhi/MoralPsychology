@@ -4,18 +4,18 @@
 
 Questions will be distributed in advance. You are very welcome to propose your own, but topics must be approved by the instructors before with a week after reading week.
 
-* For BA candidates an essay of 3500 words. (This may consist of either a single 3500 word essay or two papers one 1500 words and the other 2000 words.)
-* For MA/MPhil candidates an essay of 4500 words.
-* Due date for the summative essay is the standard submission deadline for term 2: Tuesday 23rd April 2019 at 16.00. (This is th first day of Term 3.)
+* A couple topics on have been added to the initial, extensive set [pdf](https://www.dropbox.com/s/gtn4wnk11qz1swa/summative-essay-topics.pdf?dl=0)
 
-<!-- * A couple questions on forgiveness have been added to the initial set [link](https://www.dropbox.com/s/n0u52rtzbshj1h1/essay-topics-summative.pdf?dl=0). -->
+* For BA candidates an essay of 3500 words maximum. (This may consist of either a single 3500 word essay or two papers one 1500 words and the other 2000 words.)
+* For MA/MPhil candidates an essay of 4500 words maximum.
+* Due date for the summative essay is the standard submission deadline for term 2: Tuesday 23rd April 2019 at 16.00. (This is th first day of Term 3.)
 
 
 ## Formative essay
 
 You are strongly encouraged to write a formative essay during the reading week. Some questions will be distributed in advance.
 
-* Topics are available here [pdf](https://www.dropbox.com/s/y2qayez2ayp4qym/formative-essay-topics.pdf?dl=0). Additional questions will be included later in the term.
+* Topics are available here [pdf](https://www.dropbox.com/s/y2qayez2ayp4qym/formative-essay-topics.pdf?dl=0). <!-- Additional questions will be included later in the term. -->
   - Upload your formative essay here: [link](https://www.dropbox.com/request/xPgU2kWhV7hjlSQwkxrc). Only the instructors have access to the folder and files.
   - Due date is 25 February. Word limit is 2000.
   - Any of these can also serve to set the topic for your summative essay.
