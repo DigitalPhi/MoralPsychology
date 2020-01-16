@@ -57,13 +57,13 @@ The nature of desire and its relation to reasons. Active and passive relations t
 
 Richard Moran, "Frankfurt on identification: ambiguities of activity in mental life." pp. 189-217. [link](https://www.dropbox.com/s/y0x961osh0owbut/Moran-Frankfurt-Ambiguities.pdf?dl=0)
 
-  - handout to come
+  <!-- - handout to come -->
 
 
 Christine M. Korsgaard, "The normative question" in *The Sources of Normativity*, pp. 7-21 [link](https://www.dropbox.com/s/h5ic8klzkq7xudl/Christine%20M.%20Korsgaard%20The%20Sources%20of%20Normativity%20%201996.pdf?dl=0)
 
 
-  - handout [pdf](https://www.dropbox.com/s/64wm35rbah5005b/korsgaard_normative_question_ho.pdf?dl=0)
+  <!-- - handout [pdf](https://www.dropbox.com/s/64wm35rbah5005b/korsgaard_normative_question_ho.pdf?dl=0) -->
 
 
 *Further reading*
@@ -132,14 +132,14 @@ Frankfurt, *The reasons of love*, [pdf](https://www.dropbox.com/s/caiw3rj9pbockq
 
 David Velleman, 'Love as a moral emotion' [pdf](https://www.dropbox.com/s/64k6dgkqzz2vef5/Velleman%20-%20Love%20as%20a%20Moral%20Emotion.pdf?dl=0) Ethics 109 (1999), pp. 338-374
 
-  - handout on Velleman [pdf](https://www.dropbox.com/s/qbsfw1eq7kbjgdx/velleman_love_moral_emotion_HO.pdf?dl=0)
+  <!-- - handout on Velleman [pdf](https://www.dropbox.com/s/qbsfw1eq7kbjgdx/velleman_love_moral_emotion_HO.pdf?dl=0) -->
 
 
 *Further readings on the nature and object of love*
 
 Robert Nozick, 'Love's Bond', [pdf](https://www.dropbox.com/s/h1bjlc5ipt66iu6/Nozick%20-%20Loves%20Bond.pdf?dl=0) (among other things it's useful for providing some context to the deeper discussion in the Frankfurt and Velleman essays.)
 
-  - handout on Nozick [pdf](https://www.dropbox.com/s/hovd6lxe8ept596/nozick-lovesbond-ho1.pdf?dl=0). It's not the most inspiring essay, but it's straightforward and useful. For this reason there's an essay topic on it.
+  <!-- - handout on Nozick [pdf](https://www.dropbox.com/s/hovd6lxe8ept596/nozick-lovesbond-ho1.pdf?dl=0). It's not the most inspiring essay, but it's straightforward and useful. For this reason there's an essay topic on it. -->
 
 Kolodny, "Love as Valuing a Relationship" [pdf](https://www.dropbox.com/s/n95qpx2ycaf2sln/Kolodny%20-%20Love%20Relationship.pdf?dl=0)
   
@@ -154,7 +154,7 @@ David Velleman, 'Beyond price' [pdf](https://github.com/UCL-PHIL/3097/blob/gh-pa
 
 Susan Wolf, 'Morality and partiality' [pdf](https://www.dropbox.com/s/ycr2coivzncw3l5/Wolf%20-%20Partiality%20Morality.pdf?dl=0), Philosophical Perspectives, 6 (1992), pp. 243- 259
 
-  - handout on Wolf [pdf](https://www.dropbox.com/s/k94j5rd044i7mwm/wolf-love-partiality.pdf?dl=0) 
+  <!-- - handout on Wolf [pdf](https://www.dropbox.com/s/k94j5rd044i7mwm/wolf-love-partiality.pdf?dl=0)  -->
 
 
 *Even further topics*
@@ -187,11 +187,11 @@ Zizek, on love as a fall [video](https://www.youtube.com/watch?v=OabTK7y7d6E)
 
 
 
-## UCL READING WEEK -- February 10-16
+## UCL READING WEEK -- February 17-21
 
 Perfect time to write a formative essay! Aim for 3-5 pages.
 
-Topics will be posted 08.02
+Topics will be posted prior to reading week.
 
 <!-- Some topics -->
 
@@ -352,7 +352,7 @@ What is the origin of feelings of shame? Of guilt? Do they serve a purpose? How 
 Bernard Williams, [*Shame and Necessity*](https://www.dropbox.com/s/77hrsxt7q6f2b2y/Williams%20-%20ShameNecessity.pdf?dl=0) pp. 75-102, 219-223
 
 
-- [handout-shame](https://www.dropbox.com/s/jkczrmnojtcmeu5/shame_jl_ho.pdf?dl=0)
+<!-- - [handout-shame](https://www.dropbox.com/s/jkczrmnojtcmeu5/shame_jl_ho.pdf?dl=0) -->
 
 *Further readings*
 

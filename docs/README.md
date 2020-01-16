@@ -2,11 +2,14 @@
 
 > This is the course page for moral psychology (PHIL0081). 
 
-Some topics that might be taken-up: love & hate, authority & obedience, shame & pride, respect & humiliation, pleasure & pain, self-control, competitiveness & equality, hope & despair, fear & grief, anger, forgiveness & apology. This module is meant to be exploratory within the limits of reason and polite society. Let's all do our best...
+Some topics that might be taken-up: love & hate, authority & obedience, shame & pride, respect & humiliation, pleasure & pain, self-control, competitiveness & equality, hope & despair, fear & grief, anger, forgiveness & apology. This module is meant to be exploratory within the limits of reason and polite society. Let's do our best...
 
 ### Announcements
 
+For our first meeting we'll discuss G.E.M. Anscombe's landmark paper 'Modern moral philosophy'[pdf](https://www.dropbox.com/s/i3iqx4cy2o9cm8k/Anscombe%20-%201958%20-%20Modern%20Moral%20Philosophy.pdf?dl=0). Apologies for the short notice but please come prepared to discuss it.<small>15.01.2020</small>
 
+
+<!-- 
 As you already know, the summative essay topics contain all the formative essay topics with a few additions. It is permissible to write your summative essay on the very same question as your formative essay. The word limit of the summative essay is 3500 for undergraduates and 4500 for graduates. Essays are due Tuesday 23rd April 2019 at 1600 -- the first day of Term 3. Topics and further details are available [here](assessment.md). You can also access the slightly extended list of topics here [pdf](https://www.dropbox.com/s/gtn4wnk11qz1swa/summative-essay-topics.pdf?dl=0) <sub><small>April 2</small></sub>
 
 
@@ -35,11 +38,7 @@ As discussed in seminar described on the schedule below, the main reading for ou
 
 The main reading for this week is Kosman, 'Being properly affected: virtues and feelings in Aristotle's Ethics' [pdf](https://www.dropbox.com/s/0fwvznra1zeqo5w/kosman_properly_affected.pdf?dl=0). It has been posted on the schedule since last week. Apologies for again for my falling ill. We'll settle on a make-up class when when we meet Thursday. <small>29.01.2019</small>
 
-Due dates have been fixed for summative essays. See below for details. It simply follows the date set by the department of philosophy.<small>25.01.2019</small>
-
-For our first meeting we'll discuss G.E.M. Anscombe's landmark paper 'Modern moral philosophy'[pdf](https://www.dropbox.com/s/i3iqx4cy2o9cm8k/Anscombe%20-%201958%20-%20Modern%20Moral%20Philosophy.pdf?dl=0). Apologies for the short notice but please come prepared to discuss it.<small>07.01.2019</small>
-
-
+Due dates have been fixed for summative essays. See below for details. It simply follows the date set by the department of philosophy.<small>25.01.2019</small> -->
 
 
 
@@ -72,18 +71,19 @@ A few important announcements <sub><small>November 24</small></sub>
 - Douglas Lavin [(d.lavin@ucl.ac.uk)](d.lavin@ucl.ac.uk)
 
   + Office: Room 3.4a, 33-35 Torrington Place [(map)](http://www.ucl.ac.uk/maps/33-35-torrington-place)
-  + Office hours: Tuesday 1600--1700
+  + Office hours: Tuesday 1230--1330
     <!-- - [email policy](#noemail) -->
  <!-- [schedule](http://www.supersaas.co.uk/schedule/DouglasLavin/OfficeHoursUCL) -->
 
-- Nikhil Venkatesh [(nikhil.venkatesh.16@ucl.ac.uk)](nikhil.venkatesh.16@ucl.ac.uk)
+
+- Sebastian Bishop[(sebastien.bishop-bennett.09@ucl.ac.uk)](sebastien.bishop-bennett.09@ucl.ac.uk)
 
 
 ### Meetings
 
 - Seminar: Thursdays 1600-1800, Gordon Square (19) 102 [(map)](http://www.ucl.ac.uk/maps/19-gordon-square)
 
-
+<!-- 
 - <span style="font-variant:small-caps;">Discussion sessions</span>
 
 | Date        | Time              | Location                              |
@@ -97,7 +97,7 @@ A few important announcements <sub><small>November 24</small></sub>
 
 These classes are not mandatory, so you do not have to come. However, you are *very strongly* encouraged to do so! Students found them very beneficial. We had some really excellent in depth discussions about the material. On the whole, we cover the same terrain as the texts set for class reading. The sessions are an opportunity for you to ask questions you didn't get to ask in class, or take further lines of inquiry which you weren't able to in the full group.
 
-This week, we'll look at G.E.M. Anscombe's paper 'Modern Moral Philosophy'. We'll talk a bit about what moral psychology might be and how there might be a place in it for feeling and passion in addition to choice and action.
+This week, we'll look at G.E.M. Anscombe's paper 'Modern Moral Philosophy'. We'll talk a bit about what moral psychology might be and how there might be a place in it for feeling and passion in addition to choice and action. -->
 
 
 ### Course materials
@@ -117,20 +117,19 @@ We will use the UCL [Moodle](https://moodle-1819.ucl.ac.uk/course/view.php?id=65
 
 <span style="font-variant:small-caps;"> PROVISISIONAL & brief schedule of topics</span>
 
-| Date    | Topic                               | Main reading              |
-|:--------|:------------------------------------|:--------------------------|
-| 10.01   | Morality & other practical concepts | Anscombe                  |
-| 17.01   | Mind in action and passion          | Moran & Korsgaard         |
-| 24.01   | Evaluation of feeling               | Kosman                    |
-| 31.01   | seminar cancelled due to illness    | ---                       |
-| 07.02   | Love, necessity & particularity     | Frankfurt & Velleman      |
-| 14.02   | READING WEEK                        | --                        |
-| 21.02   | Love, necessity & particularity     | Frankfurt & Velleman cont |
-| 28.02   | Loss, grief, & time                 | Marušić & Callard         |
-| 07.03   | Anger, injustice & others           | Nussbaum & Srinivasan     |
-| 14.03   | Forgiving, forgetting, apologising  | Margalit & Kolnai         |
-| 21.03   | Shame (w/ J.Laing)                  | Williams & O'Brien        |
-| make-up | tbd                                 | tbd                       |
+| Date  | Topic                               | Main reading              |
+|:------|:------------------------------------|:--------------------------|
+| 16.01 | Morality & other practical concepts | Anscombe                  |
+| 23.01 | Mind in action and passion          | Moran & Korsgaard         |
+| 30.01 | Evaluation of feeling               | Kosman                    |
+| 06.02 | Love, necessity & particularity     | Frankfurt & Velleman      |
+| 13.02 | ove, necessity & particularity      | Frankfurt & Velleman cont |
+| 20.02 | READING WEEK                        | --                        |
+| 27.02 | Loss, grief, & time                 | Marušić & Callard         |
+| 05.03 | tbd                                 | tbd                       |
+| 12.03 | Anger, injustice & others           | Nussbaum & Srinivasan     |
+| 19.03 | Forgiving, forgetting, apologising  | Margalit & Kolnai         |
+| 26.03 | Shame & guilt                       | Williams & O'Brien        |
 
 
 
