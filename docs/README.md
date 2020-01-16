@@ -1,6 +1,6 @@
 ## Welcome
 
-> This is the course page for moral psychology (PHIL0081)  
+> This is the course page for moral psychology (PHIL0081).  
 
 Some topics that might be taken-up: love & hate, authority & obedience, shame & pride, respect & humiliation, pleasure & pain, self-control, competitiveness & equality, hope & despair, fear & grief, anger, forgiveness & apology. This module is meant to be exploratory within the limits of reason and polite society. Let's do our best...
 
