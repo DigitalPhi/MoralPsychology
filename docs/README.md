@@ -76,7 +76,7 @@ A few important announcements <sub><small>November 24</small></sub>
  <!-- [schedule](http://www.supersaas.co.uk/schedule/DouglasLavin/OfficeHoursUCL) -->
 
 
-- Sebastian Bishop[(sebastien.bishop-bennett.09@ucl.ac.uk)](sebastien.bishop-bennett.09@ucl.ac.uk)
+- Sebastian Bishop [(sebastien.bishop-bennett.09@ucl.ac.uk)](sebastien.bishop-bennett.09@ucl.ac.uk)
 
 
 ### Meetings
