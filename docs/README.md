@@ -81,7 +81,7 @@ A few important announcements <sub><small>November 24</small></sub>
 
 ### Meetings
 
-- Seminar: Thursdays 1600-1800, Gordon Square (19) 102 [(map)](http://www.ucl.ac.uk/maps/19-gordon-square)
+- Seminar: Thursdays 1500-1700, Gordon Square (19) 102 [(map)](http://www.ucl.ac.uk/maps/19-gordon-square)
 
 <!-- 
 - <span style="font-variant:small-caps;">Discussion sessions</span>
@@ -120,10 +120,10 @@ We will use the UCL [Moodle](https://moodle-1819.ucl.ac.uk/course/view.php?id=65
 | Date  | Topic                               | Main reading              |
 |:------|:------------------------------------|:--------------------------|
 | 16.01 | Morality & other practical concepts | Anscombe                  |
-| 23.01 | Mind in action and passion          | Moran & Korsgaard         |
-| 30.01 | Evaluation of feeling               | Kosman                    |
+| 23.01 | Mind in action and passion          | Anscombe cont, Moran      |
+| 30.01 | Evaluation of feeling               | Moran, Korsgaard & Kosman |
 | 06.02 | Love, necessity & particularity     | Frankfurt & Velleman      |
-| 13.02 | ove, necessity & particularity      | Frankfurt & Velleman cont |
+| 13.02 | Love, necessity & particularity     | Frankfurt & Velleman cont |
 | 20.02 | READING WEEK                        | --                        |
 | 27.02 | Loss, grief, & time                 | Marušić & Callard         |
 | 05.03 | tbd                                 | tbd                       |

@@ -68,7 +68,7 @@ Christine M. Korsgaard, "The normative question" in *The Sources of Normativity*
 
 *Further reading*
 
-Harry Frankfurt, ‘Identification and externality’ [pdf](https://www.dropbox.com/s/fxwmflv6n25u9zs/Identification_and_externality%20copy.pdf?dl=0)
+Harry Frankfurt, ‘Identification and externality’ [pdf](https://www.dropbox.com/s/fxwmflv6n25u9zs/Identification_and_externality%20copy.pdf?dl=0). This is especially relevant as background reading since Moran's essay is in large part a reply to it.
 
 Stuart Hampshire, ‘Freedom of mind’ [pdf](https://www.dropbox.com/s/88ckc9of3ax9o5z/Freedom%20of%20Mind--Stuart%20Hampshire-1965.pdf?dl=0)
 
@@ -94,6 +94,10 @@ In the following meetings we will investigate how these questions and others ari
 *Reading*
 
 Kosman, 'Being properly affected: virtues and feelings in Aristotle's Ethics [pdf](https://www.dropbox.com/s/0fwvznra1zeqo5w/kosman_properly_affected.pdf?dl=0)
+
+
+<!-- kosman handout to come -->
+
 
 *Further reading*
 
