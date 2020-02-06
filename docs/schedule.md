@@ -63,7 +63,7 @@ Richard Moran, "Frankfurt on identification: ambiguities of activity in mental l
 Christine M. Korsgaard, "The normative question" in *The Sources of Normativity*, pp. 7-21 [link](https://www.dropbox.com/s/h5ic8klzkq7xudl/Christine%20M.%20Korsgaard%20The%20Sources%20of%20Normativity%20%201996.pdf?dl=0)
 
 
-  - handout [pdf](https://www.dropbox.com/s/64wm35rbah5005b/korsgaard_normative_question_ho.pdf?dl=0)
+  - handout [pdf](https://www.dropbox.com/s/vcj7iom5cgakuz2/korsgaard_ho%20copy.pdf?dl=0)
 
 
 *Further reading*
@@ -143,7 +143,7 @@ David Velleman, 'Love as a moral emotion' [pdf](https://www.dropbox.com/s/64k6dg
 
 Robert Nozick, 'Love's Bond', [pdf](https://www.dropbox.com/s/h1bjlc5ipt66iu6/Nozick%20-%20Loves%20Bond.pdf?dl=0) (among other things it's useful for providing some context to the deeper discussion in the Frankfurt and Velleman essays.)
 
-  - handout on Nozick [pdf](https://www.dropbox.com/s/hovd6lxe8ept596/nozick-lovesbond-ho1.pdf?dl=0). It isn't the most inspiring essay, but it's straightforward and useful. For this reason there's an essay topic on it.
+  - handout on Nozick [pdf](https://www.dropbox.com/s/emh00zd2791yz4w/nozick-lovesbond-ho%20copy.pdf?dl=0). It isn't the most inspiring essay, but it's straightforward and useful. For this reason there's an essay topic on it.
 
 Kolodny, "Love as Valuing a Relationship" [pdf](https://www.dropbox.com/s/n95qpx2ycaf2sln/Kolodny%20-%20Love%20Relationship.pdf?dl=0)
   
