@@ -17,10 +17,12 @@ Questions will be distributed in advance. You are very welcome to propose your o
 
 You are strongly encouraged to write a formative essay during the reading week. Some questions will be distributed in advance.
 
-<!-- * Topics available here [pdf](https://www.dropbox.com/s/y2qayez2ayp4qym/formative-essay-topics.pdf?dl=0). Additional questions will be included later in the term.
-  - Upload your formative essay here: [link](https://www.dropbox.com/request/xPgU2kWhV7hjlSQwkxrc). Only the instructors have access to the folder and files. -->
+* Topics available here [pdf](https://www.dropbox.com/s/pqnsqg9qkhvtoh7/formative-essay-topics.pdf?dl=0). Additional questions will be included later in the term.
+  - Upload your formative essay here: [link](https://www.dropbox.com/request/c2qgbdWEsQlJa7nSIUH3)
+
+Only the instructors have access to the folder and files.
   
-  - Due date is TBA. Word limit is 2000.
+  - Due date is flexible within limits of reason. Word limit is 2000.
   - Any of these can also serve to set the topic for your summative essay.
 
 
@@ -44,7 +46,7 @@ I will setup a page for real time collaborative editing with additional features
 
 - Further notes on writring a philosophy paper [pdf](https://www.dropbox.com/s/tr17ghgmuhj3owp/notes-on-writing-phi.pdf?dl=0)
 
-- Writing exercises for bringing literary techniques into the rational order of a philosophical essay writing [pdf](https://www.dropbox.com/s/qac7e6z973fzmpk/writing_exercises_rc.pdf?dl=0)
+- Writing exercises for bringing literary techniques into the rational order of a philosophical essay writing [pdf](https://www.dropbox.com/s/gcimmgp65wcrfs4/writing_exercises_adv.pdf?dl=0)
 
 - Examples of excellent work done in other iterations of the module [pdf](https://www.dropbox.com/s/c1c5ykhzsxdpyys/moralpsych_sample_essay.pdf?dl=0)
 

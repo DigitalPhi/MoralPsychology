@@ -61,9 +61,12 @@ A few important announcements <sub><small>November 24</small></sub>
 
 - Royal Institute of Philosophy London Lecture Series for 2017-8 is on Passion and Emotion. Fridays at 1700 at the RIP. It's a great schedule of speakers and a great fit with themes from our seminar. [(link)](http://royalinstitutephilosophy.org/events/london-lecture-series/)
 
-- There is a discussion session meeting Monday, *October 9th*! You are strongly encouraged to attend. We'll look at G.E.M. Anscombe's paper 'Modern Moral Philosophy', and we'll talk about what a moral psychology might be and how there might be a place for feelings or passions in it. Further details about the discussion sections are below.
+- There is a discussion session meeting Monday, *October 9th*! You are strongly encouraged to attend. We'll look at G.E.M. Anscombe's paper 'Modern Moral Philosophy', and we'll talk about what a moral psychology might be and how there might be a place for feelings or passions in it. Further details about the discussion sections are below. -->
 
-- Formative essay topics now posted [below](assessment.md). <small>06.11.2017</small> -->
+Formative essay topics now posted here [pdf](https://www.dropbox.com/s/pqnsqg9qkhvtoh7/formative-essay-topics.pdf?dl=0) and on the assessment page of the website [below](assessment.md). <small>01.03</small> 
+
+
+
 
 
 ### Instructors
