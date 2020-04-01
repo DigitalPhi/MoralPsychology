@@ -66,7 +66,18 @@ A few important announcements <sub><small>November 24</small></sub>
 Formative essay topics now posted here [pdf](https://www.dropbox.com/s/pqnsqg9qkhvtoh7/formative-essay-topics.pdf?dl=0) and on the assessment page of the website [below](assessment.md). <small>01.03</small> 
 
 
+<!-- 
+Please find the submission link for your upcoming summative essay below:
 
+[https://moodle.ucl.ac.uk/mod/assign/view.php?id=1741467](https://moodle.ucl.ac.uk/mod/assign/view.php?id=1741467)
+
+**The submission deadline is 4pm, 04 May 2020**.
+
+Please note the submission link is now via the module moodle page only.
+
+THIS IS FOR 2019-20 SETUP BY ALEX VELLK IN DEPT OFFICE
+
+ -->
 
 
 ### Instructors
@@ -111,7 +122,7 @@ You will find links to individual readings in the detailed [schedule of topics](
 
 
 
-We will use the UCL [Moodle](https://moodle-1819.ucl.ac.uk/course/view.php?id=6599) only to send announcements and as the portal for submitting and receiving summative essays.
+We will use the UCL [Moodle](https://moodle-1819.ucl.ac.uk/course/view.php?id=6599) to send announcements and as the portal for submitting and receiving summative essays.
 
 <!-- A folder with all the assigned and supplemental readings is posted  
 [here](https://www.dropbox.com/sh/6co6o1lykiw13uf/AAAOD2ZQkDpU9psqM2IndYbia?dl=0). -->

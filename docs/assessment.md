@@ -44,16 +44,19 @@ I will setup a page for real time collaborative editing with additional features
 
     + [writing philosophy](http://www.jimpryor.net/teaching/guidelines/writing.html)
 
-- Further notes on writring a philosophy paper [pdf](https://www.dropbox.com/s/tr17ghgmuhj3owp/notes-on-writing-phi.pdf?dl=0)
+- Further notes on writing a philosophy paper [pdf](https://www.dropbox.com/s/tr17ghgmuhj3owp/notes-on-writing-phi.pdf?dl=0)
 
 - Writing exercises for bringing literary techniques into the rational order of a philosophical essay writing [pdf](https://www.dropbox.com/s/gcimmgp65wcrfs4/writing_exercises_adv.pdf?dl=0)
 
 - Examples of excellent work done in other iterations of the module [pdf](https://www.dropbox.com/s/c1c5ykhzsxdpyys/moralpsych_sample_essay.pdf?dl=0)
 
-<!-- link to folder with 'Disolving the paradox of grief' and eventually others -->
+<!-- link to folder with 'Dissolving the paradox of grief' and eventually others -->
 
-- Automated feedback tool from [*ecree*](https://www.ecree.com/signup). It can be a useful tool. If there is interest I will set-up an account for our module. Talk to me at the beginning of seminar if there is interest.
-
+- Automated feedback tool from [*ECREE*](https://www.ecree.com/student). It is a very useful tool with demonstrated positive effects. It is currently available to use for free. Given the circumstances I highly recommend at least giving it a try.
+  
+<!-- 
+If there is interest I will set-up an account for our module. Talk to me at the beginning of seminar if there is interest.
+ -->
 
 
 

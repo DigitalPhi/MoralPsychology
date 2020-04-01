@@ -158,7 +158,7 @@ David Velleman, 'Beyond price' [pdf](https://github.com/UCL-PHIL/3097/blob/gh-pa
 
 Susan Wolf, 'Morality and partiality' [pdf](https://www.dropbox.com/s/ycr2coivzncw3l5/Wolf%20-%20Partiality%20Morality.pdf?dl=0), Philosophical Perspectives, 6 (1992), pp. 243- 259
 
-  <!-- - handout on Wolf [pdf](https://www.dropbox.com/s/k94j5rd044i7mwm/wolf-love-partiality.pdf?dl=0)  -->
+  - handout on Wolf [pdf](https://www.dropbox.com/s/k94j5rd044i7mwm/wolf-love-partiality.pdf?dl=0)
 
 
 *Even further topics*
