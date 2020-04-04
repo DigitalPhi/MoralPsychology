@@ -8,15 +8,13 @@ Week 1
 
 *Topics*
 
-<!--  central concepts and distinctions -->
+Overview of central concepts and distinctions
 
 *Reading*
 
 G.E.M. Anscombe, ["Modern moral philosophy"](https://www.dropbox.com/s/i3iqx4cy2o9cm8k/Anscombe%20-%20Modern_Moral_Philosophy.pdf?dl=0)
 
 [handout](https://www.dropbox.com/s/161ak3qp8yepyem/mmp-nv-ho1.pdf?dl=0)
-
-<!-- handout on morality and other practical concepts -- an overview -->
 
 
 *Further reading*
@@ -57,13 +55,13 @@ The nature of desire and its relation to reasons. Active and passive relations t
 
 Richard Moran, "Frankfurt on identification: ambiguities of activity in mental life." pp. 189-217. [link](https://www.dropbox.com/s/y0x961osh0owbut/Moran-Frankfurt-Ambiguities.pdf?dl=0)
 
-  - handout to come
+  - handout on Moran and the problems of moral psychology [pdf](https://www.dropbox.com/s/shxuyimuzu9p8vt/moral-psyc-intro-lecture%20copy.pdf?dl=0)
 
 
 Christine M. Korsgaard, "The normative question" in *The Sources of Normativity*, pp. 7-21 [link](https://www.dropbox.com/s/h5ic8klzkq7xudl/Christine%20M.%20Korsgaard%20The%20Sources%20of%20Normativity%20%201996.pdf?dl=0)
 
 
-  - handout [pdf](https://www.dropbox.com/s/vcj7iom5cgakuz2/korsgaard_ho%20copy.pdf?dl=0)
+  - handout on Korsgaard [pdf](https://www.dropbox.com/s/vcj7iom5cgakuz2/korsgaard_ho%20copy.pdf?dl=0)
 
 
 *Further reading*
@@ -356,7 +354,7 @@ What is the origin of feelings of shame? Of guilt? Do they serve a purpose? How 
 Bernard Williams, [*Shame and Necessity*](https://www.dropbox.com/s/77hrsxt7q6f2b2y/Williams%20-%20ShameNecessity.pdf?dl=0) pp. 75-102, 219-223
 
 
-<!-- - [handout-shame](https://www.dropbox.com/s/jkczrmnojtcmeu5/shame_jl_ho.pdf?dl=0) -->
+- handout on shame [pdf](https://www.dropbox.com/s/22xlupufgd6cpw1/shame_ho.pdf?dl=0)
 
 *Further readings*
 

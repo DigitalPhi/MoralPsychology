@@ -3,14 +3,17 @@
 ## Summative essay
 
 Questions will be distributed in advance. You are very welcome to propose your own, but topics must be approved by the instructors before with a week after reading week.
-<!-- 
-* A couple topics on have been added to the initial, extensive set [pdf](https://www.dropbox.com/s/gtn4wnk11qz1swa/summative-essay-topics.pdf?dl=0) -->
+
+* A couple topics on have been added to the initial, extensive set [pdf](https://www.dropbox.com/s/fbmzpxqtlmjf5se/summative-essay-topics.pdf?dl=0)
 
 * For BA candidates an essay of 3500 words maximum. (This may consist of either a single 3500 word essay or two papers one 1500 words and the other 2000 words.)
 * For MA/MPhil candidates an essay of 4500 words maximum.
-* Due date for the summative essay is TBA 
+* Due date for the summative essay has been extended to **400pm, Monday 04 May 2020**
   
-<!-- the standard submission deadline for term 2 -->
+
+
+Please find the submission link for your upcoming summative essay [here](https://moodle.ucl.ac.uk/mod/assign/view.php?id=1741467).
+Please note the submission link is via the module moodle page only.
 
 
 ## Formative essay
@@ -48,7 +51,7 @@ I will setup a page for real time collaborative editing with additional features
 
 - Writing exercises for bringing literary techniques into the rational order of a philosophical essay writing [pdf](https://www.dropbox.com/s/gcimmgp65wcrfs4/writing_exercises_adv.pdf?dl=0)
 
-- Examples of excellent work done in other iterations of the module [pdf](https://www.dropbox.com/s/c1c5ykhzsxdpyys/moralpsych_sample_essay.pdf?dl=0)
+- Example of excellent work done in other iterations of the module [pdf](https://www.dropbox.com/s/c1c5ykhzsxdpyys/moralpsych_sample_essay.pdf?dl=0)
 
 <!-- link to folder with 'Dissolving the paradox of grief' and eventually others -->
 
